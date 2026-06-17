@@ -1,0 +1,3261 @@
+{
+  "influencers": [
+    {
+      "id": "coringa",
+      "name": "Coringa",
+      "password": "Coringa",
+      "stories": 17
+    },
+    {
+      "id": "m12",
+      "name": "M12",
+      "password": "M12",
+      "stories": 14
+    },
+    {
+      "id": "brabox",
+      "name": "Brabox",
+      "password": "Brabox",
+      "stories": 16
+    },
+    {
+      "id": "gabepeixe",
+      "name": "GabePeixe",
+      "password": "GabePeixe",
+      "stories": 16
+    },
+    {
+      "id": "millerzeira",
+      "name": "Millerzeira",
+      "password": "Millerzeira",
+      "stories": 32
+    },
+    {
+      "id": "cenas",
+      "name": "Cenas Lamentáveis",
+      "password": "Cenas Lamentáveis",
+      "stories": 18
+    },
+    {
+      "id": "mari",
+      "name": "Mari Spinelli",
+      "password": "Mari Spinelli",
+      "stories": 9
+    },
+    {
+      "id": "cole",
+      "name": "Cole Markin",
+      "password": "Cole Markin",
+      "stories": 16
+    },
+    {
+      "id": "2nalinha",
+      "name": "2na Linha 1no Gol",
+      "password": "2na Linha 1no Gol",
+      "stories": 17
+    },
+    {
+      "id": "robgol",
+      "name": "Robgol",
+      "password": "Robgol",
+      "stories": 17
+    },
+    {
+      "id": "pedro",
+      "name": "Pedro Souza",
+      "password": "Pedro Souza",
+      "stories": 16
+    },
+    {
+      "id": "bela",
+      "name": "Bela Barroso",
+      "password": "Bela Barroso",
+      "stories": 16
+    }
+  ],
+  "games": [
+    {
+      "id": "g001",
+      "phase": "Grupos",
+      "iso": "2026-06-11",
+      "matchup": "México × África do Sul",
+      "br": false,
+      "abertura": true
+    },
+    {
+      "id": "g002",
+      "phase": "Grupos",
+      "iso": "2026-06-13",
+      "matchup": "Brasil × Marrocos",
+      "br": true,
+      "abertura": false
+    },
+    {
+      "id": "g003",
+      "phase": "Grupos",
+      "iso": "2026-06-19",
+      "matchup": "Brasil × Haiti",
+      "br": true,
+      "abertura": false
+    },
+    {
+      "id": "g004",
+      "phase": "Grupos (3ª rodada)",
+      "iso": "2026-06-24",
+      "matchup": "Escócia × Brasil",
+      "br": true,
+      "abertura": false
+    },
+    {
+      "id": "g005",
+      "phase": "Grupos",
+      "iso": "2026-06-14",
+      "matchup": "Alemanha × Curaçau",
+      "br": false,
+      "abertura": false
+    },
+    {
+      "id": "g006",
+      "phase": "Grupos",
+      "iso": "2026-06-15",
+      "matchup": "Espanha × Cabo Verde",
+      "br": false,
+      "abertura": false
+    },
+    {
+      "id": "g007",
+      "phase": "Grupos",
+      "iso": "2026-06-16",
+      "matchup": "França × Senegal",
+      "br": false,
+      "abertura": false
+    },
+    {
+      "id": "g008",
+      "phase": "Grupos",
+      "iso": "2026-06-16",
+      "matchup": "Argentina × Argélia",
+      "br": false,
+      "abertura": false
+    },
+    {
+      "id": "g009",
+      "phase": "Grupos",
+      "iso": "2026-06-17",
+      "matchup": "Inglaterra × Croácia",
+      "br": false,
+      "abertura": false
+    },
+    {
+      "id": "g010",
+      "phase": "Grupos",
+      "iso": "2026-06-22",
+      "matchup": "Argentina × Áustria",
+      "br": false,
+      "abertura": false
+    },
+    {
+      "id": "g011",
+      "phase": "Grupos",
+      "iso": "2026-06-22",
+      "matchup": "França × Iraque",
+      "br": false,
+      "abertura": false
+    },
+    {
+      "id": "g012",
+      "phase": "Grupos (3ª rodada)",
+      "iso": "2026-06-26",
+      "matchup": "Noruega × França",
+      "br": false,
+      "abertura": false
+    },
+    {
+      "id": "g013",
+      "phase": "Grupos (3ª rodada)",
+      "iso": "2026-06-26",
+      "matchup": "Uruguai × Espanha",
+      "br": false,
+      "abertura": false
+    },
+    {
+      "id": "g014",
+      "phase": "Grupos (3ª rodada)",
+      "iso": "2026-06-27",
+      "matchup": "Colômbia × Portugal",
+      "br": false,
+      "abertura": false
+    },
+    {
+      "id": "g015",
+      "phase": "Grupos (3ª rodada)",
+      "iso": "2026-06-27",
+      "matchup": "Jordânia × Argentina",
+      "br": false,
+      "abertura": false
+    },
+    {
+      "id": "g016",
+      "phase": "Grupos",
+      "iso": "2026-06-14",
+      "matchup": "Holanda × Japão",
+      "br": false,
+      "abertura": false
+    },
+    {
+      "id": "g017",
+      "phase": "Grupos",
+      "iso": "2026-06-15",
+      "matchup": "Bélgica × Egito",
+      "br": false,
+      "abertura": false
+    },
+    {
+      "id": "g018",
+      "phase": "Grupos",
+      "iso": "2026-06-17",
+      "matchup": "Portugal × Rep. D. Congo",
+      "br": false,
+      "abertura": false
+    },
+    {
+      "id": "g019",
+      "phase": "Grupos",
+      "iso": "2026-06-20",
+      "matchup": "Holanda × Suécia",
+      "br": false,
+      "abertura": false
+    },
+    {
+      "id": "g020",
+      "phase": "Grupos",
+      "iso": "2026-06-20",
+      "matchup": "Alemanha × Costa Marfim",
+      "br": false,
+      "abertura": false
+    },
+    {
+      "id": "g021",
+      "phase": "Grupos",
+      "iso": "2026-06-21",
+      "matchup": "Espanha × Arábia Saudita",
+      "br": false,
+      "abertura": false
+    },
+    {
+      "id": "g022",
+      "phase": "Grupos",
+      "iso": "2026-06-21",
+      "matchup": "Bélgica × Irã",
+      "br": false,
+      "abertura": false
+    },
+    {
+      "id": "g023",
+      "phase": "Grupos",
+      "iso": "2026-06-23",
+      "matchup": "Portugal × Uzbequistão",
+      "br": false,
+      "abertura": false
+    },
+    {
+      "id": "g024",
+      "phase": "Grupos",
+      "iso": "2026-06-23",
+      "matchup": "Inglaterra × Gana",
+      "br": false,
+      "abertura": false
+    },
+    {
+      "id": "g025",
+      "phase": "Grupos (3ª rodada)",
+      "iso": "2026-06-24",
+      "matchup": "Suíça × Canadá",
+      "br": false,
+      "abertura": false
+    },
+    {
+      "id": "g026",
+      "phase": "Grupos (3ª rodada)",
+      "iso": "2026-06-25",
+      "matchup": "Equador × Alemanha",
+      "br": false,
+      "abertura": false
+    },
+    {
+      "id": "g027",
+      "phase": "Grupos (3ª rodada)",
+      "iso": "2026-06-25",
+      "matchup": "Japão × Suécia",
+      "br": false,
+      "abertura": false
+    },
+    {
+      "id": "g028",
+      "phase": "Grupos (3ª rodada)",
+      "iso": "2026-06-25",
+      "matchup": "Tunísia × Holanda",
+      "br": false,
+      "abertura": false
+    },
+    {
+      "id": "g029",
+      "phase": "Grupos (3ª rodada)",
+      "iso": "2026-06-25",
+      "matchup": "Turquia × EUA",
+      "br": false,
+      "abertura": false
+    },
+    {
+      "id": "g030",
+      "phase": "Grupos (3ª rodada)",
+      "iso": "2026-06-26",
+      "matchup": "Nova Zelândia × Bélgica",
+      "br": false,
+      "abertura": false
+    },
+    {
+      "id": "g031",
+      "phase": "Grupos (3ª rodada)",
+      "iso": "2026-06-27",
+      "matchup": "Panamá × Inglaterra",
+      "br": false,
+      "abertura": false
+    },
+    {
+      "id": "g032",
+      "phase": "32-avos",
+      "iso": "2026-06-28",
+      "matchup": "32-avos — Jogo 73",
+      "br": false,
+      "abertura": false
+    },
+    {
+      "id": "g033",
+      "phase": "32-avos",
+      "iso": "2026-06-29",
+      "matchup": "32-avos — Jogo 74",
+      "br": false,
+      "abertura": false
+    },
+    {
+      "id": "g034",
+      "phase": "32-avos",
+      "iso": "2026-06-29",
+      "matchup": "32-avos — Jogo 75",
+      "br": false,
+      "abertura": false
+    },
+    {
+      "id": "g035",
+      "phase": "32-avos",
+      "iso": "2026-06-29",
+      "matchup": "32-avos — Jogo 76",
+      "br": false,
+      "abertura": false
+    },
+    {
+      "id": "g036",
+      "phase": "32-avos",
+      "iso": "2026-06-30",
+      "matchup": "32-avos — Jogo 77",
+      "br": false,
+      "abertura": false
+    },
+    {
+      "id": "g037",
+      "phase": "32-avos",
+      "iso": "2026-06-30",
+      "matchup": "32-avos — Jogo 78",
+      "br": false,
+      "abertura": false
+    },
+    {
+      "id": "g038",
+      "phase": "32-avos",
+      "iso": "2026-06-30",
+      "matchup": "32-avos — Jogo 79",
+      "br": false,
+      "abertura": false
+    },
+    {
+      "id": "g039",
+      "phase": "32-avos",
+      "iso": "2026-07-01",
+      "matchup": "32-avos — Jogo 80",
+      "br": false,
+      "abertura": false
+    },
+    {
+      "id": "g040",
+      "phase": "32-avos",
+      "iso": "2026-07-01",
+      "matchup": "32-avos — Jogo 81",
+      "br": false,
+      "abertura": false
+    },
+    {
+      "id": "g041",
+      "phase": "32-avos",
+      "iso": "2026-07-01",
+      "matchup": "32-avos — Jogo 82",
+      "br": false,
+      "abertura": false
+    },
+    {
+      "id": "g042",
+      "phase": "32-avos",
+      "iso": "2026-07-02",
+      "matchup": "32-avos — Jogo 83",
+      "br": false,
+      "abertura": false
+    },
+    {
+      "id": "g043",
+      "phase": "32-avos",
+      "iso": "2026-07-02",
+      "matchup": "32-avos — Jogo 84",
+      "br": false,
+      "abertura": false
+    },
+    {
+      "id": "g044",
+      "phase": "32-avos",
+      "iso": "2026-07-02",
+      "matchup": "32-avos — Jogo 85",
+      "br": false,
+      "abertura": false
+    },
+    {
+      "id": "g045",
+      "phase": "32-avos",
+      "iso": "2026-07-03",
+      "matchup": "32-avos — Jogo 86",
+      "br": false,
+      "abertura": false
+    },
+    {
+      "id": "g046",
+      "phase": "32-avos",
+      "iso": "2026-07-03",
+      "matchup": "32-avos — Jogo 87",
+      "br": false,
+      "abertura": false
+    },
+    {
+      "id": "g047",
+      "phase": "32-avos",
+      "iso": "2026-07-03",
+      "matchup": "32-avos — Jogo 88",
+      "br": false,
+      "abertura": false
+    },
+    {
+      "id": "g048",
+      "phase": "Oitavas",
+      "iso": "2026-07-04",
+      "matchup": "Oitavas — Jogo 89",
+      "br": false,
+      "abertura": false
+    },
+    {
+      "id": "g049",
+      "phase": "Oitavas",
+      "iso": "2026-07-04",
+      "matchup": "Oitavas — Jogo 90",
+      "br": false,
+      "abertura": false
+    },
+    {
+      "id": "g050",
+      "phase": "Oitavas",
+      "iso": "2026-07-05",
+      "matchup": "Oitavas — Jogo 91",
+      "br": false,
+      "abertura": false
+    },
+    {
+      "id": "g051",
+      "phase": "Oitavas",
+      "iso": "2026-07-05",
+      "matchup": "Oitavas — Jogo 92",
+      "br": false,
+      "abertura": false
+    },
+    {
+      "id": "g052",
+      "phase": "Oitavas",
+      "iso": "2026-07-06",
+      "matchup": "Oitavas — Jogo 93",
+      "br": false,
+      "abertura": false
+    },
+    {
+      "id": "g053",
+      "phase": "Oitavas",
+      "iso": "2026-07-06",
+      "matchup": "Oitavas — Jogo 94",
+      "br": false,
+      "abertura": false
+    },
+    {
+      "id": "g054",
+      "phase": "Oitavas",
+      "iso": "2026-07-07",
+      "matchup": "Oitavas — Jogo 95",
+      "br": false,
+      "abertura": false
+    },
+    {
+      "id": "g055",
+      "phase": "Oitavas",
+      "iso": "2026-07-07",
+      "matchup": "Oitavas — Jogo 96",
+      "br": false,
+      "abertura": false
+    },
+    {
+      "id": "g056",
+      "phase": "Quartas",
+      "iso": "2026-07-09",
+      "matchup": "Quartas — Jogo 97",
+      "br": false,
+      "abertura": false
+    },
+    {
+      "id": "g057",
+      "phase": "Quartas",
+      "iso": "2026-07-10",
+      "matchup": "Quartas — Jogo 98",
+      "br": false,
+      "abertura": false
+    },
+    {
+      "id": "g058",
+      "phase": "Quartas",
+      "iso": "2026-07-12",
+      "matchup": "Quartas — Jogo 99",
+      "br": false,
+      "abertura": false
+    },
+    {
+      "id": "g059",
+      "phase": "Quartas",
+      "iso": "2026-07-12",
+      "matchup": "Quartas — Jogo 100",
+      "br": false,
+      "abertura": false
+    },
+    {
+      "id": "g060",
+      "phase": "Semifinais",
+      "iso": "2026-07-14",
+      "matchup": "Semifinal 1",
+      "br": false,
+      "abertura": false
+    },
+    {
+      "id": "g061",
+      "phase": "Semifinais",
+      "iso": "2026-07-15",
+      "matchup": "Semifinal 2",
+      "br": false,
+      "abertura": false
+    },
+    {
+      "id": "g062",
+      "phase": "3º Lugar",
+      "iso": "2026-07-18",
+      "matchup": "3º Lugar",
+      "br": false,
+      "abertura": false
+    },
+    {
+      "id": "g063",
+      "phase": "Final",
+      "iso": "2026-07-19",
+      "matchup": "FINAL Copa 2026",
+      "br": false,
+      "abertura": false
+    }
+  ],
+  "briefing": {},
+  "schedule": {
+    "coringa": {
+      "g001": [
+        {
+          "type": "Story",
+          "delivery_num": 1,
+          "ideal_time": "",
+          "hours_before": "",
+          "roteiro": "",
+          "cta": "",
+          "odds": "",
+          "link": "",
+          "status": "pendente"
+        }
+      ],
+      "g002": [
+        {
+          "type": "Story",
+          "delivery_num": 2,
+          "ideal_time": "",
+          "hours_before": "",
+          "roteiro": "",
+          "cta": "",
+          "odds": "",
+          "link": "",
+          "status": "pendente"
+        }
+      ],
+      "g003": [
+        {
+          "type": "Story",
+          "delivery_num": 3,
+          "ideal_time": "",
+          "hours_before": "",
+          "roteiro": "",
+          "cta": "",
+          "odds": "",
+          "link": "",
+          "status": "pendente"
+        }
+      ],
+      "g004": [
+        {
+          "type": "Story",
+          "delivery_num": 4,
+          "ideal_time": "",
+          "hours_before": "",
+          "roteiro": "",
+          "cta": "",
+          "odds": "",
+          "link": "",
+          "status": "pendente"
+        }
+      ],
+      "g009": [
+        {
+          "type": "Story",
+          "delivery_num": 5,
+          "ideal_time": "",
+          "hours_before": "",
+          "roteiro": "",
+          "cta": "",
+          "odds": "",
+          "link": "",
+          "status": "pendente"
+        }
+      ],
+      "g010": [
+        {
+          "type": "Story",
+          "delivery_num": 6,
+          "ideal_time": "",
+          "hours_before": "",
+          "roteiro": "",
+          "cta": "",
+          "odds": "",
+          "link": "",
+          "status": "pendente"
+        }
+      ],
+      "g016": [
+        {
+          "type": "Story",
+          "delivery_num": 7,
+          "ideal_time": "",
+          "hours_before": "",
+          "roteiro": "",
+          "cta": "",
+          "odds": "",
+          "link": "",
+          "status": "pendente"
+        }
+      ],
+      "g032": [
+        {
+          "type": "Story",
+          "delivery_num": 8,
+          "ideal_time": "",
+          "hours_before": "",
+          "roteiro": "",
+          "cta": "",
+          "odds": "",
+          "link": "",
+          "status": "pendente"
+        }
+      ],
+      "g047": [
+        {
+          "type": "Story",
+          "delivery_num": 9,
+          "ideal_time": "",
+          "hours_before": "",
+          "roteiro": "",
+          "cta": "",
+          "odds": "",
+          "link": "",
+          "status": "pendente"
+        }
+      ],
+      "g048": [
+        {
+          "type": "Story",
+          "delivery_num": 10,
+          "ideal_time": "",
+          "hours_before": "",
+          "roteiro": "",
+          "cta": "",
+          "odds": "",
+          "link": "",
+          "status": "pendente"
+        }
+      ],
+      "g052": [
+        {
+          "type": "Story",
+          "delivery_num": 11,
+          "ideal_time": "",
+          "hours_before": "",
+          "roteiro": "",
+          "cta": "",
+          "odds": "",
+          "link": "",
+          "status": "pendente"
+        }
+      ],
+      "g056": [
+        {
+          "type": "Story",
+          "delivery_num": 12,
+          "ideal_time": "",
+          "hours_before": "",
+          "roteiro": "",
+          "cta": "",
+          "odds": "",
+          "link": "",
+          "status": "pendente"
+        }
+      ],
+      "g059": [
+        {
+          "type": "Story",
+          "delivery_num": 13,
+          "ideal_time": "",
+          "hours_before": "",
+          "roteiro": "",
+          "cta": "",
+          "odds": "",
+          "link": "",
+          "status": "pendente"
+        }
+      ],
+      "g060": [
+        {
+          "type": "Story",
+          "delivery_num": 14,
+          "ideal_time": "",
+          "hours_before": "",
+          "roteiro": "",
+          "cta": "",
+          "odds": "",
+          "link": "",
+          "status": "pendente"
+        }
+      ],
+      "g061": [
+        {
+          "type": "Story",
+          "delivery_num": 15,
+          "ideal_time": "",
+          "hours_before": "",
+          "roteiro": "",
+          "cta": "",
+          "odds": "",
+          "link": "",
+          "status": "pendente"
+        }
+      ],
+      "g062": [
+        {
+          "type": "Story",
+          "delivery_num": 16,
+          "ideal_time": "",
+          "hours_before": "",
+          "roteiro": "",
+          "cta": "",
+          "odds": "",
+          "link": "",
+          "status": "pendente"
+        }
+      ],
+      "g063": [
+        {
+          "type": "Story",
+          "delivery_num": 17,
+          "ideal_time": "",
+          "hours_before": "",
+          "roteiro": "",
+          "cta": "",
+          "odds": "",
+          "link": "",
+          "status": "pendente"
+        }
+      ]
+    },
+    "m12": {
+      "g002": [
+        {
+          "type": "Story",
+          "delivery_num": 1,
+          "ideal_time": "",
+          "hours_before": "",
+          "roteiro": "",
+          "cta": "",
+          "odds": "",
+          "link": "",
+          "status": "pendente"
+        }
+      ],
+      "g003": [
+        {
+          "type": "Story",
+          "delivery_num": 2,
+          "ideal_time": "",
+          "hours_before": "",
+          "roteiro": "",
+          "cta": "",
+          "odds": "",
+          "link": "",
+          "status": "pendente"
+        }
+      ],
+      "g004": [
+        {
+          "type": "Story",
+          "delivery_num": 3,
+          "ideal_time": "",
+          "hours_before": "",
+          "roteiro": "",
+          "cta": "",
+          "odds": "",
+          "link": "",
+          "status": "pendente"
+        }
+      ],
+      "g006": [
+        {
+          "type": "Story",
+          "delivery_num": 4,
+          "ideal_time": "",
+          "hours_before": "",
+          "roteiro": "",
+          "cta": "",
+          "odds": "",
+          "link": "",
+          "status": "pendente"
+        }
+      ],
+      "g033": [
+        {
+          "type": "Story",
+          "delivery_num": 5,
+          "ideal_time": "",
+          "hours_before": "",
+          "roteiro": "",
+          "cta": "",
+          "odds": "",
+          "link": "",
+          "status": "pendente"
+        }
+      ],
+      "g046": [
+        {
+          "type": "Story",
+          "delivery_num": 6,
+          "ideal_time": "",
+          "hours_before": "",
+          "roteiro": "",
+          "cta": "",
+          "odds": "",
+          "link": "",
+          "status": "pendente"
+        }
+      ],
+      "g049": [
+        {
+          "type": "Story",
+          "delivery_num": 7,
+          "ideal_time": "",
+          "hours_before": "",
+          "roteiro": "",
+          "cta": "",
+          "odds": "",
+          "link": "",
+          "status": "pendente"
+        }
+      ],
+      "g053": [
+        {
+          "type": "Story",
+          "delivery_num": 8,
+          "ideal_time": "",
+          "hours_before": "",
+          "roteiro": "",
+          "cta": "",
+          "odds": "",
+          "link": "",
+          "status": "pendente"
+        }
+      ],
+      "g057": [
+        {
+          "type": "Story",
+          "delivery_num": 9,
+          "ideal_time": "",
+          "hours_before": "",
+          "roteiro": "",
+          "cta": "",
+          "odds": "",
+          "link": "",
+          "status": "pendente"
+        }
+      ],
+      "g058": [
+        {
+          "type": "Story",
+          "delivery_num": 10,
+          "ideal_time": "",
+          "hours_before": "",
+          "roteiro": "",
+          "cta": "",
+          "odds": "",
+          "link": "",
+          "status": "pendente"
+        }
+      ],
+      "g060": [
+        {
+          "type": "Story",
+          "delivery_num": 11,
+          "ideal_time": "",
+          "hours_before": "",
+          "roteiro": "",
+          "cta": "",
+          "odds": "",
+          "link": "",
+          "status": "pendente"
+        }
+      ],
+      "g061": [
+        {
+          "type": "Story",
+          "delivery_num": 12,
+          "ideal_time": "",
+          "hours_before": "",
+          "roteiro": "",
+          "cta": "",
+          "odds": "",
+          "link": "",
+          "status": "pendente"
+        }
+      ],
+      "g062": [
+        {
+          "type": "Story",
+          "delivery_num": 13,
+          "ideal_time": "",
+          "hours_before": "",
+          "roteiro": "",
+          "cta": "",
+          "odds": "",
+          "link": "",
+          "status": "pendente"
+        }
+      ],
+      "g063": [
+        {
+          "type": "Story",
+          "delivery_num": 14,
+          "ideal_time": "",
+          "hours_before": "",
+          "roteiro": "",
+          "cta": "",
+          "odds": "",
+          "link": "",
+          "status": "pendente"
+        }
+      ]
+    },
+    "brabox": {
+      "g002": [
+        {
+          "type": "Story",
+          "delivery_num": 1,
+          "ideal_time": "",
+          "hours_before": "",
+          "roteiro": "",
+          "cta": "",
+          "odds": "",
+          "link": "",
+          "status": "pendente"
+        }
+      ],
+      "g003": [
+        {
+          "type": "Story",
+          "delivery_num": 2,
+          "ideal_time": "",
+          "hours_before": "",
+          "roteiro": "",
+          "cta": "",
+          "odds": "",
+          "link": "",
+          "status": "pendente"
+        }
+      ],
+      "g004": [
+        {
+          "type": "Story",
+          "delivery_num": 3,
+          "ideal_time": "",
+          "hours_before": "",
+          "roteiro": "",
+          "cta": "",
+          "odds": "",
+          "link": "",
+          "status": "pendente"
+        }
+      ],
+      "g008": [
+        {
+          "type": "Story",
+          "delivery_num": 4,
+          "ideal_time": "",
+          "hours_before": "",
+          "roteiro": "",
+          "cta": "",
+          "odds": "",
+          "link": "",
+          "status": "pendente"
+        }
+      ],
+      "g018": [
+        {
+          "type": "Story",
+          "delivery_num": 5,
+          "ideal_time": "",
+          "hours_before": "",
+          "roteiro": "",
+          "cta": "",
+          "odds": "",
+          "link": "",
+          "status": "pendente"
+        }
+      ],
+      "g034": [
+        {
+          "type": "Story",
+          "delivery_num": 6,
+          "ideal_time": "",
+          "hours_before": "",
+          "roteiro": "",
+          "cta": "",
+          "odds": "",
+          "link": "",
+          "status": "pendente"
+        }
+      ],
+      "g045": [
+        {
+          "type": "Story",
+          "delivery_num": 7,
+          "ideal_time": "",
+          "hours_before": "",
+          "roteiro": "",
+          "cta": "",
+          "odds": "",
+          "link": "",
+          "status": "pendente"
+        }
+      ],
+      "g050": [
+        {
+          "type": "Story",
+          "delivery_num": 8,
+          "ideal_time": "",
+          "hours_before": "",
+          "roteiro": "",
+          "cta": "",
+          "odds": "",
+          "link": "",
+          "status": "pendente"
+        }
+      ],
+      "g054": [
+        {
+          "type": "Story",
+          "delivery_num": 9,
+          "ideal_time": "",
+          "hours_before": "",
+          "roteiro": "",
+          "cta": "",
+          "odds": "",
+          "link": "",
+          "status": "pendente"
+        }
+      ],
+      "g056": [
+        {
+          "type": "Story",
+          "delivery_num": 10,
+          "ideal_time": "",
+          "hours_before": "",
+          "roteiro": "",
+          "cta": "",
+          "odds": "",
+          "link": "",
+          "status": "pendente"
+        }
+      ],
+      "g057": [
+        {
+          "type": "Story",
+          "delivery_num": 11,
+          "ideal_time": "",
+          "hours_before": "",
+          "roteiro": "",
+          "cta": "",
+          "odds": "",
+          "link": "",
+          "status": "pendente"
+        }
+      ],
+      "g059": [
+        {
+          "type": "Story",
+          "delivery_num": 12,
+          "ideal_time": "",
+          "hours_before": "",
+          "roteiro": "",
+          "cta": "",
+          "odds": "",
+          "link": "",
+          "status": "pendente"
+        }
+      ],
+      "g060": [
+        {
+          "type": "Story",
+          "delivery_num": 13,
+          "ideal_time": "",
+          "hours_before": "",
+          "roteiro": "",
+          "cta": "",
+          "odds": "",
+          "link": "",
+          "status": "pendente"
+        }
+      ],
+      "g061": [
+        {
+          "type": "Story",
+          "delivery_num": 14,
+          "ideal_time": "",
+          "hours_before": "",
+          "roteiro": "",
+          "cta": "",
+          "odds": "",
+          "link": "",
+          "status": "pendente"
+        }
+      ],
+      "g062": [
+        {
+          "type": "Story",
+          "delivery_num": 15,
+          "ideal_time": "",
+          "hours_before": "",
+          "roteiro": "",
+          "cta": "",
+          "odds": "",
+          "link": "",
+          "status": "pendente"
+        }
+      ],
+      "g063": [
+        {
+          "type": "Story",
+          "delivery_num": 16,
+          "ideal_time": "",
+          "hours_before": "",
+          "roteiro": "",
+          "cta": "",
+          "odds": "",
+          "link": "",
+          "status": "pendente"
+        }
+      ]
+    },
+    "gabepeixe": {
+      "g002": [
+        {
+          "type": "Story",
+          "delivery_num": 1,
+          "ideal_time": "",
+          "hours_before": "",
+          "roteiro": "",
+          "cta": "",
+          "odds": "",
+          "link": "",
+          "status": "pendente"
+        }
+      ],
+      "g003": [
+        {
+          "type": "Story",
+          "delivery_num": 2,
+          "ideal_time": "",
+          "hours_before": "",
+          "roteiro": "",
+          "cta": "",
+          "odds": "",
+          "link": "",
+          "status": "pendente"
+        }
+      ],
+      "g004": [
+        {
+          "type": "Story",
+          "delivery_num": 3,
+          "ideal_time": "",
+          "hours_before": "",
+          "roteiro": "",
+          "cta": "",
+          "odds": "",
+          "link": "",
+          "status": "pendente"
+        }
+      ],
+      "g011": [
+        {
+          "type": "Story",
+          "delivery_num": 4,
+          "ideal_time": "",
+          "hours_before": "",
+          "roteiro": "",
+          "cta": "",
+          "odds": "",
+          "link": "",
+          "status": "pendente"
+        }
+      ],
+      "g035": [
+        {
+          "type": "Story",
+          "delivery_num": 5,
+          "ideal_time": "",
+          "hours_before": "",
+          "roteiro": "",
+          "cta": "",
+          "odds": "",
+          "link": "",
+          "status": "pendente"
+        }
+      ],
+      "g044": [
+        {
+          "type": "Story",
+          "delivery_num": 6,
+          "ideal_time": "",
+          "hours_before": "",
+          "roteiro": "",
+          "cta": "",
+          "odds": "",
+          "link": "",
+          "status": "pendente"
+        }
+      ],
+      "g051": [
+        {
+          "type": "Story",
+          "delivery_num": 7,
+          "ideal_time": "",
+          "hours_before": "",
+          "roteiro": "",
+          "cta": "",
+          "odds": "",
+          "link": "",
+          "status": "pendente"
+        }
+      ],
+      "g055": [
+        {
+          "type": "Story",
+          "delivery_num": 8,
+          "ideal_time": "",
+          "hours_before": "",
+          "roteiro": "",
+          "cta": "",
+          "odds": "",
+          "link": "",
+          "status": "pendente"
+        }
+      ],
+      "g056": [
+        {
+          "type": "Story",
+          "delivery_num": 9,
+          "ideal_time": "",
+          "hours_before": "",
+          "roteiro": "",
+          "cta": "",
+          "odds": "",
+          "link": "",
+          "status": "pendente"
+        }
+      ],
+      "g057": [
+        {
+          "type": "Story",
+          "delivery_num": 10,
+          "ideal_time": "",
+          "hours_before": "",
+          "roteiro": "",
+          "cta": "",
+          "odds": "",
+          "link": "",
+          "status": "pendente"
+        }
+      ],
+      "g058": [
+        {
+          "type": "Story",
+          "delivery_num": 11,
+          "ideal_time": "",
+          "hours_before": "",
+          "roteiro": "",
+          "cta": "",
+          "odds": "",
+          "link": "",
+          "status": "pendente"
+        }
+      ],
+      "g059": [
+        {
+          "type": "Story",
+          "delivery_num": 12,
+          "ideal_time": "",
+          "hours_before": "",
+          "roteiro": "",
+          "cta": "",
+          "odds": "",
+          "link": "",
+          "status": "pendente"
+        }
+      ],
+      "g060": [
+        {
+          "type": "Story",
+          "delivery_num": 13,
+          "ideal_time": "",
+          "hours_before": "",
+          "roteiro": "",
+          "cta": "",
+          "odds": "",
+          "link": "",
+          "status": "pendente"
+        }
+      ],
+      "g061": [
+        {
+          "type": "Story",
+          "delivery_num": 14,
+          "ideal_time": "",
+          "hours_before": "",
+          "roteiro": "",
+          "cta": "",
+          "odds": "",
+          "link": "",
+          "status": "pendente"
+        }
+      ],
+      "g062": [
+        {
+          "type": "Story",
+          "delivery_num": 15,
+          "ideal_time": "",
+          "hours_before": "",
+          "roteiro": "",
+          "cta": "",
+          "odds": "",
+          "link": "",
+          "status": "pendente"
+        }
+      ],
+      "g063": [
+        {
+          "type": "Story",
+          "delivery_num": 16,
+          "ideal_time": "",
+          "hours_before": "",
+          "roteiro": "",
+          "cta": "",
+          "odds": "",
+          "link": "",
+          "status": "pendente"
+        }
+      ]
+    },
+    "millerzeira": {
+      "g001": [
+        {
+          "type": "Story",
+          "delivery_num": 1,
+          "ideal_time": "",
+          "hours_before": "",
+          "roteiro": "",
+          "cta": "",
+          "odds": "",
+          "link": "",
+          "status": "pendente"
+        }
+      ],
+      "g002": [
+        {
+          "type": "Story",
+          "delivery_num": 2,
+          "ideal_time": "",
+          "hours_before": "",
+          "roteiro": "",
+          "cta": "",
+          "odds": "",
+          "link": "",
+          "status": "pendente"
+        }
+      ],
+      "g003": [
+        {
+          "type": "Story",
+          "delivery_num": 3,
+          "ideal_time": "",
+          "hours_before": "",
+          "roteiro": "",
+          "cta": "",
+          "odds": "",
+          "link": "",
+          "status": "pendente"
+        }
+      ],
+      "g004": [
+        {
+          "type": "Story",
+          "delivery_num": 4,
+          "ideal_time": "",
+          "hours_before": "",
+          "roteiro": "",
+          "cta": "",
+          "odds": "",
+          "link": "",
+          "status": "pendente"
+        }
+      ],
+      "g007": [
+        {
+          "type": "Story",
+          "delivery_num": 5,
+          "ideal_time": "",
+          "hours_before": "",
+          "roteiro": "",
+          "cta": "",
+          "odds": "",
+          "link": "",
+          "status": "pendente"
+        }
+      ],
+      "g008": [
+        {
+          "type": "Story",
+          "delivery_num": 6,
+          "ideal_time": "",
+          "hours_before": "",
+          "roteiro": "",
+          "cta": "",
+          "odds": "",
+          "link": "",
+          "status": "pendente"
+        }
+      ],
+      "g009": [
+        {
+          "type": "Story",
+          "delivery_num": 7,
+          "ideal_time": "",
+          "hours_before": "",
+          "roteiro": "",
+          "cta": "",
+          "odds": "",
+          "link": "",
+          "status": "pendente"
+        }
+      ],
+      "g011": [
+        {
+          "type": "Story",
+          "delivery_num": 8,
+          "ideal_time": "",
+          "hours_before": "",
+          "roteiro": "",
+          "cta": "",
+          "odds": "",
+          "link": "",
+          "status": "pendente"
+        }
+      ],
+      "g012": [
+        {
+          "type": "Story",
+          "delivery_num": 9,
+          "ideal_time": "",
+          "hours_before": "",
+          "roteiro": "",
+          "cta": "",
+          "odds": "",
+          "link": "",
+          "status": "pendente"
+        }
+      ],
+      "g013": [
+        {
+          "type": "Story",
+          "delivery_num": 10,
+          "ideal_time": "",
+          "hours_before": "",
+          "roteiro": "",
+          "cta": "",
+          "odds": "",
+          "link": "",
+          "status": "pendente"
+        }
+      ],
+      "g014": [
+        {
+          "type": "Story",
+          "delivery_num": 11,
+          "ideal_time": "",
+          "hours_before": "",
+          "roteiro": "",
+          "cta": "",
+          "odds": "",
+          "link": "",
+          "status": "pendente"
+        }
+      ],
+      "g015": [
+        {
+          "type": "Story",
+          "delivery_num": 12,
+          "ideal_time": "",
+          "hours_before": "",
+          "roteiro": "",
+          "cta": "",
+          "odds": "",
+          "link": "",
+          "status": "pendente"
+        }
+      ],
+      "g016": [
+        {
+          "type": "Story",
+          "delivery_num": 13,
+          "ideal_time": "",
+          "hours_before": "",
+          "roteiro": "",
+          "cta": "",
+          "odds": "",
+          "link": "",
+          "status": "pendente"
+        }
+      ],
+      "g025": [
+        {
+          "type": "Story",
+          "delivery_num": 14,
+          "ideal_time": "",
+          "hours_before": "",
+          "roteiro": "",
+          "cta": "",
+          "odds": "",
+          "link": "",
+          "status": "pendente"
+        }
+      ],
+      "g026": [
+        {
+          "type": "Story",
+          "delivery_num": 15,
+          "ideal_time": "",
+          "hours_before": "",
+          "roteiro": "",
+          "cta": "",
+          "odds": "",
+          "link": "",
+          "status": "pendente"
+        }
+      ],
+      "g031": [
+        {
+          "type": "Story",
+          "delivery_num": 16,
+          "ideal_time": "",
+          "hours_before": "",
+          "roteiro": "",
+          "cta": "",
+          "odds": "",
+          "link": "",
+          "status": "pendente"
+        }
+      ],
+      "g033": [
+        {
+          "type": "Story",
+          "delivery_num": 17,
+          "ideal_time": "",
+          "hours_before": "",
+          "roteiro": "",
+          "cta": "",
+          "odds": "",
+          "link": "",
+          "status": "pendente"
+        }
+      ],
+      "g036": [
+        {
+          "type": "Story",
+          "delivery_num": 18,
+          "ideal_time": "",
+          "hours_before": "",
+          "roteiro": "",
+          "cta": "",
+          "odds": "",
+          "link": "",
+          "status": "pendente"
+        }
+      ],
+      "g043": [
+        {
+          "type": "Story",
+          "delivery_num": 19,
+          "ideal_time": "",
+          "hours_before": "",
+          "roteiro": "",
+          "cta": "",
+          "odds": "",
+          "link": "",
+          "status": "pendente"
+        }
+      ],
+      "g047": [
+        {
+          "type": "Story",
+          "delivery_num": 20,
+          "ideal_time": "",
+          "hours_before": "",
+          "roteiro": "",
+          "cta": "",
+          "odds": "",
+          "link": "",
+          "status": "pendente"
+        }
+      ],
+      "g048": [
+        {
+          "type": "Story",
+          "delivery_num": 21,
+          "ideal_time": "",
+          "hours_before": "",
+          "roteiro": "",
+          "cta": "",
+          "odds": "",
+          "link": "",
+          "status": "pendente"
+        }
+      ],
+      "g051": [
+        {
+          "type": "Story",
+          "delivery_num": 22,
+          "ideal_time": "",
+          "hours_before": "",
+          "roteiro": "",
+          "cta": "",
+          "odds": "",
+          "link": "",
+          "status": "pendente"
+        }
+      ],
+      "g052": [
+        {
+          "type": "Story",
+          "delivery_num": 23,
+          "ideal_time": "",
+          "hours_before": "",
+          "roteiro": "",
+          "cta": "",
+          "odds": "",
+          "link": "",
+          "status": "pendente"
+        }
+      ],
+      "g055": [
+        {
+          "type": "Story",
+          "delivery_num": 24,
+          "ideal_time": "",
+          "hours_before": "",
+          "roteiro": "",
+          "cta": "",
+          "odds": "",
+          "link": "",
+          "status": "pendente"
+        }
+      ],
+      "g056": [
+        {
+          "type": "Story",
+          "delivery_num": 25,
+          "ideal_time": "",
+          "hours_before": "",
+          "roteiro": "",
+          "cta": "",
+          "odds": "",
+          "link": "",
+          "status": "pendente"
+        }
+      ],
+      "g057": [
+        {
+          "type": "Story",
+          "delivery_num": 26,
+          "ideal_time": "",
+          "hours_before": "",
+          "roteiro": "",
+          "cta": "",
+          "odds": "",
+          "link": "",
+          "status": "pendente"
+        }
+      ],
+      "g058": [
+        {
+          "type": "Story",
+          "delivery_num": 27,
+          "ideal_time": "",
+          "hours_before": "",
+          "roteiro": "",
+          "cta": "",
+          "odds": "",
+          "link": "",
+          "status": "pendente"
+        }
+      ],
+      "g059": [
+        {
+          "type": "Story",
+          "delivery_num": 28,
+          "ideal_time": "",
+          "hours_before": "",
+          "roteiro": "",
+          "cta": "",
+          "odds": "",
+          "link": "",
+          "status": "pendente"
+        }
+      ],
+      "g060": [
+        {
+          "type": "Story",
+          "delivery_num": 29,
+          "ideal_time": "",
+          "hours_before": "",
+          "roteiro": "",
+          "cta": "",
+          "odds": "",
+          "link": "",
+          "status": "pendente"
+        }
+      ],
+      "g061": [
+        {
+          "type": "Story",
+          "delivery_num": 30,
+          "ideal_time": "",
+          "hours_before": "",
+          "roteiro": "",
+          "cta": "",
+          "odds": "",
+          "link": "",
+          "status": "pendente"
+        }
+      ],
+      "g062": [
+        {
+          "type": "Story",
+          "delivery_num": 31,
+          "ideal_time": "",
+          "hours_before": "",
+          "roteiro": "",
+          "cta": "",
+          "odds": "",
+          "link": "",
+          "status": "pendente"
+        }
+      ],
+      "g063": [
+        {
+          "type": "Story",
+          "delivery_num": 32,
+          "ideal_time": "",
+          "hours_before": "",
+          "roteiro": "",
+          "cta": "",
+          "odds": "",
+          "link": "",
+          "status": "pendente"
+        }
+      ]
+    },
+    "pedro": {
+      "g002": [
+        {
+          "type": "Story",
+          "delivery_num": 1,
+          "ideal_time": "",
+          "hours_before": "",
+          "roteiro": "",
+          "cta": "",
+          "odds": "",
+          "link": "",
+          "status": "pendente"
+        }
+      ],
+      "g003": [
+        {
+          "type": "Story",
+          "delivery_num": 2,
+          "ideal_time": "",
+          "hours_before": "",
+          "roteiro": "",
+          "cta": "",
+          "odds": "",
+          "link": "",
+          "status": "pendente"
+        }
+      ],
+      "g004": [
+        {
+          "type": "Story",
+          "delivery_num": 3,
+          "ideal_time": "",
+          "hours_before": "",
+          "roteiro": "",
+          "cta": "",
+          "odds": "",
+          "link": "",
+          "status": "pendente"
+        }
+      ],
+      "g010": [
+        {
+          "type": "Story",
+          "delivery_num": 4,
+          "ideal_time": "",
+          "hours_before": "",
+          "roteiro": "",
+          "cta": "",
+          "odds": "",
+          "link": "",
+          "status": "pendente"
+        }
+      ],
+      "g016": [
+        {
+          "type": "Story",
+          "delivery_num": 5,
+          "ideal_time": "",
+          "hours_before": "",
+          "roteiro": "",
+          "cta": "",
+          "odds": "",
+          "link": "",
+          "status": "pendente"
+        }
+      ],
+      "g037": [
+        {
+          "type": "Story",
+          "delivery_num": 6,
+          "ideal_time": "",
+          "hours_before": "",
+          "roteiro": "",
+          "cta": "",
+          "odds": "",
+          "link": "",
+          "status": "pendente"
+        }
+      ],
+      "g042": [
+        {
+          "type": "Story",
+          "delivery_num": 7,
+          "ideal_time": "",
+          "hours_before": "",
+          "roteiro": "",
+          "cta": "",
+          "odds": "",
+          "link": "",
+          "status": "pendente"
+        }
+      ],
+      "g049": [
+        {
+          "type": "Story",
+          "delivery_num": 8,
+          "ideal_time": "",
+          "hours_before": "",
+          "roteiro": "",
+          "cta": "",
+          "odds": "",
+          "link": "",
+          "status": "pendente"
+        }
+      ],
+      "g053": [
+        {
+          "type": "Story",
+          "delivery_num": 9,
+          "ideal_time": "",
+          "hours_before": "",
+          "roteiro": "",
+          "cta": "",
+          "odds": "",
+          "link": "",
+          "status": "pendente"
+        }
+      ],
+      "g056": [
+        {
+          "type": "Story",
+          "delivery_num": 10,
+          "ideal_time": "",
+          "hours_before": "",
+          "roteiro": "",
+          "cta": "",
+          "odds": "",
+          "link": "",
+          "status": "pendente"
+        }
+      ],
+      "g058": [
+        {
+          "type": "Story",
+          "delivery_num": 11,
+          "ideal_time": "",
+          "hours_before": "",
+          "roteiro": "",
+          "cta": "",
+          "odds": "",
+          "link": "",
+          "status": "pendente"
+        }
+      ],
+      "g059": [
+        {
+          "type": "Story",
+          "delivery_num": 12,
+          "ideal_time": "",
+          "hours_before": "",
+          "roteiro": "",
+          "cta": "",
+          "odds": "",
+          "link": "",
+          "status": "pendente"
+        }
+      ],
+      "g060": [
+        {
+          "type": "Story",
+          "delivery_num": 13,
+          "ideal_time": "",
+          "hours_before": "",
+          "roteiro": "",
+          "cta": "",
+          "odds": "",
+          "link": "",
+          "status": "pendente"
+        }
+      ],
+      "g061": [
+        {
+          "type": "Story",
+          "delivery_num": 14,
+          "ideal_time": "",
+          "hours_before": "",
+          "roteiro": "",
+          "cta": "",
+          "odds": "",
+          "link": "",
+          "status": "pendente"
+        }
+      ],
+      "g062": [
+        {
+          "type": "Story",
+          "delivery_num": 15,
+          "ideal_time": "",
+          "hours_before": "",
+          "roteiro": "",
+          "cta": "",
+          "odds": "",
+          "link": "",
+          "status": "pendente"
+        }
+      ],
+      "g063": [
+        {
+          "type": "Story",
+          "delivery_num": 16,
+          "ideal_time": "",
+          "hours_before": "",
+          "roteiro": "",
+          "cta": "",
+          "odds": "",
+          "link": "",
+          "status": "pendente"
+        }
+      ]
+    },
+    "robgol": {
+      "g001": [
+        {
+          "type": "Story",
+          "delivery_num": 1,
+          "ideal_time": "",
+          "hours_before": "",
+          "roteiro": "",
+          "cta": "",
+          "odds": "",
+          "link": "",
+          "status": "pendente"
+        }
+      ],
+      "g002": [
+        {
+          "type": "Story",
+          "delivery_num": 2,
+          "ideal_time": "",
+          "hours_before": "",
+          "roteiro": "",
+          "cta": "",
+          "odds": "",
+          "link": "",
+          "status": "pendente"
+        }
+      ],
+      "g003": [
+        {
+          "type": "Story",
+          "delivery_num": 3,
+          "ideal_time": "",
+          "hours_before": "",
+          "roteiro": "",
+          "cta": "",
+          "odds": "",
+          "link": "",
+          "status": "pendente"
+        }
+      ],
+      "g004": [
+        {
+          "type": "Story",
+          "delivery_num": 4,
+          "ideal_time": "",
+          "hours_before": "",
+          "roteiro": "",
+          "cta": "",
+          "odds": "",
+          "link": "",
+          "status": "pendente"
+        }
+      ],
+      "g007": [
+        {
+          "type": "Story",
+          "delivery_num": 5,
+          "ideal_time": "",
+          "hours_before": "",
+          "roteiro": "",
+          "cta": "",
+          "odds": "",
+          "link": "",
+          "status": "pendente"
+        }
+      ],
+      "g010": [
+        {
+          "type": "Story",
+          "delivery_num": 6,
+          "ideal_time": "",
+          "hours_before": "",
+          "roteiro": "",
+          "cta": "",
+          "odds": "",
+          "link": "",
+          "status": "pendente"
+        }
+      ],
+      "g026": [
+        {
+          "type": "Story",
+          "delivery_num": 7,
+          "ideal_time": "",
+          "hours_before": "",
+          "roteiro": "",
+          "cta": "",
+          "odds": "",
+          "link": "",
+          "status": "pendente"
+        }
+      ],
+      "g038": [
+        {
+          "type": "Story",
+          "delivery_num": 8,
+          "ideal_time": "",
+          "hours_before": "",
+          "roteiro": "",
+          "cta": "",
+          "odds": "",
+          "link": "",
+          "status": "pendente"
+        }
+      ],
+      "g041": [
+        {
+          "type": "Story",
+          "delivery_num": 9,
+          "ideal_time": "",
+          "hours_before": "",
+          "roteiro": "",
+          "cta": "",
+          "odds": "",
+          "link": "",
+          "status": "pendente"
+        }
+      ],
+      "g050": [
+        {
+          "type": "Story",
+          "delivery_num": 10,
+          "ideal_time": "",
+          "hours_before": "",
+          "roteiro": "",
+          "cta": "",
+          "odds": "",
+          "link": "",
+          "status": "pendente"
+        }
+      ],
+      "g054": [
+        {
+          "type": "Story",
+          "delivery_num": 11,
+          "ideal_time": "",
+          "hours_before": "",
+          "roteiro": "",
+          "cta": "",
+          "odds": "",
+          "link": "",
+          "status": "pendente"
+        }
+      ],
+      "g057": [
+        {
+          "type": "Story",
+          "delivery_num": 12,
+          "ideal_time": "",
+          "hours_before": "",
+          "roteiro": "",
+          "cta": "",
+          "odds": "",
+          "link": "",
+          "status": "pendente"
+        }
+      ],
+      "g058": [
+        {
+          "type": "Story",
+          "delivery_num": 13,
+          "ideal_time": "",
+          "hours_before": "",
+          "roteiro": "",
+          "cta": "",
+          "odds": "",
+          "link": "",
+          "status": "pendente"
+        }
+      ],
+      "g060": [
+        {
+          "type": "Story",
+          "delivery_num": 14,
+          "ideal_time": "",
+          "hours_before": "",
+          "roteiro": "",
+          "cta": "",
+          "odds": "",
+          "link": "",
+          "status": "pendente"
+        }
+      ],
+      "g061": [
+        {
+          "type": "Story",
+          "delivery_num": 15,
+          "ideal_time": "",
+          "hours_before": "",
+          "roteiro": "",
+          "cta": "",
+          "odds": "",
+          "link": "",
+          "status": "pendente"
+        }
+      ],
+      "g062": [
+        {
+          "type": "Story",
+          "delivery_num": 16,
+          "ideal_time": "",
+          "hours_before": "",
+          "roteiro": "",
+          "cta": "",
+          "odds": "",
+          "link": "",
+          "status": "pendente"
+        }
+      ],
+      "g063": [
+        {
+          "type": "Story",
+          "delivery_num": 17,
+          "ideal_time": "",
+          "hours_before": "",
+          "roteiro": "",
+          "cta": "",
+          "odds": "",
+          "link": "",
+          "status": "pendente"
+        }
+      ]
+    },
+    "2nalinha": {
+      "g001": [
+        {
+          "type": "Story",
+          "delivery_num": 1,
+          "ideal_time": "",
+          "hours_before": "",
+          "roteiro": "",
+          "cta": "",
+          "odds": "",
+          "link": "",
+          "status": "pendente"
+        }
+      ],
+      "g002": [
+        {
+          "type": "Story",
+          "delivery_num": 2,
+          "ideal_time": "",
+          "hours_before": "",
+          "roteiro": "",
+          "cta": "",
+          "odds": "",
+          "link": "",
+          "status": "pendente"
+        }
+      ],
+      "g003": [
+        {
+          "type": "Story",
+          "delivery_num": 3,
+          "ideal_time": "",
+          "hours_before": "",
+          "roteiro": "",
+          "cta": "",
+          "odds": "",
+          "link": "",
+          "status": "pendente"
+        }
+      ],
+      "g004": [
+        {
+          "type": "Story",
+          "delivery_num": 4,
+          "ideal_time": "",
+          "hours_before": "",
+          "roteiro": "",
+          "cta": "",
+          "odds": "",
+          "link": "",
+          "status": "pendente"
+        }
+      ],
+      "g009": [
+        {
+          "type": "Story",
+          "delivery_num": 5,
+          "ideal_time": "",
+          "hours_before": "",
+          "roteiro": "",
+          "cta": "",
+          "odds": "",
+          "link": "",
+          "status": "pendente"
+        }
+      ],
+      "g011": [
+        {
+          "type": "Story",
+          "delivery_num": 6,
+          "ideal_time": "",
+          "hours_before": "",
+          "roteiro": "",
+          "cta": "",
+          "odds": "",
+          "link": "",
+          "status": "pendente"
+        }
+      ],
+      "g026": [
+        {
+          "type": "Story",
+          "delivery_num": 7,
+          "ideal_time": "",
+          "hours_before": "",
+          "roteiro": "",
+          "cta": "",
+          "odds": "",
+          "link": "",
+          "status": "pendente"
+        }
+      ],
+      "g039": [
+        {
+          "type": "Story",
+          "delivery_num": 8,
+          "ideal_time": "",
+          "hours_before": "",
+          "roteiro": "",
+          "cta": "",
+          "odds": "",
+          "link": "",
+          "status": "pendente"
+        }
+      ],
+      "g040": [
+        {
+          "type": "Story",
+          "delivery_num": 9,
+          "ideal_time": "",
+          "hours_before": "",
+          "roteiro": "",
+          "cta": "",
+          "odds": "",
+          "link": "",
+          "status": "pendente"
+        }
+      ],
+      "g051": [
+        {
+          "type": "Story",
+          "delivery_num": 10,
+          "ideal_time": "",
+          "hours_before": "",
+          "roteiro": "",
+          "cta": "",
+          "odds": "",
+          "link": "",
+          "status": "pendente"
+        }
+      ],
+      "g055": [
+        {
+          "type": "Story",
+          "delivery_num": 11,
+          "ideal_time": "",
+          "hours_before": "",
+          "roteiro": "",
+          "cta": "",
+          "odds": "",
+          "link": "",
+          "status": "pendente"
+        }
+      ],
+      "g056": [
+        {
+          "type": "Story",
+          "delivery_num": 12,
+          "ideal_time": "",
+          "hours_before": "",
+          "roteiro": "",
+          "cta": "",
+          "odds": "",
+          "link": "",
+          "status": "pendente"
+        }
+      ],
+      "g059": [
+        {
+          "type": "Story",
+          "delivery_num": 13,
+          "ideal_time": "",
+          "hours_before": "",
+          "roteiro": "",
+          "cta": "",
+          "odds": "",
+          "link": "",
+          "status": "pendente"
+        }
+      ],
+      "g060": [
+        {
+          "type": "Story",
+          "delivery_num": 14,
+          "ideal_time": "",
+          "hours_before": "",
+          "roteiro": "",
+          "cta": "",
+          "odds": "",
+          "link": "",
+          "status": "pendente"
+        }
+      ],
+      "g061": [
+        {
+          "type": "Story",
+          "delivery_num": 15,
+          "ideal_time": "",
+          "hours_before": "",
+          "roteiro": "",
+          "cta": "",
+          "odds": "",
+          "link": "",
+          "status": "pendente"
+        }
+      ],
+      "g062": [
+        {
+          "type": "Story",
+          "delivery_num": 16,
+          "ideal_time": "",
+          "hours_before": "",
+          "roteiro": "",
+          "cta": "",
+          "odds": "",
+          "link": "",
+          "status": "pendente"
+        }
+      ],
+      "g063": [
+        {
+          "type": "Story",
+          "delivery_num": 17,
+          "ideal_time": "",
+          "hours_before": "",
+          "roteiro": "",
+          "cta": "",
+          "odds": "",
+          "link": "",
+          "status": "pendente"
+        }
+      ]
+    },
+    "bela": {
+      "g002": [
+        {
+          "type": "Story",
+          "delivery_num": 1,
+          "ideal_time": "",
+          "hours_before": "",
+          "roteiro": "",
+          "cta": "",
+          "odds": "",
+          "link": "",
+          "status": "pendente"
+        }
+      ],
+      "g003": [
+        {
+          "type": "Story",
+          "delivery_num": 2,
+          "ideal_time": "",
+          "hours_before": "",
+          "roteiro": "",
+          "cta": "",
+          "odds": "",
+          "link": "",
+          "status": "pendente"
+        }
+      ],
+      "g004": [
+        {
+          "type": "Story",
+          "delivery_num": 3,
+          "ideal_time": "",
+          "hours_before": "",
+          "roteiro": "",
+          "cta": "",
+          "odds": "",
+          "link": "",
+          "status": "pendente"
+        }
+      ],
+      "g006": [
+        {
+          "type": "Story",
+          "delivery_num": 4,
+          "ideal_time": "",
+          "hours_before": "",
+          "roteiro": "",
+          "cta": "",
+          "odds": "",
+          "link": "",
+          "status": "pendente"
+        }
+      ],
+      "g017": [
+        {
+          "type": "Story",
+          "delivery_num": 5,
+          "ideal_time": "",
+          "hours_before": "",
+          "roteiro": "",
+          "cta": "",
+          "odds": "",
+          "link": "",
+          "status": "pendente"
+        }
+      ],
+      "g032": [
+        {
+          "type": "Story",
+          "delivery_num": 6,
+          "ideal_time": "",
+          "hours_before": "",
+          "roteiro": "",
+          "cta": "",
+          "odds": "",
+          "link": "",
+          "status": "pendente"
+        }
+      ],
+      "g047": [
+        {
+          "type": "Story",
+          "delivery_num": 7,
+          "ideal_time": "",
+          "hours_before": "",
+          "roteiro": "",
+          "cta": "",
+          "odds": "",
+          "link": "",
+          "status": "pendente"
+        }
+      ],
+      "g048": [
+        {
+          "type": "Story",
+          "delivery_num": 8,
+          "ideal_time": "",
+          "hours_before": "",
+          "roteiro": "",
+          "cta": "",
+          "odds": "",
+          "link": "",
+          "status": "pendente"
+        }
+      ],
+      "g052": [
+        {
+          "type": "Story",
+          "delivery_num": 9,
+          "ideal_time": "",
+          "hours_before": "",
+          "roteiro": "",
+          "cta": "",
+          "odds": "",
+          "link": "",
+          "status": "pendente"
+        }
+      ],
+      "g056": [
+        {
+          "type": "Story",
+          "delivery_num": 10,
+          "ideal_time": "",
+          "hours_before": "",
+          "roteiro": "",
+          "cta": "",
+          "odds": "",
+          "link": "",
+          "status": "pendente"
+        }
+      ],
+      "g057": [
+        {
+          "type": "Story",
+          "delivery_num": 11,
+          "ideal_time": "",
+          "hours_before": "",
+          "roteiro": "",
+          "cta": "",
+          "odds": "",
+          "link": "",
+          "status": "pendente"
+        }
+      ],
+      "g058": [
+        {
+          "type": "Story",
+          "delivery_num": 12,
+          "ideal_time": "",
+          "hours_before": "",
+          "roteiro": "",
+          "cta": "",
+          "odds": "",
+          "link": "",
+          "status": "pendente"
+        }
+      ],
+      "g060": [
+        {
+          "type": "Story",
+          "delivery_num": 13,
+          "ideal_time": "",
+          "hours_before": "",
+          "roteiro": "",
+          "cta": "",
+          "odds": "",
+          "link": "",
+          "status": "pendente"
+        }
+      ],
+      "g061": [
+        {
+          "type": "Story",
+          "delivery_num": 14,
+          "ideal_time": "",
+          "hours_before": "",
+          "roteiro": "",
+          "cta": "",
+          "odds": "",
+          "link": "",
+          "status": "pendente"
+        }
+      ],
+      "g062": [
+        {
+          "type": "Story",
+          "delivery_num": 15,
+          "ideal_time": "",
+          "hours_before": "",
+          "roteiro": "",
+          "cta": "",
+          "odds": "",
+          "link": "",
+          "status": "pendente"
+        }
+      ],
+      "g063": [
+        {
+          "type": "Story",
+          "delivery_num": 16,
+          "ideal_time": "",
+          "hours_before": "",
+          "roteiro": "",
+          "cta": "",
+          "odds": "",
+          "link": "",
+          "status": "pendente"
+        }
+      ]
+    },
+    "cole": {
+      "g001": [
+        {
+          "type": "Story",
+          "delivery_num": 1,
+          "ideal_time": "",
+          "hours_before": "",
+          "roteiro": "",
+          "cta": "",
+          "odds": "",
+          "link": "",
+          "status": "pendente"
+        }
+      ],
+      "g002": [
+        {
+          "type": "Story",
+          "delivery_num": 2,
+          "ideal_time": "",
+          "hours_before": "",
+          "roteiro": "",
+          "cta": "",
+          "odds": "",
+          "link": "",
+          "status": "pendente"
+        }
+      ],
+      "g003": [
+        {
+          "type": "Story",
+          "delivery_num": 3,
+          "ideal_time": "",
+          "hours_before": "",
+          "roteiro": "",
+          "cta": "",
+          "odds": "",
+          "link": "",
+          "status": "pendente"
+        }
+      ],
+      "g004": [
+        {
+          "type": "Story",
+          "delivery_num": 4,
+          "ideal_time": "",
+          "hours_before": "",
+          "roteiro": "",
+          "cta": "",
+          "odds": "",
+          "link": "",
+          "status": "pendente"
+        }
+      ],
+      "g005": [
+        {
+          "type": "Story",
+          "delivery_num": 5,
+          "ideal_time": "",
+          "hours_before": "",
+          "roteiro": "",
+          "cta": "",
+          "odds": "",
+          "link": "",
+          "status": "pendente"
+        }
+      ],
+      "g010": [
+        {
+          "type": "Story",
+          "delivery_num": 6,
+          "ideal_time": "",
+          "hours_before": "",
+          "roteiro": "",
+          "cta": "",
+          "odds": "",
+          "link": "",
+          "status": "pendente"
+        }
+      ],
+      "g033": [
+        {
+          "type": "Story",
+          "delivery_num": 7,
+          "ideal_time": "",
+          "hours_before": "",
+          "roteiro": "",
+          "cta": "",
+          "odds": "",
+          "link": "",
+          "status": "pendente"
+        }
+      ],
+      "g046": [
+        {
+          "type": "Story",
+          "delivery_num": 8,
+          "ideal_time": "",
+          "hours_before": "",
+          "roteiro": "",
+          "cta": "",
+          "odds": "",
+          "link": "",
+          "status": "pendente"
+        }
+      ],
+      "g049": [
+        {
+          "type": "Story",
+          "delivery_num": 9,
+          "ideal_time": "",
+          "hours_before": "",
+          "roteiro": "",
+          "cta": "",
+          "odds": "",
+          "link": "",
+          "status": "pendente"
+        }
+      ],
+      "g053": [
+        {
+          "type": "Story",
+          "delivery_num": 10,
+          "ideal_time": "",
+          "hours_before": "",
+          "roteiro": "",
+          "cta": "",
+          "odds": "",
+          "link": "",
+          "status": "pendente"
+        }
+      ],
+      "g056": [
+        {
+          "type": "Story",
+          "delivery_num": 11,
+          "ideal_time": "",
+          "hours_before": "",
+          "roteiro": "",
+          "cta": "",
+          "odds": "",
+          "link": "",
+          "status": "pendente"
+        }
+      ],
+      "g059": [
+        {
+          "type": "Story",
+          "delivery_num": 12,
+          "ideal_time": "",
+          "hours_before": "",
+          "roteiro": "",
+          "cta": "",
+          "odds": "",
+          "link": "",
+          "status": "pendente"
+        }
+      ],
+      "g060": [
+        {
+          "type": "Story",
+          "delivery_num": 13,
+          "ideal_time": "",
+          "hours_before": "",
+          "roteiro": "",
+          "cta": "",
+          "odds": "",
+          "link": "",
+          "status": "pendente"
+        }
+      ],
+      "g061": [
+        {
+          "type": "Story",
+          "delivery_num": 14,
+          "ideal_time": "",
+          "hours_before": "",
+          "roteiro": "",
+          "cta": "",
+          "odds": "",
+          "link": "",
+          "status": "pendente"
+        }
+      ],
+      "g062": [
+        {
+          "type": "Story",
+          "delivery_num": 15,
+          "ideal_time": "",
+          "hours_before": "",
+          "roteiro": "",
+          "cta": "",
+          "odds": "",
+          "link": "",
+          "status": "pendente"
+        }
+      ],
+      "g063": [
+        {
+          "type": "Story",
+          "delivery_num": 16,
+          "ideal_time": "",
+          "hours_before": "",
+          "roteiro": "",
+          "cta": "",
+          "odds": "",
+          "link": "",
+          "status": "pendente"
+        }
+      ]
+    },
+    "mari": {
+      "g002": [
+        {
+          "type": "Story",
+          "delivery_num": 1,
+          "ideal_time": "",
+          "hours_before": "",
+          "roteiro": "",
+          "cta": "",
+          "odds": "",
+          "link": "",
+          "status": "pendente"
+        }
+      ],
+      "g003": [
+        {
+          "type": "Story",
+          "delivery_num": 2,
+          "ideal_time": "",
+          "hours_before": "",
+          "roteiro": "",
+          "cta": "",
+          "odds": "",
+          "link": "",
+          "status": "pendente"
+        }
+      ],
+      "g004": [
+        {
+          "type": "Story",
+          "delivery_num": 3,
+          "ideal_time": "",
+          "hours_before": "",
+          "roteiro": "",
+          "cta": "",
+          "odds": "",
+          "link": "",
+          "status": "pendente"
+        }
+      ],
+      "g057": [
+        {
+          "type": "Story",
+          "delivery_num": 4,
+          "ideal_time": "",
+          "hours_before": "",
+          "roteiro": "",
+          "cta": "",
+          "odds": "",
+          "link": "",
+          "status": "pendente"
+        }
+      ],
+      "g058": [
+        {
+          "type": "Story",
+          "delivery_num": 5,
+          "ideal_time": "",
+          "hours_before": "",
+          "roteiro": "",
+          "cta": "",
+          "odds": "",
+          "link": "",
+          "status": "pendente"
+        }
+      ],
+      "g060": [
+        {
+          "type": "Story",
+          "delivery_num": 6,
+          "ideal_time": "",
+          "hours_before": "",
+          "roteiro": "",
+          "cta": "",
+          "odds": "",
+          "link": "",
+          "status": "pendente"
+        }
+      ],
+      "g061": [
+        {
+          "type": "Story",
+          "delivery_num": 7,
+          "ideal_time": "",
+          "hours_before": "",
+          "roteiro": "",
+          "cta": "",
+          "odds": "",
+          "link": "",
+          "status": "pendente"
+        }
+      ],
+      "g062": [
+        {
+          "type": "Story",
+          "delivery_num": 8,
+          "ideal_time": "",
+          "hours_before": "",
+          "roteiro": "",
+          "cta": "",
+          "odds": "",
+          "link": "",
+          "status": "pendente"
+        }
+      ],
+      "g063": [
+        {
+          "type": "Story",
+          "delivery_num": 9,
+          "ideal_time": "",
+          "hours_before": "",
+          "roteiro": "",
+          "cta": "",
+          "odds": "",
+          "link": "",
+          "status": "pendente"
+        }
+      ]
+    },
+    "cenas": {
+      "g001": [
+        {
+          "type": "Story",
+          "delivery_num": 1,
+          "ideal_time": "",
+          "hours_before": "",
+          "roteiro": "",
+          "cta": "",
+          "odds": "",
+          "link": "",
+          "status": "pendente"
+        }
+      ],
+      "g002": [
+        {
+          "type": "Story",
+          "delivery_num": 2,
+          "ideal_time": "",
+          "hours_before": "",
+          "roteiro": "",
+          "cta": "",
+          "odds": "",
+          "link": "",
+          "status": "pendente"
+        }
+      ],
+      "g003": [
+        {
+          "type": "Story",
+          "delivery_num": 3,
+          "ideal_time": "",
+          "hours_before": "",
+          "roteiro": "",
+          "cta": "",
+          "odds": "",
+          "link": "",
+          "status": "pendente"
+        }
+      ],
+      "g004": [
+        {
+          "type": "Story",
+          "delivery_num": 4,
+          "ideal_time": "",
+          "hours_before": "",
+          "roteiro": "",
+          "cta": "",
+          "odds": "",
+          "link": "",
+          "status": "pendente"
+        }
+      ],
+      "g005": [
+        {
+          "type": "Story",
+          "delivery_num": 5,
+          "ideal_time": "",
+          "hours_before": "",
+          "roteiro": "",
+          "cta": "",
+          "odds": "",
+          "link": "",
+          "status": "pendente"
+        }
+      ],
+      "g009": [
+        {
+          "type": "Story",
+          "delivery_num": 6,
+          "ideal_time": "",
+          "hours_before": "",
+          "roteiro": "",
+          "cta": "",
+          "odds": "",
+          "link": "",
+          "status": "pendente"
+        }
+      ],
+      "g011": [
+        {
+          "type": "Story",
+          "delivery_num": 7,
+          "ideal_time": "",
+          "hours_before": "",
+          "roteiro": "",
+          "cta": "",
+          "odds": "",
+          "link": "",
+          "status": "pendente"
+        }
+      ],
+      "g026": [
+        {
+          "type": "Story",
+          "delivery_num": 8,
+          "ideal_time": "",
+          "hours_before": "",
+          "roteiro": "",
+          "cta": "",
+          "odds": "",
+          "link": "",
+          "status": "pendente"
+        }
+      ],
+      "g035": [
+        {
+          "type": "Story",
+          "delivery_num": 9,
+          "ideal_time": "",
+          "hours_before": "",
+          "roteiro": "",
+          "cta": "",
+          "odds": "",
+          "link": "",
+          "status": "pendente"
+        }
+      ],
+      "g044": [
+        {
+          "type": "Story",
+          "delivery_num": 10,
+          "ideal_time": "",
+          "hours_before": "",
+          "roteiro": "",
+          "cta": "",
+          "odds": "",
+          "link": "",
+          "status": "pendente"
+        }
+      ],
+      "g050": [
+        {
+          "type": "Story",
+          "delivery_num": 11,
+          "ideal_time": "",
+          "hours_before": "",
+          "roteiro": "",
+          "cta": "",
+          "odds": "",
+          "link": "",
+          "status": "pendente"
+        }
+      ],
+      "g054": [
+        {
+          "type": "Story",
+          "delivery_num": 12,
+          "ideal_time": "",
+          "hours_before": "",
+          "roteiro": "",
+          "cta": "",
+          "odds": "",
+          "link": "",
+          "status": "pendente"
+        }
+      ],
+      "g056": [
+        {
+          "type": "Story",
+          "delivery_num": 13,
+          "ideal_time": "",
+          "hours_before": "",
+          "roteiro": "",
+          "cta": "",
+          "odds": "",
+          "link": "",
+          "status": "pendente"
+        }
+      ],
+      "g059": [
+        {
+          "type": "Story",
+          "delivery_num": 14,
+          "ideal_time": "",
+          "hours_before": "",
+          "roteiro": "",
+          "cta": "",
+          "odds": "",
+          "link": "",
+          "status": "pendente"
+        }
+      ],
+      "g060": [
+        {
+          "type": "Story",
+          "delivery_num": 15,
+          "ideal_time": "",
+          "hours_before": "",
+          "roteiro": "",
+          "cta": "",
+          "odds": "",
+          "link": "",
+          "status": "pendente"
+        }
+      ],
+      "g061": [
+        {
+          "type": "Story",
+          "delivery_num": 16,
+          "ideal_time": "",
+          "hours_before": "",
+          "roteiro": "",
+          "cta": "",
+          "odds": "",
+          "link": "",
+          "status": "pendente"
+        }
+      ],
+      "g062": [
+        {
+          "type": "Story",
+          "delivery_num": 17,
+          "ideal_time": "",
+          "hours_before": "",
+          "roteiro": "",
+          "cta": "",
+          "odds": "",
+          "link": "",
+          "status": "pendente"
+        }
+      ],
+      "g063": [
+        {
+          "type": "Story",
+          "delivery_num": 18,
+          "ideal_time": "",
+          "hours_before": "",
+          "roteiro": "",
+          "cta": "",
+          "odds": "",
+          "link": "",
+          "status": "pendente"
+        }
+      ]
+    }
+  }
+}
