@@ -1,1 +1,3242 @@
-{"influencers":[{"id":"coringa","name":"Coringa","password":"Coringa","stories":19,"key":"a3f2b891"},{"id":"m12","name":"M12","password":"M12","stories":3,"key":"7c4e1d05"},{"id":"brabox","name":"Brabox","password":"Brabox","stories":19,"key":"f8a63c2e"},{"id":"gabepeixe","name":"GabePeixe","password":"GabePeixe","stories":16,"key":"b52d9f47"},{"id":"millerzeira","name":"Millerzeira","password":"Millerzeira","stories":22,"key":"3e8c0a61"},{"id":"cenas","name":"Cenas Lamentáveis","password":"Cenas Lamentáveis","stories":20,"key":"d19b74fe"},{"id":"cole","name":"Cole Markin","password":"Cole Markin","stories":19,"key":"9f4ab510"},{"id":"2nalinha","name":"2 Na Linha 1no Gol","password":"2 Na Linha 1no Gol","stories":20,"key":"c83d6e2f"},{"id":"robgol","name":"Robgol","password":"Robgol","stories":19,"key":"14e7a09b"},{"id":"pedro","name":"Pedro Souza","password":"Pedro Souza","stories":17,"key":"e5f31c84"},{"id":"bela","name":"Bela Barroso","password":"Bela Barroso","stories":16,"key":"72bc8d3a"},{"id":"rica","name":"Rica Perrone","password":"Rica Perrone","stories":20,"key":"5a1f9c30"}],"games":[{"id":"g001","phase":"Grupos","iso":"2026-06-11","matchup":"México × África do Sul","br":false,"abertura":true},{"id":"g002","phase":"Grupos","iso":"2026-06-13","matchup":"Brasil × Marrocos","br":true,"abertura":false},{"id":"g003","phase":"Grupos","iso":"2026-06-19","matchup":"Brasil × Haiti","br":true,"abertura":false},{"id":"g004","phase":"Grupos (3ª rodada)","iso":"2026-06-24","matchup":"Escócia × Brasil","br":true,"abertura":false},{"id":"g005","phase":"Grupos","iso":"2026-06-14","matchup":"Alemanha × Curaçau","br":false,"abertura":false},{"id":"g006","phase":"Grupos","iso":"2026-06-15","matchup":"Espanha × Cabo Verde","br":false,"abertura":false},{"id":"g007","phase":"Grupos","iso":"2026-06-16","matchup":"França × Senegal","br":false,"abertura":false},{"id":"g008","phase":"Grupos","iso":"2026-06-16","matchup":"Argentina × Argélia","br":false,"abertura":false},{"id":"g009","phase":"Grupos","iso":"2026-06-17","matchup":"Inglaterra × Croácia","br":false,"abertura":false},{"id":"g010","phase":"Grupos","iso":"2026-06-22","matchup":"Argentina × Áustria","br":false,"abertura":false},{"id":"g011","phase":"Grupos","iso":"2026-06-22","matchup":"França × Iraque","br":false,"abertura":false},{"id":"g012","phase":"Grupos (3ª rodada)","iso":"2026-06-26","matchup":"Noruega × França","br":false,"abertura":false},{"id":"g013","phase":"Grupos (3ª rodada)","iso":"2026-06-26","matchup":"Uruguai × Espanha","br":false,"abertura":false},{"id":"g014","phase":"Grupos (3ª rodada)","iso":"2026-06-27","matchup":"Colômbia × Portugal","br":false,"abertura":false},{"id":"g015","phase":"Grupos (3ª rodada)","iso":"2026-06-27","matchup":"Jordânia × Argentina","br":false,"abertura":false},{"id":"g016","phase":"Grupos","iso":"2026-06-14","matchup":"Holanda × Japão","br":false,"abertura":false},{"id":"g017","phase":"Grupos","iso":"2026-06-15","matchup":"Bélgica × Egito","br":false,"abertura":false},{"id":"g018","phase":"Grupos","iso":"2026-06-17","matchup":"Portugal × Rep. D. Congo","br":false,"abertura":false},{"id":"g019","phase":"Grupos","iso":"2026-06-20","matchup":"Holanda × Suécia","br":false,"abertura":false},{"id":"g020","phase":"Grupos","iso":"2026-06-20","matchup":"Alemanha × Costa Marfim","br":false,"abertura":false},{"id":"g021","phase":"Grupos","iso":"2026-06-21","matchup":"Espanha × Arábia Saudita","br":false,"abertura":false},{"id":"g022","phase":"Grupos","iso":"2026-06-21","matchup":"Bélgica × Irã","br":false,"abertura":false},{"id":"g023","phase":"Grupos","iso":"2026-06-23","matchup":"Portugal × Uzbequistão","br":false,"abertura":false},{"id":"g024","phase":"Grupos","iso":"2026-06-23","matchup":"Inglaterra × Gana","br":false,"abertura":false},{"id":"g025","phase":"Grupos (3ª rodada)","iso":"2026-06-24","matchup":"Suíça × Canadá","br":false,"abertura":false},{"id":"g026","phase":"Grupos (3ª rodada)","iso":"2026-06-25","matchup":"Equador × Alemanha","br":false,"abertura":false},{"id":"g027","phase":"Grupos (3ª rodada)","iso":"2026-06-25","matchup":"Japão × Suécia","br":false,"abertura":false},{"id":"g028","phase":"Grupos (3ª rodada)","iso":"2026-06-25","matchup":"Tunísia × Holanda","br":false,"abertura":false},{"id":"g029","phase":"Grupos (3ª rodada)","iso":"2026-06-25","matchup":"Turquia × EUA","br":false,"abertura":false},{"id":"g030","phase":"Grupos (3ª rodada)","iso":"2026-06-26","matchup":"Nova Zelândia × Bélgica","br":false,"abertura":false},{"id":"g031","phase":"Grupos (3ª rodada)","iso":"2026-06-27","matchup":"Panamá × Inglaterra","br":false,"abertura":false},{"id":"g032","phase":"32-avos","iso":"2026-06-28","matchup":"32-avos — Jogo 73","br":false,"abertura":false},{"id":"g033","phase":"32-avos","iso":"2026-06-29","matchup":"32-avos — Jogo 74","br":false,"abertura":false},{"id":"g034","phase":"32-avos","iso":"2026-06-29","matchup":"32-avos — Jogo 75","br":false,"abertura":false},{"id":"g035","phase":"32-avos","iso":"2026-06-29","matchup":"32-avos — Jogo 76","br":false,"abertura":false},{"id":"g036","phase":"32-avos","iso":"2026-06-30","matchup":"32-avos — Jogo 77","br":false,"abertura":false},{"id":"g037","phase":"32-avos","iso":"2026-06-30","matchup":"32-avos — Jogo 78","br":false,"abertura":false},{"id":"g038","phase":"32-avos","iso":"2026-06-30","matchup":"32-avos — Jogo 79","br":false,"abertura":false},{"id":"g039","phase":"32-avos","iso":"2026-07-01","matchup":"32-avos — Jogo 80","br":false,"abertura":false},{"id":"g040","phase":"32-avos","iso":"2026-07-01","matchup":"32-avos — Jogo 81","br":false,"abertura":false},{"id":"g041","phase":"32-avos","iso":"2026-07-01","matchup":"32-avos — Jogo 82","br":false,"abertura":false},{"id":"g042","phase":"32-avos","iso":"2026-07-02","matchup":"32-avos — Jogo 83","br":false,"abertura":false},{"id":"g043","phase":"32-avos","iso":"2026-07-02","matchup":"32-avos — Jogo 84","br":false,"abertura":false},{"id":"g044","phase":"32-avos","iso":"2026-07-02","matchup":"32-avos — Jogo 85","br":false,"abertura":false},{"id":"g045","phase":"32-avos","iso":"2026-07-03","matchup":"32-avos — Jogo 86","br":false,"abertura":false},{"id":"g046","phase":"32-avos","iso":"2026-07-03","matchup":"32-avos — Jogo 87","br":false,"abertura":false},{"id":"g047","phase":"32-avos","iso":"2026-07-03","matchup":"32-avos — Jogo 88","br":false,"abertura":false},{"id":"g048","phase":"Oitavas","iso":"2026-07-04","matchup":"Oitavas — Jogo 89","br":false,"abertura":false},{"id":"g049","phase":"Oitavas","iso":"2026-07-04","matchup":"Oitavas — Jogo 90","br":false,"abertura":false},{"id":"g050","phase":"Oitavas","iso":"2026-07-05","matchup":"Oitavas — Jogo 91","br":false,"abertura":false},{"id":"g051","phase":"Oitavas","iso":"2026-07-05","matchup":"Oitavas — Jogo 92","br":false,"abertura":false},{"id":"g052","phase":"Oitavas","iso":"2026-07-06","matchup":"Oitavas — Jogo 93","br":false,"abertura":false},{"id":"g053","phase":"Oitavas","iso":"2026-07-06","matchup":"Oitavas — Jogo 94","br":false,"abertura":false},{"id":"g054","phase":"Oitavas","iso":"2026-07-07","matchup":"Oitavas — Jogo 95","br":false,"abertura":false},{"id":"g055","phase":"Oitavas","iso":"2026-07-07","matchup":"Oitavas — Jogo 96","br":false,"abertura":false},{"id":"g056","phase":"Quartas","iso":"2026-07-09","matchup":"Quartas — Jogo 97","br":false,"abertura":false},{"id":"g057","phase":"Quartas","iso":"2026-07-10","matchup":"Quartas — Jogo 98","br":false,"abertura":false},{"id":"g058","phase":"Quartas","iso":"2026-07-11","matchup":"Quartas — Jogo 99","br":false,"abertura":false},{"id":"g059","phase":"Quartas","iso":"2026-07-12","matchup":"Quartas — Jogo 100","br":false,"abertura":false},{"id":"g060","phase":"Semifinais","iso":"2026-07-14","matchup":"Semifinal 1","br":false,"abertura":false},{"id":"g061","phase":"Semifinais","iso":"2026-07-15","matchup":"Semifinal 2","br":false,"abertura":false},{"id":"g062","phase":"3º Lugar","iso":"2026-07-18","matchup":"3º Lugar","br":false,"abertura":false},{"id":"g063","phase":"Final","iso":"2026-07-19","matchup":"FINAL Copa 2026","br":false,"abertura":false},{"id":"g064","phase":"Grupos","iso":"2026-06-12","matchup":"EUA × Paraguai","br":false,"abertura":false},{"id":"g065","phase":"Grupos","iso":"2026-06-16","matchup":"Iraque × Noruega","br":false,"abertura":false}],"briefing":{"g001":{"t":"11:00","r":"Promover a abertura da Copa do Mundo, convidando o público a apostar no maior evento esportivo do mundo. Trazer um sentimento de \"COMEÇOU!\".","o":"Ambas equipes Marcam @2.07 (consultar odds)","l":"a definir"},"g002":{"t":"13:00","r":"Estreia do Brasil na Copa. Reforçar que é um jogo difícil, truncado, mas acredita na vitória.","o":"Brasil vence e Menos de 2.5 gols (consultar odds)","l":"a definir"},"g003":{"t":"15:00","r":"Segundo jogo do Brasil. Caso tiver vencido na abertura, usar isso como gancho. Caso tiver perdido, inverter a lógica para uma obrigação de vitória com muitos gols.","o":"Handicap negativo pro Brasil (consultar odds)","l":"a definir"},"g004":{"t":"13:00","r":"A desenvolver, dependendo da situação do grupo. Mas reforçar que é o último jogo da fase de grupos, possivelmente decisivo.","o":"Brasil vence e Mais de 1.5 gols (consultar odds)","l":"a definir"},"g005":{"t":"10:00","r":"Abismo técnico entre as duas seleções, apostar em uma goleada, jogo tranquilo para a Alemanha.","o":"Vitória da Alemanha sem tomar gols e mais de 3.5 gols (consultar odds)","l":"a definir"},"g006":{"t":"10:00","r":"Disparidade muito grande entre as duas seleções. Apostar em goleada da forte geração espanhola.","o":"Handicap negativo alto pra Espanha (consultar odds)","l":"a definir"},"g007":{"t":"10:00","r":"Ambas seleções muito agressivas ofensivamente. Apostar em um jogo aberto com possibilidade de gols pra ambos os lados.","o":"Ambas equipe marcam @2.05","l":"a definir"},"g008":{"t":"16:00","r":"Estreia da atual campeã do mundo na Copa, apostar na vitória da Argentina com certa tranquilidade.","o":"Argentina e Mais de 1.5 gols (consultar odds)","l":"a definir"},"g009":{"t":"10:00","r":"Jogaço, ambas seleções muito fortes. Exaltar a forte escalação da seleção da Inglaterra e o poderio ofensivo de ambas, justificando a aposta em ambas marcam.","o":"Ambas equipes Marcam @1.85","l":"a definir"},"g010":{"t":"10:00","r":"Argentina atual campeã, odds muito boa para a vitória.","o":"Vitória Argentina @1.72","l":"a definir"},"g011":{"t":"12:00","r":"França muito superior, possivelmente melhor seleção do mundo, ataque muito forte.","o":"França mais de 3.5 gols (consultar odds)","l":"a definir"},"g016":{"t":"11:00","r":"Forte seleção japonesa pode surpreender, reforçar que é uma aposta arriscada de muito valor.","o":"Japão ou empate @1.83","l":"a definir"},"g017":{"t":"11:00","r":"Seleção do Egito pode dar trabalho, apesar das odds bastante desiguais, acredito em um jogo difícil, ainda mais pelo fator estreia.","o":"Handicap positivo pro Egito (consultar odds)","l":"a definir"},"g018":{"t":"10:00","r":"Grande disparidade entre ambas as seleções, Portugal deve vencer sem sustos.","o":"Portugal vencer sem tomar gols (consultar odds)","l":"a definir"}},"schedule":{"coringa":{"g001":[{"type":"Story","delivery_num":1,"ideal_time":"11:00","roteiro":"Special Bets","odds":"TBD","link":"","obs":"Para o jogo em questão, teremos uma Special Bets. O bilhete será enviado 1 dia antes do jogo, junto de uma arte pronta para ser postada, caso prefira.","status":"pendente"}],"g002":[{"type":"Story","delivery_num":2,"ideal_time":"12:00","roteiro":"Special Bets","odds":"TBD","link":"","obs":"Para o jogo em questão, teremos uma Special Bets. O bilhete será enviado 1 dia antes do jogo, junto de uma arte pronta para ser postada, caso prefira.","status":"entregue"}],"g003":[{"type":"Story","delivery_num":3,"ideal_time":"","roteiro":"","odds":"","link":"","obs":"","status":"pendente"}],"g004":[{"type":"Story","delivery_num":4,"ideal_time":"","roteiro":"","odds":"","link":"","obs":"","status":"pendente"}],"g009":[{"type":"Story","delivery_num":5,"ideal_time":"","roteiro":"","odds":"","link":"","obs":"","status":"pendente"}],"g010":[{"type":"Story","delivery_num":6,"ideal_time":"","roteiro":"","odds":"","link":"","obs":"","status":"pendente"}],"g016":[{"type":"Story","delivery_num":7,"ideal_time":"11:00","roteiro":"Special Bets","odds":"TBD","link":"","obs":"Para o jogo em questão, teremos uma Special Bets. O bilhete será enviado 1 dia antes do jogo, junto de uma arte pronta para ser postada, caso prefira.","status":"entregue"}],"g032":[{"type":"Story","delivery_num":8,"ideal_time":"","roteiro":"","odds":"","link":"","obs":"","status":"pendente"}],"g047":[{"type":"Story","delivery_num":9,"ideal_time":"","roteiro":"","odds":"","link":"","obs":"","status":"pendente"}],"g048":[{"type":"Story","delivery_num":10,"ideal_time":"","roteiro":"","odds":"","link":"","obs":"","status":"pendente"}],"g052":[{"type":"Story","delivery_num":11,"ideal_time":"","roteiro":"","odds":"","link":"","obs":"","status":"pendente"}],"g056":[{"type":"Story","delivery_num":12,"ideal_time":"","roteiro":"","odds":"","link":"","obs":"","status":"pendente"}],"g059":[{"type":"Story","delivery_num":13,"ideal_time":"","roteiro":"","odds":"","link":"","obs":"","status":"pendente"}],"g060":[{"type":"Story","delivery_num":14,"ideal_time":"","roteiro":"","odds":"","link":"","obs":"","status":"pendente"}],"g061":[{"type":"Story","delivery_num":15,"ideal_time":"","roteiro":"","odds":"","link":"","obs":"","status":"pendente"}],"g062":[{"type":"Story","delivery_num":16,"ideal_time":"","roteiro":"","odds":"","link":"","obs":"","status":"pendente"}],"g063":[{"type":"Story","delivery_num":17,"ideal_time":"","roteiro":"","odds":"","link":"","obs":"","status":"pendente"}],"g005":[{"type":"Story","delivery_num":18,"ideal_time":"10:00","roteiro":"Promoção Deu Zebra - explorar a ideia da zebra, colocar um trocado, 2, 5 reais, pela magia, pelo lúdico, explorar o VAI QUE?","odds":"54.0","link":"","obs":"Para o jogo em questão, teremos uma promoção chamada Deu Zebra onde vamos pegar a odds da seleção que não é favorita (underdog) e aumentar ela ainda mais, nesse caso odds de 54x para a vitória do Curaçau em cima da Alemanha.","status":"entregue"}],"g018":[{"type":"Story","delivery_num":19,"ideal_time":"10:00","roteiro":"Promoção Deu Zebra - explorar a ideia da zebra, colocar um trocado, 2, 5 reais, só pela magia, pelo lúdico, explorar o VAI QUE?","odds":"12.0","link":"","obs":"Para o jogo em questão, teremos uma promoção chamada Deu Zebra onde vamos pegar a odds da seleção que não é favorita (underdog) e aumentar ela ainda mais, nesse caso odds de 12x para a vitória do Congo em cima de Portugal.","status":"pendente"}]},"m12":{"g002":[{"type":"Story","delivery_num":1,"ideal_time":"12:00","roteiro":"Special Bets","odds":"TBD","link":"","obs":"Para o jogo em questão, teremos uma Special Bets. O bilhete será enviado 1 dia antes do jogo, junto de uma arte pronta para ser postada, caso prefira.","status":"entregue"}],"g003":[{"type":"Story","delivery_num":2,"ideal_time":"","roteiro":"","odds":"","link":"","obs":"","status":"pendente"}],"g004":[{"type":"Story","delivery_num":3,"ideal_time":"","roteiro":"","odds":"","link":"","obs":"","status":"pendente"}]},"brabox":{"g002":[{"type":"Story","delivery_num":1,"ideal_time":"12:00","roteiro":"Special Bets","odds":"TBD","link":"","obs":"Para o jogo em questão, teremos uma Special Bets. O bilhete será enviado 1 dia antes do jogo, junto de uma arte pronta para ser postada, caso prefira.","status":"entregue"}],"g003":[{"type":"Story","delivery_num":2,"ideal_time":"","roteiro":"","odds":"","link":"","obs":"","status":"pendente"}],"g004":[{"type":"Story","delivery_num":3,"ideal_time":"","roteiro":"","odds":"","link":"","obs":"","status":"pendente"}],"g008":[{"type":"Story","delivery_num":4,"ideal_time":"18:00","roteiro":"Special Bets","odds":"TBD","link":"","obs":"Para o jogo em questão, teremos uma Special Bets. O bilhete será enviado 1 dia antes do jogo, junto de uma arte pronta para ser postada, caso prefira.","status":"entregue"}],"g018":[{"type":"Story","delivery_num":5,"ideal_time":"10:00","roteiro":"Promoção Deu Zebra - explorar a ideia da zebra, colocar um trocado, 2, 5 reais, só pela magia, pelo lúdico, explorar o VAI QUE?","odds":"12.0","link":"","obs":"Para o jogo em questão, teremos uma promoção chamada Deu Zebra onde vamos pegar a odds da seleção que não é favorita (underdog) e aumentar ela ainda mais, nesse caso odds de 12x para a vitória do Congo em cima de Portugal.","status":"pendente"}],"g034":[{"type":"Story","delivery_num":6,"ideal_time":"","roteiro":"","odds":"","link":"","obs":"","status":"pendente"}],"g045":[{"type":"Story","delivery_num":7,"ideal_time":"","roteiro":"","odds":"","link":"","obs":"","status":"pendente"}],"g050":[{"type":"Story","delivery_num":8,"ideal_time":"","roteiro":"","odds":"","link":"","obs":"","status":"pendente"}],"g054":[{"type":"Story","delivery_num":9,"ideal_time":"","roteiro":"","odds":"","link":"","obs":"","status":"pendente"}],"g056":[{"type":"Story","delivery_num":10,"ideal_time":"","roteiro":"","odds":"","link":"","obs":"","status":"pendente"}],"g057":[{"type":"Story","delivery_num":11,"ideal_time":"","roteiro":"","odds":"","link":"","obs":"","status":"pendente"}],"g059":[{"type":"Story","delivery_num":12,"ideal_time":"","roteiro":"","odds":"","link":"","obs":"","status":"pendente"}],"g060":[{"type":"Story","delivery_num":13,"ideal_time":"","roteiro":"","odds":"","link":"","obs":"","status":"pendente"}],"g061":[{"type":"Story","delivery_num":14,"ideal_time":"","roteiro":"","odds":"","link":"","obs":"","status":"pendente"}],"g062":[{"type":"Story","delivery_num":15,"ideal_time":"","roteiro":"","odds":"","link":"","obs":"","status":"pendente"}],"g063":[{"type":"Story","delivery_num":16,"ideal_time":"","roteiro":"","odds":"","link":"","obs":"","status":"pendente"}],"g064":[{"type":"Story","delivery_num":17,"ideal_time":"18:00","roteiro":"Special Bets","odds":"TBD","link":"","obs":"Para o jogo em questão, teremos uma Special Bets. O bilhete será enviado 1 dia antes do jogo, junto de uma arte pronta para ser postada, caso prefira.","status":"pendente"}],"g065":[{"type":"Story","delivery_num":18,"ideal_time":"15:00","roteiro":"Promoção Deu Zebra - explorar a ideia da zebra, colocar um trocado, 2, 5 reais, só pela magia, pelo lúdico, explorar o VAI QUE?","odds":"14.5","link":"","obs":"Para o jogo em questão, teremos uma promoção chamada Deu Zebra onde vamos pegar a odds da seleção que não é favorita (underdog) e aumentar ela ainda mais, nesse caso odds de 14.5x para a vitória do Iraque em cima da Noruega.","status":"entregue"}],"g007":[{"type":"Story","delivery_num":19,"ideal_time":"12:00","roteiro":"Special Bets","odds":"TBD","link":"","obs":"Para o jogo em questão, teremos uma Special Bets. O bilhete será enviado 1 dia antes do jogo, junto de uma arte pronta para ser postada, caso prefira.","status":"entregue"}]},"gabepeixe":{"g002":[{"type":"Story","delivery_num":1,"ideal_time":"12:00","roteiro":"Special Bets","odds":"TBD","link":"","obs":"Para o jogo em questão, teremos uma Special Bets. O bilhete será enviado 1 dia antes do jogo, junto de uma arte pronta para ser postada, caso prefira.","status":"entregue"}],"g003":[{"type":"Story","delivery_num":2,"ideal_time":"","roteiro":"","odds":"","link":"","obs":"","status":"pendente"}],"g004":[{"type":"Story","delivery_num":3,"ideal_time":"","roteiro":"","odds":"","link":"","obs":"","status":"pendente"}],"g011":[{"type":"Story","delivery_num":4,"ideal_time":"","roteiro":"","odds":"","link":"","obs":"","status":"pendente"}],"g035":[{"type":"Story","delivery_num":5,"ideal_time":"","roteiro":"","odds":"","link":"","obs":"","status":"pendente"}],"g044":[{"type":"Story","delivery_num":6,"ideal_time":"","roteiro":"","odds":"","link":"","obs":"","status":"pendente"}],"g051":[{"type":"Story","delivery_num":7,"ideal_time":"","roteiro":"","odds":"","link":"","obs":"","status":"pendente"}],"g055":[{"type":"Story","delivery_num":8,"ideal_time":"","roteiro":"","odds":"","link":"","obs":"","status":"pendente"}],"g056":[{"type":"Story","delivery_num":9,"ideal_time":"","roteiro":"","odds":"","link":"","obs":"","status":"pendente"}],"g057":[{"type":"Story","delivery_num":10,"ideal_time":"","roteiro":"","odds":"","link":"","obs":"","status":"pendente"}],"g058":[{"type":"Story","delivery_num":11,"ideal_time":"","roteiro":"","odds":"","link":"","obs":"","status":"pendente"}],"g059":[{"type":"Story","delivery_num":12,"ideal_time":"","roteiro":"","odds":"","link":"","obs":"","status":"pendente"}],"g060":[{"type":"Story","delivery_num":13,"ideal_time":"","roteiro":"","odds":"","link":"","obs":"","status":"pendente"}],"g061":[{"type":"Story","delivery_num":14,"ideal_time":"","roteiro":"","odds":"","link":"","obs":"","status":"pendente"}],"g062":[{"type":"Story","delivery_num":15,"ideal_time":"","roteiro":"","odds":"","link":"","obs":"","status":"pendente"}],"g063":[{"type":"Story","delivery_num":16,"ideal_time":"","roteiro":"","odds":"","link":"","obs":"","status":"pendente"}]},"millerzeira":{"g001":[{"type":"Story","delivery_num":1,"ideal_time":"11:00","roteiro":"Special Bets","odds":"TBD","link":"","obs":"Para o jogo em questão, teremos uma Special Bets. O bilhete será enviado 1 dia antes do jogo, junto de uma arte pronta para ser postada, caso prefira.","status":"entregue"}],"g002":[{"type":"Story","delivery_num":2,"ideal_time":"12:00","roteiro":"Special Bets","odds":"TBD","link":"","obs":"Para o jogo em questão, teremos uma Special Bets. O bilhete será enviado 1 dia antes do jogo, junto de uma arte pronta para ser postada, caso prefira.","status":"entregue"}],"g005":[{"type":"Story","delivery_num":3,"ideal_time":"10:00","roteiro":"Promoção Deu Zebra - explorar a ideia da zebra, colocar um trocado, 2, 5 reais, pela magia, pelo lúdico, explorar o VAI QUE?","odds":"54.0","link":"","obs":"Para o jogo em questão, teremos uma promoção chamada Deu Zebra onde vamos pegar a odds da seleção que não é favorita (underdog) e aumentar ela ainda mais, nesse caso odds de 54x para a vitória do Curaçau em cima da Alemanha.","status":"entregue"}],"g016":[{"type":"Story","delivery_num":4,"ideal_time":"11:00","roteiro":"Special Bets","odds":"TBD","link":"","obs":"Para o jogo em questão, teremos uma Special Bets. O bilhete será enviado 1 dia antes do jogo, junto de uma arte pronta para ser postada, caso prefira.","status":"entregue"}],"g009":[{"type":"Story","delivery_num":5,"ideal_time":"","roteiro":"","odds":"","link":"","obs":"","status":"pendente"}],"g018":[{"type":"Story","delivery_num":6,"ideal_time":"10:00","roteiro":"Promoção Deu Zebra - explorar a ideia da zebra, colocar um trocado, 2, 5 reais, só pela magia, pelo lúdico, explorar o VAI QUE?","odds":"12.0","link":"","obs":"Para o jogo em questão, teremos uma promoção chamada Deu Zebra onde vamos pegar a odds da seleção que não é favorita (underdog) e aumentar ela ainda mais, nesse caso odds de 12x para a vitória do Congo em cima de Portugal.","status":"pendente"}],"g003":[{"type":"Story","delivery_num":7,"ideal_time":"","roteiro":"","odds":"","link":"","obs":"","status":"pendente"}],"g004":[{"type":"Story","delivery_num":8,"ideal_time":"","roteiro":"","odds":"","link":"","obs":"","status":"pendente"}],"g025":[{"type":"Story","delivery_num":9,"ideal_time":"","roteiro":"","odds":"","link":"","obs":"","status":"pendente"}],"g012":[{"type":"Story","delivery_num":10,"ideal_time":"","roteiro":"","odds":"","link":"","obs":"","status":"pendente"}],"g013":[{"type":"Story","delivery_num":11,"ideal_time":"","roteiro":"","odds":"","link":"","obs":"","status":"pendente"}],"g033":[{"type":"Story","delivery_num":12,"ideal_time":"","roteiro":"","odds":"","link":"","obs":"","status":"pendente"}],"g043":[{"type":"Story","delivery_num":13,"ideal_time":"","roteiro":"","odds":"","link":"","obs":"","status":"pendente"}],"g048":[{"type":"Story","delivery_num":14,"ideal_time":"","roteiro":"","odds":"","link":"","obs":"","status":"pendente"}],"g052":[{"type":"Story","delivery_num":15,"ideal_time":"","roteiro":"","odds":"","link":"","obs":"","status":"pendente"}],"g056":[{"type":"Story","delivery_num":16,"ideal_time":"","roteiro":"","odds":"","link":"","obs":"","status":"pendente"}],"g058":[{"type":"Story","delivery_num":17,"ideal_time":"","roteiro":"","odds":"","link":"","obs":"","status":"pendente"}],"g059":[{"type":"Story","delivery_num":18,"ideal_time":"","roteiro":"","odds":"","link":"","obs":"","status":"pendente"}],"g060":[{"type":"Story","delivery_num":19,"ideal_time":"","roteiro":"","odds":"","link":"","obs":"","status":"pendente"}],"g061":[{"type":"Story","delivery_num":20,"ideal_time":"","roteiro":"","odds":"","link":"","obs":"","status":"pendente"}],"g062":[{"type":"Story","delivery_num":21,"ideal_time":"","roteiro":"","odds":"","link":"","obs":"","status":"pendente"}],"g063":[{"type":"Story","delivery_num":22,"ideal_time":"","roteiro":"","odds":"","link":"","obs":"","status":"pendente"}]},"pedro":{"g002":[{"type":"Story","delivery_num":1,"ideal_time":"12:00","roteiro":"Special Bets","odds":"TBD","link":"","obs":"Para o jogo em questão, teremos uma Special Bets. O bilhete será enviado 1 dia antes do jogo, junto de uma arte pronta para ser postada, caso prefira.","status":"entregue"}],"g003":[{"type":"Story","delivery_num":2,"ideal_time":"","roteiro":"","odds":"","link":"","obs":"","status":"pendente"}],"g004":[{"type":"Story","delivery_num":3,"ideal_time":"","roteiro":"","odds":"","link":"","obs":"","status":"pendente"}],"g010":[{"type":"Story","delivery_num":4,"ideal_time":"","roteiro":"","odds":"","link":"","obs":"","status":"pendente"}],"g016":[{"type":"Story","delivery_num":5,"ideal_time":"11:00","roteiro":"Special Bets","odds":"TBD","link":"","obs":"Para o jogo em questão, teremos uma Special Bets. O bilhete será enviado 1 dia antes do jogo, junto de uma arte pronta para ser postada, caso prefira.","status":"entregue"}],"g037":[{"type":"Story","delivery_num":6,"ideal_time":"","roteiro":"","odds":"","link":"","obs":"","status":"pendente"}],"g042":[{"type":"Story","delivery_num":7,"ideal_time":"","roteiro":"","odds":"","link":"","obs":"","status":"pendente"}],"g049":[{"type":"Story","delivery_num":8,"ideal_time":"","roteiro":"","odds":"","link":"","obs":"","status":"pendente"}],"g053":[{"type":"Story","delivery_num":9,"ideal_time":"","roteiro":"","odds":"","link":"","obs":"","status":"pendente"}],"g056":[{"type":"Story","delivery_num":10,"ideal_time":"","roteiro":"","odds":"","link":"","obs":"","status":"pendente"}],"g058":[{"type":"Story","delivery_num":11,"ideal_time":"","roteiro":"","odds":"","link":"","obs":"","status":"pendente"}],"g059":[{"type":"Story","delivery_num":12,"ideal_time":"","roteiro":"","odds":"","link":"","obs":"","status":"pendente"}],"g060":[{"type":"Story","delivery_num":13,"ideal_time":"","roteiro":"","odds":"","link":"","obs":"","status":"pendente"}],"g061":[{"type":"Story","delivery_num":14,"ideal_time":"","roteiro":"","odds":"","link":"","obs":"","status":"pendente"}],"g062":[{"type":"Story","delivery_num":15,"ideal_time":"","roteiro":"","odds":"","link":"","obs":"","status":"pendente"}],"g063":[{"type":"Story","delivery_num":16,"ideal_time":"","roteiro":"","odds":"","link":"","obs":"","status":"pendente"}],"g005":[{"type":"Story","delivery_num":17,"ideal_time":"10:00","roteiro":"Promoção Deu Zebra - explorar a ideia da zebra, colocar um trocado, 2, 5 reais, pela magia, pelo lúdico, explorar o VAI QUE?","odds":"54.0","link":"","obs":"Para o jogo em questão, teremos uma promoção chamada Deu Zebra onde vamos pegar a odds da seleção que não é favorita (underdog) e aumentar ela ainda mais, nesse caso odds de 54x para a vitória do Curaçau em cima da Alemanha.","status":"entregue"}]},"robgol":{"g001":[{"type":"Story","delivery_num":1,"ideal_time":"11:00","roteiro":"Special Bets","odds":"TBD","link":"","obs":"Para o jogo em questão, teremos uma Special Bets. O bilhete será enviado 1 dia antes do jogo, junto de uma arte pronta para ser postada, caso prefira.","status":"entregue"}],"g002":[{"type":"Story","delivery_num":2,"ideal_time":"12:00","roteiro":"Special Bets","odds":"TBD","link":"","obs":"Para o jogo em questão, teremos uma Special Bets. O bilhete será enviado 1 dia antes do jogo, junto de uma arte pronta para ser postada, caso prefira.","status":"entregue"}],"g003":[{"type":"Story","delivery_num":3,"ideal_time":"","roteiro":"","odds":"","link":"","obs":"","status":"pendente"}],"g004":[{"type":"Story","delivery_num":4,"ideal_time":"","roteiro":"","odds":"","link":"","obs":"","status":"pendente"}],"g007":[{"type":"Story","delivery_num":5,"ideal_time":"12:00","roteiro":"Special Bets","odds":"TBD","link":"","obs":"Para o jogo em questão, teremos uma Special Bets. O bilhete será enviado 1 dia antes do jogo, junto de uma arte pronta para ser postada, caso prefira.","status":"entregue"}],"g010":[{"type":"Story","delivery_num":6,"ideal_time":"","roteiro":"","odds":"","link":"","obs":"","status":"pendente"}],"g026":[{"type":"Story","delivery_num":7,"ideal_time":"","roteiro":"","odds":"","link":"","obs":"","status":"pendente"}],"g038":[{"type":"Story","delivery_num":8,"ideal_time":"","roteiro":"","odds":"","link":"","obs":"","status":"pendente"}],"g041":[{"type":"Story","delivery_num":9,"ideal_time":"","roteiro":"","odds":"","link":"","obs":"","status":"pendente"}],"g050":[{"type":"Story","delivery_num":10,"ideal_time":"","roteiro":"","odds":"","link":"","obs":"","status":"pendente"}],"g054":[{"type":"Story","delivery_num":11,"ideal_time":"","roteiro":"","odds":"","link":"","obs":"","status":"pendente"}],"g057":[{"type":"Story","delivery_num":12,"ideal_time":"","roteiro":"","odds":"","link":"","obs":"","status":"pendente"}],"g058":[{"type":"Story","delivery_num":13,"ideal_time":"","roteiro":"","odds":"","link":"","obs":"","status":"pendente"}],"g060":[{"type":"Story","delivery_num":14,"ideal_time":"","roteiro":"","odds":"","link":"","obs":"","status":"pendente"}],"g061":[{"type":"Story","delivery_num":15,"ideal_time":"","roteiro":"","odds":"","link":"","obs":"","status":"pendente"}],"g062":[{"type":"Story","delivery_num":16,"ideal_time":"","roteiro":"","odds":"","link":"","obs":"","status":"pendente"}],"g063":[{"type":"Story","delivery_num":17,"ideal_time":"","roteiro":"","odds":"","link":"","obs":"","status":"pendente"}],"g065":[{"type":"Story","delivery_num":18,"ideal_time":"15:00","roteiro":"Promoção Deu Zebra - explorar a ideia da zebra, colocar um trocado, 2, 5 reais, só pela magia, pelo lúdico, explorar o VAI QUE?","odds":"14.5","link":"","obs":"Para o jogo em questão, teremos uma promoção chamada Deu Zebra onde vamos pegar a odds da seleção que não é favorita (underdog) e aumentar ela ainda mais, nesse caso odds de 14.5x para a vitória do Iraque em cima da Noruega.","status":"entregue"}],"g008":[{"type":"Story","delivery_num":19,"ideal_time":"18:00","roteiro":"Special Bets","odds":"TBD","link":"","obs":"Para o jogo em questão, teremos uma Special Bets. O bilhete será enviado 1 dia antes do jogo, junto de uma arte pronta para ser postada, caso prefira.","status":"entregue"}]},"2nalinha":{"g001":[{"type":"Story","delivery_num":1,"ideal_time":"11:00","roteiro":"Special Bets","odds":"TBD","link":"","obs":"Para o jogo em questão, teremos uma Special Bets. O bilhete será enviado 1 dia antes do jogo, junto de uma arte pronta para ser postada, caso prefira.","status":"entregue"}],"g002":[{"type":"Story","delivery_num":2,"ideal_time":"12:00","roteiro":"Special Bets","odds":"TBD","link":"","obs":"Para o jogo em questão, teremos uma Special Bets. O bilhete será enviado 1 dia antes do jogo, junto de uma arte pronta para ser postada, caso prefira.","status":"entregue"}],"g003":[{"type":"Story","delivery_num":3,"ideal_time":"","roteiro":"","odds":"","link":"","obs":"","status":"pendente"}],"g004":[{"type":"Story","delivery_num":4,"ideal_time":"","roteiro":"","odds":"","link":"","obs":"","status":"pendente"}],"g009":[{"type":"Story","delivery_num":5,"ideal_time":"","roteiro":"","odds":"","link":"","obs":"","status":"pendente"}],"g011":[{"type":"Story","delivery_num":6,"ideal_time":"","roteiro":"","odds":"","link":"","obs":"","status":"pendente"}],"g026":[{"type":"Story","delivery_num":7,"ideal_time":"","roteiro":"","odds":"","link":"","obs":"","status":"pendente"}],"g039":[{"type":"Story","delivery_num":8,"ideal_time":"","roteiro":"","odds":"","link":"","obs":"","status":"pendente"}],"g040":[{"type":"Story","delivery_num":9,"ideal_time":"","roteiro":"","odds":"","link":"","obs":"","status":"pendente"}],"g051":[{"type":"Story","delivery_num":10,"ideal_time":"","roteiro":"","odds":"","link":"","obs":"","status":"pendente"}],"g055":[{"type":"Story","delivery_num":11,"ideal_time":"","roteiro":"","odds":"","link":"","obs":"","status":"pendente"}],"g056":[{"type":"Story","delivery_num":12,"ideal_time":"","roteiro":"","odds":"","link":"","obs":"","status":"pendente"}],"g059":[{"type":"Story","delivery_num":13,"ideal_time":"","roteiro":"","odds":"","link":"","obs":"","status":"pendente"}],"g060":[{"type":"Story","delivery_num":14,"ideal_time":"","roteiro":"","odds":"","link":"","obs":"","status":"pendente"}],"g061":[{"type":"Story","delivery_num":15,"ideal_time":"","roteiro":"","odds":"","link":"","obs":"","status":"pendente"}],"g062":[{"type":"Story","delivery_num":16,"ideal_time":"","roteiro":"","odds":"","link":"","obs":"","status":"pendente"}],"g063":[{"type":"Story","delivery_num":17,"ideal_time":"","roteiro":"","odds":"","link":"","obs":"","status":"pendente"}],"g064":[{"type":"Story","delivery_num":18,"ideal_time":"18:00","roteiro":"Special Bets","odds":"TBD","link":"","obs":"Para o jogo em questão, teremos uma Special Bets. O bilhete será enviado 1 dia antes do jogo, junto de uma arte pronta para ser postada, caso prefira.","status":"entregue"}],"g024":[{"type":"Story","delivery_num":19,"ideal_time":"12:00","roteiro":"Promoção Deu Zebra - explorar a ideia da zebra, colocar um trocado, 2, 5 reais, só pela magia, pelo lúdico, explorar o VAI QUE?","odds":"10.0","link":"","obs":"Para o jogo em questão, teremos uma promoção chamada Deu Zebra onde vamos pegar a odds da seleção que não é favorita (underdog) e aumentar ela ainda mais, nesse caso odds de 10x para a vitória da Gana em cima da Inglaterra.","status":"pendente"}],"g018":[{"type":"Story","delivery_num":20,"ideal_time":"10:00","roteiro":"Promoção Deu Zebra - explorar a ideia da zebra, colocar um trocado, 2, 5 reais, só pela magia, pelo lúdico, explorar o VAI QUE?","odds":"12.0","link":"","obs":"Para o jogo em questão, teremos uma promoção chamada Deu Zebra onde vamos pegar a odds da seleção que não é favorita (underdog) e aumentar ela ainda mais, nesse caso odds de 12x para a vitória do Congo em cima de Portugal.","status":"pendente"}]},"bela":{"g002":[{"type":"Story","delivery_num":1,"ideal_time":"12:00","roteiro":"Special Bets","odds":"TBD","link":"","obs":"Para o jogo em questão, teremos uma Special Bets. O bilhete será enviado 1 dia antes do jogo, junto de uma arte pronta para ser postada, caso prefira.","status":"entregue"}],"g003":[{"type":"Story","delivery_num":2,"ideal_time":"","roteiro":"","odds":"","link":"","obs":"","status":"pendente"}],"g004":[{"type":"Story","delivery_num":3,"ideal_time":"","roteiro":"","odds":"","link":"","obs":"","status":"pendente"}],"g006":[{"type":"Story","delivery_num":4,"ideal_time":"09:00","roteiro":"Promoção Deu Zebra - explorar a ideia da zebra, colocar um trocado, 2, 5 reais, só pela magia, pelo lúdico, explorar o VAI QUE?","odds":"30.0","link":"","obs":"Para o jogo em questão, teremos uma promoção chamada Deu Zebra onde vamos pegar a odds da seleção que não é favorita (underdog) e aumentar ela ainda mais, nesse caso odds de 30x para a vitória do Cabo Verde em cima da Espanha.","status":"entregue"}],"g017":[{"type":"Story","delivery_num":5,"ideal_time":"11:00","roteiro":"Special Bets","odds":"TBD","link":"","obs":"Para o jogo em questão, teremos uma Special Bets. O bilhete será enviado 1 dia antes do jogo, junto de uma arte pronta para ser postada, caso prefira.","status":"entregue"}],"g032":[{"type":"Story","delivery_num":6,"ideal_time":"","roteiro":"","odds":"","link":"","obs":"","status":"pendente"}],"g047":[{"type":"Story","delivery_num":7,"ideal_time":"","roteiro":"","odds":"","link":"","obs":"","status":"pendente"}],"g048":[{"type":"Story","delivery_num":8,"ideal_time":"","roteiro":"","odds":"","link":"","obs":"","status":"pendente"}],"g052":[{"type":"Story","delivery_num":9,"ideal_time":"","roteiro":"","odds":"","link":"","obs":"","status":"pendente"}],"g056":[{"type":"Story","delivery_num":10,"ideal_time":"","roteiro":"","odds":"","link":"","obs":"","status":"pendente"}],"g057":[{"type":"Story","delivery_num":11,"ideal_time":"","roteiro":"","odds":"","link":"","obs":"","status":"pendente"}],"g058":[{"type":"Story","delivery_num":12,"ideal_time":"","roteiro":"","odds":"","link":"","obs":"","status":"pendente"}],"g060":[{"type":"Story","delivery_num":13,"ideal_time":"","roteiro":"","odds":"","link":"","obs":"","status":"pendente"}],"g061":[{"type":"Story","delivery_num":14,"ideal_time":"","roteiro":"","odds":"","link":"","obs":"","status":"pendente"}],"g062":[{"type":"Story","delivery_num":15,"ideal_time":"","roteiro":"","odds":"","link":"","obs":"","status":"pendente"}],"g063":[{"type":"Story","delivery_num":16,"ideal_time":"","roteiro":"","odds":"","link":"","obs":"","status":"pendente"}]},"cole":{"g001":[{"type":"Story","delivery_num":1,"ideal_time":"11:00","roteiro":"Special Bets","odds":"TBD","link":"","obs":"Para o jogo em questão, teremos uma Special Bets. O bilhete será enviado 1 dia antes do jogo, junto de uma arte pronta para ser postada, caso prefira.","status":"entregue"}],"g002":[{"type":"Story","delivery_num":2,"ideal_time":"","roteiro":"","odds":"","link":"","obs":"","status":"entregue"}],"g003":[{"type":"Story","delivery_num":3,"ideal_time":"","roteiro":"","odds":"","link":"","obs":"","status":"pendente"}],"g004":[{"type":"Story","delivery_num":4,"ideal_time":"","roteiro":"","odds":"","link":"","obs":"","status":"pendente"}],"g005":[{"type":"Story","delivery_num":5,"ideal_time":"10:00","roteiro":"Promoção Deu Zebra - explorar a ideia da zebra, colocar um trocado, 2, 5 reais, pela magia, pelo lúdico, explorar o VAI QUE?","odds":"54.0","link":"","obs":"Para o jogo em questão, teremos uma promoção chamada Deu Zebra onde vamos pegar a odds da seleção que não é favorita (underdog) e aumentar ela ainda mais, nesse caso odds de 54x para a vitória do Curaçau em cima da Alemanha.","status":"pendente"}],"g010":[{"type":"Story","delivery_num":6,"ideal_time":"","roteiro":"","odds":"","link":"","obs":"","status":"pendente"}],"g033":[{"type":"Story","delivery_num":7,"ideal_time":"","roteiro":"","odds":"","link":"","obs":"","status":"pendente"}],"g046":[{"type":"Story","delivery_num":8,"ideal_time":"","roteiro":"","odds":"","link":"","obs":"","status":"pendente"}],"g049":[{"type":"Story","delivery_num":9,"ideal_time":"","roteiro":"","odds":"","link":"","obs":"","status":"pendente"}],"g053":[{"type":"Story","delivery_num":10,"ideal_time":"","roteiro":"","odds":"","link":"","obs":"","status":"pendente"}],"g056":[{"type":"Story","delivery_num":11,"ideal_time":"","roteiro":"","odds":"","link":"","obs":"","status":"pendente"}],"g059":[{"type":"Story","delivery_num":12,"ideal_time":"","roteiro":"","odds":"","link":"","obs":"","status":"pendente"}],"g060":[{"type":"Story","delivery_num":13,"ideal_time":"","roteiro":"","odds":"","link":"","obs":"","status":"pendente"}],"g061":[{"type":"Story","delivery_num":14,"ideal_time":"","roteiro":"","odds":"","link":"","obs":"","status":"pendente"}],"g062":[{"type":"Story","delivery_num":15,"ideal_time":"","roteiro":"","odds":"","link":"","obs":"","status":"pendente"}],"g063":[{"type":"Story","delivery_num":16,"ideal_time":"","roteiro":"","odds":"","link":"","obs":"","status":"pendente"}],"g064":[{"type":"Story","delivery_num":17,"ideal_time":"18:00","roteiro":"Special Bets","odds":"TBD","link":"","obs":"Para o jogo em questão, teremos uma Special Bets. O bilhete será enviado 1 dia antes do jogo, junto de uma arte pronta para ser postada, caso prefira.","status":"entregue"}],"g024":[{"type":"Story","delivery_num":18,"ideal_time":"12:00","roteiro":"Promoção Deu Zebra - explorar a ideia da zebra, colocar um trocado, 2, 5 reais, só pela magia, pelo lúdico, explorar o VAI QUE?","odds":"10.0","link":"","obs":"Para o jogo em questão, teremos uma promoção chamada Deu Zebra onde vamos pegar a odds da seleção que não é favorita (underdog) e aumentar ela ainda mais, nesse caso odds de 10x para a vitória da Gana em cima da Inglaterra.","status":"pendente"}],"g016":[{"type":"Story","delivery_num":19,"ideal_time":"11:00","roteiro":"Special Bets","odds":"TBD","link":"","obs":"Para o jogo em questão, teremos uma Special Bets. O bilhete será enviado 1 dia antes do jogo, junto de uma arte pronta para ser postada, caso prefira.","status":"pendente"}]},"cenas":{"g001":[{"type":"Story","delivery_num":1,"ideal_time":"11:00","roteiro":"Special Bets","odds":"TBD","link":"","obs":"Para o jogo em questão, teremos uma Special Bets. O bilhete será enviado 1 dia antes do jogo, junto de uma arte pronta para ser postada, caso prefira.","status":"entregue"}],"g002":[{"type":"Story","delivery_num":2,"ideal_time":"12:00","roteiro":"Special Bets","odds":"TBD","link":"","obs":"Para o jogo em questão, teremos uma Special Bets. O bilhete será enviado 1 dia antes do jogo, junto de uma arte pronta para ser postada, caso prefira.","status":"entregue"}],"g003":[{"type":"Story","delivery_num":3,"ideal_time":"","roteiro":"","odds":"","link":"","obs":"","status":"pendente"}],"g004":[{"type":"Story","delivery_num":4,"ideal_time":"","roteiro":"","odds":"","link":"","obs":"","status":"pendente"}],"g005":[{"type":"Story","delivery_num":5,"ideal_time":"10:00","roteiro":"Promoção Deu Zebra - explorar a ideia da zebra, colocar um trocado, 2, 5 reais, pela magia, pelo lúdico, explorar o VAI QUE?","odds":"54.0","link":"","obs":"Para o jogo em questão, teremos uma promoção chamada Deu Zebra onde vamos pegar a odds da seleção que não é favorita (underdog) e aumentar ela ainda mais, nesse caso odds de 54x para a vitória do Curaçau em cima da Alemanha.","status":"pendente"}],"g009":[{"type":"Story","delivery_num":6,"ideal_time":"","roteiro":"","odds":"","link":"","obs":"","status":"pendente"}],"g011":[{"type":"Story","delivery_num":7,"ideal_time":"","roteiro":"","odds":"","link":"","obs":"","status":"pendente"}],"g026":[{"type":"Story","delivery_num":8,"ideal_time":"","roteiro":"","odds":"","link":"","obs":"","status":"pendente"}],"g035":[{"type":"Story","delivery_num":9,"ideal_time":"","roteiro":"","odds":"","link":"","obs":"","status":"pendente"}],"g044":[{"type":"Story","delivery_num":10,"ideal_time":"","roteiro":"","odds":"","link":"","obs":"","status":"pendente"}],"g050":[{"type":"Story","delivery_num":11,"ideal_time":"","roteiro":"","odds":"","link":"","obs":"","status":"pendente"}],"g054":[{"type":"Story","delivery_num":12,"ideal_time":"","roteiro":"","odds":"","link":"","obs":"","status":"pendente"}],"g056":[{"type":"Story","delivery_num":13,"ideal_time":"","roteiro":"","odds":"","link":"","obs":"","status":"pendente"}],"g059":[{"type":"Story","delivery_num":14,"ideal_time":"","roteiro":"","odds":"","link":"","obs":"","status":"pendente"}],"g060":[{"type":"Story","delivery_num":15,"ideal_time":"","roteiro":"","odds":"","link":"","obs":"","status":"pendente"}],"g061":[{"type":"Story","delivery_num":16,"ideal_time":"","roteiro":"","odds":"","link":"","obs":"","status":"pendente"}],"g062":[{"type":"Story","delivery_num":17,"ideal_time":"","roteiro":"","odds":"","link":"","obs":"","status":"pendente"}],"g063":[{"type":"Story","delivery_num":18,"ideal_time":"","roteiro":"","odds":"","link":"","obs":"","status":"pendente"}],"g016":[{"type":"Story","delivery_num":19,"ideal_time":"11:00","roteiro":"Special Bets","odds":"TBD","link":"","obs":"Para o jogo em questão, teremos uma Special Bets. O bilhete será enviado 1 dia antes do jogo, junto de uma arte pronta para ser postada, caso prefira.","status":"pendente"}],"g018":[{"type":"Story","delivery_num":20,"ideal_time":"10:00","roteiro":"Promoção Deu Zebra - explorar a ideia da zebra, colocar um trocado, 2, 5 reais, só pela magia, pelo lúdico, explorar o VAI QUE?","odds":"12.0","link":"","obs":"Para o jogo em questão, teremos uma promoção chamada Deu Zebra onde vamos pegar a odds da seleção que não é favorita (underdog) e aumentar ela ainda mais, nesse caso odds de 12x para a vitória do Congo em cima de Portugal.","status":"pendente"}]},"rica":{"g007":[{"type":"Story","delivery_num":1,"ideal_time":"10:00","roteiro":"Special Bets","odds":"TBD","link":"","obs":"Para o jogo em questão, teremos uma Special Bets. O bilhete será enviado 1 dia antes do jogo, junto de uma arte pronta para ser postada, caso prefira.","status":"entregue"}],"g009":[{"type":"Story","delivery_num":2,"ideal_time":"10:00","roteiro":"Special Bets","odds":"TBD","link":"","obs":"Para o jogo em questão, teremos uma Special Bets. O bilhete será enviado 1 dia antes do jogo, junto de uma arte pronta para ser postada, caso prefira.","status":"entregue"}],"g003":[{"type":"Story","delivery_num":3,"ideal_time":"10:00","roteiro":"Special Bets","odds":"TBD","link":"","obs":"Para o jogo em questão, teremos uma Special Bets. O bilhete será enviado 1 dia antes do jogo, junto de uma arte pronta para ser postada, caso prefira.","status":"pendente"}],"g019":[{"type":"Story","delivery_num":4,"ideal_time":"10:00","roteiro":"Special Bets","odds":"TBD","link":"","obs":"Para o jogo em questão, teremos uma Special Bets. O bilhete será enviado 1 dia antes do jogo, junto de uma arte pronta para ser postada, caso prefira.","status":"pendente"}],"g021":[{"type":"Story","delivery_num":5,"ideal_time":"10:00","roteiro":"Special Bets","odds":"TBD","link":"","obs":"Para o jogo em questão, teremos uma Special Bets. O bilhete será enviado 1 dia antes do jogo, junto de uma arte pronta para ser postada, caso prefira.","status":"pendente"}],"g010":[{"type":"Story","delivery_num":6,"ideal_time":"10:00","roteiro":"Special Bets","odds":"TBD","link":"","obs":"Para o jogo em questão, teremos uma Special Bets. O bilhete será enviado 1 dia antes do jogo, junto de uma arte pronta para ser postada, caso prefira.","status":"pendente"}],"g004":[{"type":"Story","delivery_num":7,"ideal_time":"10:00","roteiro":"Special Bets","odds":"TBD","link":"","obs":"Para o jogo em questão, teremos uma Special Bets. O bilhete será enviado 1 dia antes do jogo, junto de uma arte pronta para ser postada, caso prefira.","status":"pendente"}],"g026":[{"type":"Story","delivery_num":8,"ideal_time":"10:00","roteiro":"Special Bets","odds":"TBD","link":"","obs":"Para o jogo em questão, teremos uma Special Bets. O bilhete será enviado 1 dia antes do jogo, junto de uma arte pronta para ser postada, caso prefira.","status":"pendente"}],"g013":[{"type":"Story","delivery_num":9,"ideal_time":"10:00","roteiro":"Special Bets","odds":"TBD","link":"","obs":"Para o jogo em questão, teremos uma Special Bets. O bilhete será enviado 1 dia antes do jogo, junto de uma arte pronta para ser postada, caso prefira.","status":"pendente"}],"g014":[{"type":"Story","delivery_num":10,"ideal_time":"10:00","roteiro":"Special Bets","odds":"TBD","link":"","obs":"Para o jogo em questão, teremos uma Special Bets. O bilhete será enviado 1 dia antes do jogo, junto de uma arte pronta para ser postada, caso prefira.","status":"pendente"}],"g036":[{"type":"Story","delivery_num":11,"ideal_time":"10:00","roteiro":"Special Bets","odds":"TBD","link":"","obs":"Para o jogo em questão, teremos uma Special Bets. O bilhete será enviado 1 dia antes do jogo, junto de uma arte pronta para ser postada, caso prefira.","status":"pendente"}],"g042":[{"type":"Story","delivery_num":12,"ideal_time":"10:00","roteiro":"Special Bets","odds":"TBD","link":"","obs":"Para o jogo em questão, teremos uma Special Bets. O bilhete será enviado 1 dia antes do jogo, junto de uma arte pronta para ser postada, caso prefira.","status":"pendente"}],"g050":[{"type":"Story","delivery_num":13,"ideal_time":"10:00","roteiro":"Special Bets","odds":"TBD","link":"","obs":"Para o jogo em questão, teremos uma Special Bets. O bilhete será enviado 1 dia antes do jogo, junto de uma arte pronta para ser postada, caso prefira.","status":"pendente"}],"g054":[{"type":"Story","delivery_num":14,"ideal_time":"10:00","roteiro":"Special Bets","odds":"TBD","link":"","obs":"Para o jogo em questão, teremos uma Special Bets. O bilhete será enviado 1 dia antes do jogo, junto de uma arte pronta para ser postada, caso prefira.","status":"pendente"}],"g056":[{"type":"Story","delivery_num":15,"ideal_time":"10:00","roteiro":"Special Bets","odds":"TBD","link":"","obs":"Para o jogo em questão, teremos uma Special Bets. O bilhete será enviado 1 dia antes do jogo, junto de uma arte pronta para ser postada, caso prefira.","status":"pendente"}],"g058":[{"type":"Story","delivery_num":16,"ideal_time":"10:00","roteiro":"Special Bets","odds":"TBD","link":"","obs":"Para o jogo em questão, teremos uma Special Bets. O bilhete será enviado 1 dia antes do jogo, junto de uma arte pronta para ser postada, caso prefira.","status":"pendente"}],"g060":[{"type":"Story","delivery_num":17,"ideal_time":"10:00","roteiro":"Special Bets","odds":"TBD","link":"","obs":"Para o jogo em questão, teremos uma Special Bets. O bilhete será enviado 1 dia antes do jogo, junto de uma arte pronta para ser postada, caso prefira.","status":"pendente"}],"g061":[{"type":"Story","delivery_num":18,"ideal_time":"10:00","roteiro":"Special Bets","odds":"TBD","link":"","obs":"Para o jogo em questão, teremos uma Special Bets. O bilhete será enviado 1 dia antes do jogo, junto de uma arte pronta para ser postada, caso prefira.","status":"pendente"}],"g062":[{"type":"Story","delivery_num":19,"ideal_time":"10:00","roteiro":"Special Bets","odds":"TBD","link":"","obs":"Para o jogo em questão, teremos uma Special Bets. O bilhete será enviado 1 dia antes do jogo, junto de uma arte pronta para ser postada, caso prefira.","status":"pendente"}],"g063":[{"type":"Story","delivery_num":20,"ideal_time":"10:00","roteiro":"Special Bets","odds":"TBD","link":"","obs":"Para o jogo em questão, teremos uma Special Bets. O bilhete será enviado 1 dia antes do jogo, junto de uma arte pronta para ser postada, caso prefira.","status":"pendente"}]}}}
+{
+  "influencers": [
+    {
+      "id": "coringa",
+      "name": "Coringa",
+      "password": "Coringa",
+      "stories": 19,
+      "key": "a3f2b891"
+    },
+    {
+      "id": "m12",
+      "name": "M12",
+      "password": "M12",
+      "stories": 3,
+      "key": "7c4e1d05"
+    },
+    {
+      "id": "brabox",
+      "name": "Brabox",
+      "password": "Brabox",
+      "stories": 19,
+      "key": "f8a63c2e"
+    },
+    {
+      "id": "gabepeixe",
+      "name": "GabePeixe",
+      "password": "GabePeixe",
+      "stories": 16,
+      "key": "b52d9f47"
+    },
+    {
+      "id": "millerzeira",
+      "name": "Millerzeira",
+      "password": "Millerzeira",
+      "stories": 22,
+      "key": "3e8c0a61"
+    },
+    {
+      "id": "cenas",
+      "name": "Cenas Lamentáveis",
+      "password": "Cenas Lamentáveis",
+      "stories": 20,
+      "key": "d19b74fe"
+    },
+    {
+      "id": "cole",
+      "name": "Cole Markin",
+      "password": "Cole Markin",
+      "stories": 19,
+      "key": "9f4ab510"
+    },
+    {
+      "id": "2nalinha",
+      "name": "2 Na Linha 1no Gol",
+      "password": "2 Na Linha 1no Gol",
+      "stories": 20,
+      "key": "c83d6e2f"
+    },
+    {
+      "id": "robgol",
+      "name": "Robgol",
+      "password": "Robgol",
+      "stories": 19,
+      "key": "14e7a09b"
+    },
+    {
+      "id": "pedro",
+      "name": "Pedro Souza",
+      "password": "Pedro Souza",
+      "stories": 17,
+      "key": "e5f31c84"
+    },
+    {
+      "id": "bela",
+      "name": "Bela Barroso",
+      "password": "Bela Barroso",
+      "stories": 16,
+      "key": "72bc8d3a"
+    },
+    {
+      "id": "rica",
+      "name": "Rica Perrone",
+      "password": "Rica Perrone",
+      "stories": 20,
+      "key": "5a1f9c30"
+    }
+  ],
+  "games": [
+    {
+      "id": "g001",
+      "phase": "Grupos",
+      "iso": "2026-06-11",
+      "matchup": "México × África do Sul",
+      "br": false,
+      "abertura": true
+    },
+    {
+      "id": "g002",
+      "phase": "Grupos",
+      "iso": "2026-06-13",
+      "matchup": "Brasil × Marrocos",
+      "br": true,
+      "abertura": false
+    },
+    {
+      "id": "g003",
+      "phase": "Grupos",
+      "iso": "2026-06-19",
+      "matchup": "Brasil × Haiti",
+      "br": true,
+      "abertura": false
+    },
+    {
+      "id": "g004",
+      "phase": "Grupos (3ª rodada)",
+      "iso": "2026-06-24",
+      "matchup": "Escócia × Brasil",
+      "br": true,
+      "abertura": false
+    },
+    {
+      "id": "g005",
+      "phase": "Grupos",
+      "iso": "2026-06-14",
+      "matchup": "Alemanha × Curaçau",
+      "br": false,
+      "abertura": false
+    },
+    {
+      "id": "g006",
+      "phase": "Grupos",
+      "iso": "2026-06-15",
+      "matchup": "Espanha × Cabo Verde",
+      "br": false,
+      "abertura": false
+    },
+    {
+      "id": "g007",
+      "phase": "Grupos",
+      "iso": "2026-06-16",
+      "matchup": "França × Senegal",
+      "br": false,
+      "abertura": false
+    },
+    {
+      "id": "g008",
+      "phase": "Grupos",
+      "iso": "2026-06-16",
+      "matchup": "Argentina × Argélia",
+      "br": false,
+      "abertura": false
+    },
+    {
+      "id": "g009",
+      "phase": "Grupos",
+      "iso": "2026-06-17",
+      "matchup": "Inglaterra × Croácia",
+      "br": false,
+      "abertura": false
+    },
+    {
+      "id": "g010",
+      "phase": "Grupos",
+      "iso": "2026-06-22",
+      "matchup": "Argentina × Áustria",
+      "br": false,
+      "abertura": false
+    },
+    {
+      "id": "g011",
+      "phase": "Grupos",
+      "iso": "2026-06-22",
+      "matchup": "França × Iraque",
+      "br": false,
+      "abertura": false
+    },
+    {
+      "id": "g012",
+      "phase": "Grupos (3ª rodada)",
+      "iso": "2026-06-26",
+      "matchup": "Noruega × França",
+      "br": false,
+      "abertura": false
+    },
+    {
+      "id": "g013",
+      "phase": "Grupos (3ª rodada)",
+      "iso": "2026-06-26",
+      "matchup": "Uruguai × Espanha",
+      "br": false,
+      "abertura": false
+    },
+    {
+      "id": "g014",
+      "phase": "Grupos (3ª rodada)",
+      "iso": "2026-06-27",
+      "matchup": "Colômbia × Portugal",
+      "br": false,
+      "abertura": false
+    },
+    {
+      "id": "g015",
+      "phase": "Grupos (3ª rodada)",
+      "iso": "2026-06-27",
+      "matchup": "Jordânia × Argentina",
+      "br": false,
+      "abertura": false
+    },
+    {
+      "id": "g016",
+      "phase": "Grupos",
+      "iso": "2026-06-14",
+      "matchup": "Holanda × Japão",
+      "br": false,
+      "abertura": false
+    },
+    {
+      "id": "g017",
+      "phase": "Grupos",
+      "iso": "2026-06-15",
+      "matchup": "Bélgica × Egito",
+      "br": false,
+      "abertura": false
+    },
+    {
+      "id": "g018",
+      "phase": "Grupos",
+      "iso": "2026-06-17",
+      "matchup": "Portugal × Rep. D. Congo",
+      "br": false,
+      "abertura": false
+    },
+    {
+      "id": "g019",
+      "phase": "Grupos",
+      "iso": "2026-06-20",
+      "matchup": "Holanda × Suécia",
+      "br": false,
+      "abertura": false
+    },
+    {
+      "id": "g020",
+      "phase": "Grupos",
+      "iso": "2026-06-20",
+      "matchup": "Alemanha × Costa Marfim",
+      "br": false,
+      "abertura": false
+    },
+    {
+      "id": "g021",
+      "phase": "Grupos",
+      "iso": "2026-06-21",
+      "matchup": "Espanha × Arábia Saudita",
+      "br": false,
+      "abertura": false
+    },
+    {
+      "id": "g022",
+      "phase": "Grupos",
+      "iso": "2026-06-21",
+      "matchup": "Bélgica × Irã",
+      "br": false,
+      "abertura": false
+    },
+    {
+      "id": "g023",
+      "phase": "Grupos",
+      "iso": "2026-06-23",
+      "matchup": "Portugal × Uzbequistão",
+      "br": false,
+      "abertura": false
+    },
+    {
+      "id": "g024",
+      "phase": "Grupos",
+      "iso": "2026-06-23",
+      "matchup": "Inglaterra × Gana",
+      "br": false,
+      "abertura": false
+    },
+    {
+      "id": "g025",
+      "phase": "Grupos (3ª rodada)",
+      "iso": "2026-06-24",
+      "matchup": "Suíça × Canadá",
+      "br": false,
+      "abertura": false
+    },
+    {
+      "id": "g026",
+      "phase": "Grupos (3ª rodada)",
+      "iso": "2026-06-25",
+      "matchup": "Equador × Alemanha",
+      "br": false,
+      "abertura": false
+    },
+    {
+      "id": "g027",
+      "phase": "Grupos (3ª rodada)",
+      "iso": "2026-06-25",
+      "matchup": "Japão × Suécia",
+      "br": false,
+      "abertura": false
+    },
+    {
+      "id": "g028",
+      "phase": "Grupos (3ª rodada)",
+      "iso": "2026-06-25",
+      "matchup": "Tunísia × Holanda",
+      "br": false,
+      "abertura": false
+    },
+    {
+      "id": "g029",
+      "phase": "Grupos (3ª rodada)",
+      "iso": "2026-06-25",
+      "matchup": "Turquia × EUA",
+      "br": false,
+      "abertura": false
+    },
+    {
+      "id": "g030",
+      "phase": "Grupos (3ª rodada)",
+      "iso": "2026-06-26",
+      "matchup": "Nova Zelândia × Bélgica",
+      "br": false,
+      "abertura": false
+    },
+    {
+      "id": "g031",
+      "phase": "Grupos (3ª rodada)",
+      "iso": "2026-06-27",
+      "matchup": "Panamá × Inglaterra",
+      "br": false,
+      "abertura": false
+    },
+    {
+      "id": "g032",
+      "phase": "32-avos",
+      "iso": "2026-06-28",
+      "matchup": "32-avos — Jogo 73",
+      "br": false,
+      "abertura": false
+    },
+    {
+      "id": "g033",
+      "phase": "32-avos",
+      "iso": "2026-06-29",
+      "matchup": "32-avos — Jogo 74",
+      "br": false,
+      "abertura": false
+    },
+    {
+      "id": "g034",
+      "phase": "32-avos",
+      "iso": "2026-06-29",
+      "matchup": "32-avos — Jogo 75",
+      "br": false,
+      "abertura": false
+    },
+    {
+      "id": "g035",
+      "phase": "32-avos",
+      "iso": "2026-06-29",
+      "matchup": "32-avos — Jogo 76",
+      "br": false,
+      "abertura": false
+    },
+    {
+      "id": "g036",
+      "phase": "32-avos",
+      "iso": "2026-06-30",
+      "matchup": "32-avos — Jogo 77",
+      "br": false,
+      "abertura": false
+    },
+    {
+      "id": "g037",
+      "phase": "32-avos",
+      "iso": "2026-06-30",
+      "matchup": "32-avos — Jogo 78",
+      "br": false,
+      "abertura": false
+    },
+    {
+      "id": "g038",
+      "phase": "32-avos",
+      "iso": "2026-06-30",
+      "matchup": "32-avos — Jogo 79",
+      "br": false,
+      "abertura": false
+    },
+    {
+      "id": "g039",
+      "phase": "32-avos",
+      "iso": "2026-07-01",
+      "matchup": "32-avos — Jogo 80",
+      "br": false,
+      "abertura": false
+    },
+    {
+      "id": "g040",
+      "phase": "32-avos",
+      "iso": "2026-07-01",
+      "matchup": "32-avos — Jogo 81",
+      "br": false,
+      "abertura": false
+    },
+    {
+      "id": "g041",
+      "phase": "32-avos",
+      "iso": "2026-07-01",
+      "matchup": "32-avos — Jogo 82",
+      "br": false,
+      "abertura": false
+    },
+    {
+      "id": "g042",
+      "phase": "32-avos",
+      "iso": "2026-07-02",
+      "matchup": "32-avos — Jogo 83",
+      "br": false,
+      "abertura": false
+    },
+    {
+      "id": "g043",
+      "phase": "32-avos",
+      "iso": "2026-07-02",
+      "matchup": "32-avos — Jogo 84",
+      "br": false,
+      "abertura": false
+    },
+    {
+      "id": "g044",
+      "phase": "32-avos",
+      "iso": "2026-07-02",
+      "matchup": "32-avos — Jogo 85",
+      "br": false,
+      "abertura": false
+    },
+    {
+      "id": "g045",
+      "phase": "32-avos",
+      "iso": "2026-07-03",
+      "matchup": "32-avos — Jogo 86",
+      "br": false,
+      "abertura": false
+    },
+    {
+      "id": "g046",
+      "phase": "32-avos",
+      "iso": "2026-07-03",
+      "matchup": "32-avos — Jogo 87",
+      "br": false,
+      "abertura": false
+    },
+    {
+      "id": "g047",
+      "phase": "32-avos",
+      "iso": "2026-07-03",
+      "matchup": "32-avos — Jogo 88",
+      "br": false,
+      "abertura": false
+    },
+    {
+      "id": "g048",
+      "phase": "Oitavas",
+      "iso": "2026-07-04",
+      "matchup": "Oitavas — Jogo 89",
+      "br": false,
+      "abertura": false
+    },
+    {
+      "id": "g049",
+      "phase": "Oitavas",
+      "iso": "2026-07-04",
+      "matchup": "Oitavas — Jogo 90",
+      "br": false,
+      "abertura": false
+    },
+    {
+      "id": "g050",
+      "phase": "Oitavas",
+      "iso": "2026-07-05",
+      "matchup": "Oitavas — Jogo 91",
+      "br": false,
+      "abertura": false
+    },
+    {
+      "id": "g051",
+      "phase": "Oitavas",
+      "iso": "2026-07-05",
+      "matchup": "Oitavas — Jogo 92",
+      "br": false,
+      "abertura": false
+    },
+    {
+      "id": "g052",
+      "phase": "Oitavas",
+      "iso": "2026-07-06",
+      "matchup": "Oitavas — Jogo 93",
+      "br": false,
+      "abertura": false
+    },
+    {
+      "id": "g053",
+      "phase": "Oitavas",
+      "iso": "2026-07-06",
+      "matchup": "Oitavas — Jogo 94",
+      "br": false,
+      "abertura": false
+    },
+    {
+      "id": "g054",
+      "phase": "Oitavas",
+      "iso": "2026-07-07",
+      "matchup": "Oitavas — Jogo 95",
+      "br": false,
+      "abertura": false
+    },
+    {
+      "id": "g055",
+      "phase": "Oitavas",
+      "iso": "2026-07-07",
+      "matchup": "Oitavas — Jogo 96",
+      "br": false,
+      "abertura": false
+    },
+    {
+      "id": "g056",
+      "phase": "Quartas",
+      "iso": "2026-07-09",
+      "matchup": "Quartas — Jogo 97",
+      "br": false,
+      "abertura": false
+    },
+    {
+      "id": "g057",
+      "phase": "Quartas",
+      "iso": "2026-07-10",
+      "matchup": "Quartas — Jogo 98",
+      "br": false,
+      "abertura": false
+    },
+    {
+      "id": "g058",
+      "phase": "Quartas",
+      "iso": "2026-07-11",
+      "matchup": "Quartas — Jogo 99",
+      "br": false,
+      "abertura": false
+    },
+    {
+      "id": "g059",
+      "phase": "Quartas",
+      "iso": "2026-07-12",
+      "matchup": "Quartas — Jogo 100",
+      "br": false,
+      "abertura": false
+    },
+    {
+      "id": "g060",
+      "phase": "Semifinais",
+      "iso": "2026-07-14",
+      "matchup": "Semifinal 1",
+      "br": false,
+      "abertura": false
+    },
+    {
+      "id": "g061",
+      "phase": "Semifinais",
+      "iso": "2026-07-15",
+      "matchup": "Semifinal 2",
+      "br": false,
+      "abertura": false
+    },
+    {
+      "id": "g062",
+      "phase": "3º Lugar",
+      "iso": "2026-07-18",
+      "matchup": "3º Lugar",
+      "br": false,
+      "abertura": false
+    },
+    {
+      "id": "g063",
+      "phase": "Final",
+      "iso": "2026-07-19",
+      "matchup": "FINAL Copa 2026",
+      "br": false,
+      "abertura": false
+    },
+    {
+      "id": "g064",
+      "phase": "Grupos",
+      "iso": "2026-06-12",
+      "matchup": "EUA × Paraguai",
+      "br": false,
+      "abertura": false
+    },
+    {
+      "id": "g065",
+      "phase": "Grupos",
+      "iso": "2026-06-16",
+      "matchup": "Iraque × Noruega",
+      "br": false,
+      "abertura": false
+    }
+  ],
+  "briefing": {
+    "g001": {
+      "t": "11:00",
+      "r": "Promover a abertura da Copa do Mundo, convidando o público a apostar no maior evento esportivo do mundo. Trazer um sentimento de \"COMEÇOU!\".",
+      "o": "Ambas equipes Marcam @2.07 (consultar odds)",
+      "l": "a definir"
+    },
+    "g002": {
+      "t": "13:00",
+      "r": "Estreia do Brasil na Copa. Reforçar que é um jogo difícil, truncado, mas acredita na vitória.",
+      "o": "Brasil vence e Menos de 2.5 gols (consultar odds)",
+      "l": "a definir"
+    },
+    "g003": {
+      "t": "15:00",
+      "r": "Segundo jogo do Brasil. Caso tiver vencido na abertura, usar isso como gancho. Caso tiver perdido, inverter a lógica para uma obrigação de vitória com muitos gols.",
+      "o": "Handicap negativo pro Brasil (consultar odds)",
+      "l": "a definir"
+    },
+    "g004": {
+      "t": "13:00",
+      "r": "A desenvolver, dependendo da situação do grupo. Mas reforçar que é o último jogo da fase de grupos, possivelmente decisivo.",
+      "o": "Brasil vence e Mais de 1.5 gols (consultar odds)",
+      "l": "a definir"
+    },
+    "g005": {
+      "t": "10:00",
+      "r": "Abismo técnico entre as duas seleções, apostar em uma goleada, jogo tranquilo para a Alemanha.",
+      "o": "Vitória da Alemanha sem tomar gols e mais de 3.5 gols (consultar odds)",
+      "l": "a definir"
+    },
+    "g006": {
+      "t": "10:00",
+      "r": "Disparidade muito grande entre as duas seleções. Apostar em goleada da forte geração espanhola.",
+      "o": "Handicap negativo alto pra Espanha (consultar odds)",
+      "l": "a definir"
+    },
+    "g007": {
+      "t": "10:00",
+      "r": "Ambas seleções muito agressivas ofensivamente. Apostar em um jogo aberto com possibilidade de gols pra ambos os lados.",
+      "o": "Ambas equipe marcam @2.05",
+      "l": "a definir"
+    },
+    "g008": {
+      "t": "16:00",
+      "r": "Estreia da atual campeã do mundo na Copa, apostar na vitória da Argentina com certa tranquilidade.",
+      "o": "Argentina e Mais de 1.5 gols (consultar odds)",
+      "l": "a definir"
+    },
+    "g009": {
+      "t": "10:00",
+      "r": "Jogaço, ambas seleções muito fortes. Exaltar a forte escalação da seleção da Inglaterra e o poderio ofensivo de ambas, justificando a aposta em ambas marcam.",
+      "o": "Ambas equipes Marcam @1.85",
+      "l": "a definir"
+    },
+    "g010": {
+      "t": "10:00",
+      "r": "Argentina atual campeã, odds muito boa para a vitória.",
+      "o": "Vitória Argentina @1.72",
+      "l": "a definir"
+    },
+    "g011": {
+      "t": "12:00",
+      "r": "França muito superior, possivelmente melhor seleção do mundo, ataque muito forte.",
+      "o": "França mais de 3.5 gols (consultar odds)",
+      "l": "a definir"
+    },
+    "g016": {
+      "t": "11:00",
+      "r": "Forte seleção japonesa pode surpreender, reforçar que é uma aposta arriscada de muito valor.",
+      "o": "Japão ou empate @1.83",
+      "l": "a definir"
+    },
+    "g017": {
+      "t": "11:00",
+      "r": "Seleção do Egito pode dar trabalho, apesar das odds bastante desiguais, acredito em um jogo difícil, ainda mais pelo fator estreia.",
+      "o": "Handicap positivo pro Egito (consultar odds)",
+      "l": "a definir"
+    },
+    "g018": {
+      "t": "10:00",
+      "r": "Grande disparidade entre ambas as seleções, Portugal deve vencer sem sustos.",
+      "o": "Portugal vencer sem tomar gols (consultar odds)",
+      "l": "a definir"
+    }
+  },
+  "schedule": {
+    "coringa": {
+      "g001": [
+        {
+          "type": "Story",
+          "delivery_num": 1,
+          "ideal_time": "11:00",
+          "roteiro": "Special Bets",
+          "odds": "TBD",
+          "link": "",
+          "obs": "Para o jogo em questão, teremos uma Special Bets. O bilhete será enviado 1 dia antes do jogo, junto de uma arte pronta para ser postada, caso prefira.",
+          "status": "pendente"
+        }
+      ],
+      "g002": [
+        {
+          "type": "Story",
+          "delivery_num": 2,
+          "ideal_time": "12:00",
+          "roteiro": "Special Bets",
+          "odds": "TBD",
+          "link": "",
+          "obs": "Para o jogo em questão, teremos uma Special Bets. O bilhete será enviado 1 dia antes do jogo, junto de uma arte pronta para ser postada, caso prefira.",
+          "status": "entregue"
+        }
+      ],
+      "g003": [
+        {
+          "type": "Story",
+          "delivery_num": 3,
+          "ideal_time": "",
+          "roteiro": "",
+          "odds": "",
+          "link": "",
+          "obs": "",
+          "status": "pendente"
+        }
+      ],
+      "g004": [
+        {
+          "type": "Story",
+          "delivery_num": 4,
+          "ideal_time": "",
+          "roteiro": "",
+          "odds": "",
+          "link": "",
+          "obs": "",
+          "status": "pendente"
+        }
+      ],
+      "g009": [
+        {
+          "type": "Story",
+          "delivery_num": 5,
+          "ideal_time": "",
+          "roteiro": "",
+          "odds": "",
+          "link": "",
+          "obs": "",
+          "status": "pendente"
+        }
+      ],
+      "g010": [
+        {
+          "type": "Story",
+          "delivery_num": 6,
+          "ideal_time": "",
+          "roteiro": "",
+          "odds": "",
+          "link": "",
+          "obs": "",
+          "status": "pendente"
+        }
+      ],
+      "g016": [
+        {
+          "type": "Story",
+          "delivery_num": 7,
+          "ideal_time": "11:00",
+          "roteiro": "Special Bets",
+          "odds": "TBD",
+          "link": "",
+          "obs": "Para o jogo em questão, teremos uma Special Bets. O bilhete será enviado 1 dia antes do jogo, junto de uma arte pronta para ser postada, caso prefira.",
+          "status": "entregue"
+        }
+      ],
+      "g032": [
+        {
+          "type": "Story",
+          "delivery_num": 8,
+          "ideal_time": "",
+          "roteiro": "",
+          "odds": "",
+          "link": "",
+          "obs": "",
+          "status": "pendente"
+        }
+      ],
+      "g047": [
+        {
+          "type": "Story",
+          "delivery_num": 9,
+          "ideal_time": "",
+          "roteiro": "",
+          "odds": "",
+          "link": "",
+          "obs": "",
+          "status": "pendente"
+        }
+      ],
+      "g048": [
+        {
+          "type": "Story",
+          "delivery_num": 10,
+          "ideal_time": "",
+          "roteiro": "",
+          "odds": "",
+          "link": "",
+          "obs": "",
+          "status": "pendente"
+        }
+      ],
+      "g052": [
+        {
+          "type": "Story",
+          "delivery_num": 11,
+          "ideal_time": "",
+          "roteiro": "",
+          "odds": "",
+          "link": "",
+          "obs": "",
+          "status": "pendente"
+        }
+      ],
+      "g056": [
+        {
+          "type": "Story",
+          "delivery_num": 12,
+          "ideal_time": "",
+          "roteiro": "",
+          "odds": "",
+          "link": "",
+          "obs": "",
+          "status": "pendente"
+        }
+      ],
+      "g059": [
+        {
+          "type": "Story",
+          "delivery_num": 13,
+          "ideal_time": "",
+          "roteiro": "",
+          "odds": "",
+          "link": "",
+          "obs": "",
+          "status": "pendente"
+        }
+      ],
+      "g060": [
+        {
+          "type": "Story",
+          "delivery_num": 14,
+          "ideal_time": "",
+          "roteiro": "",
+          "odds": "",
+          "link": "",
+          "obs": "",
+          "status": "pendente"
+        }
+      ],
+      "g061": [
+        {
+          "type": "Story",
+          "delivery_num": 15,
+          "ideal_time": "",
+          "roteiro": "",
+          "odds": "",
+          "link": "",
+          "obs": "",
+          "status": "pendente"
+        }
+      ],
+      "g062": [
+        {
+          "type": "Story",
+          "delivery_num": 16,
+          "ideal_time": "",
+          "roteiro": "",
+          "odds": "",
+          "link": "",
+          "obs": "",
+          "status": "pendente"
+        }
+      ],
+      "g063": [
+        {
+          "type": "Story",
+          "delivery_num": 17,
+          "ideal_time": "",
+          "roteiro": "",
+          "odds": "",
+          "link": "",
+          "obs": "",
+          "status": "pendente"
+        }
+      ],
+      "g005": [
+        {
+          "type": "Story",
+          "delivery_num": 18,
+          "ideal_time": "10:00",
+          "roteiro": "Promoção Deu Zebra - explorar a ideia da zebra, colocar um trocado, 2, 5 reais, pela magia, pelo lúdico, explorar o VAI QUE?",
+          "odds": "54.0",
+          "link": "",
+          "obs": "Para o jogo em questão, teremos uma promoção chamada Deu Zebra onde vamos pegar a odds da seleção que não é favorita (underdog) e aumentar ela ainda mais, nesse caso odds de 54x para a vitória do Curaçau em cima da Alemanha.",
+          "status": "entregue"
+        }
+      ],
+      "g018": [
+        {
+          "type": "Story",
+          "delivery_num": 19,
+          "ideal_time": "10:00",
+          "roteiro": "Promoção Deu Zebra - explorar a ideia da zebra, colocar um trocado, 2, 5 reais, só pela magia, pelo lúdico, explorar o VAI QUE?",
+          "odds": "12.0",
+          "link": "",
+          "obs": "Para o jogo em questão, teremos uma promoção chamada Deu Zebra onde vamos pegar a odds da seleção que não é favorita (underdog) e aumentar ela ainda mais, nesse caso odds de 12x para a vitória do Congo em cima de Portugal.",
+          "status": "pendente"
+        }
+      ]
+    },
+    "m12": {
+      "g002": [
+        {
+          "type": "Story",
+          "delivery_num": 1,
+          "ideal_time": "12:00",
+          "roteiro": "Special Bets",
+          "odds": "TBD",
+          "link": "",
+          "obs": "Para o jogo em questão, teremos uma Special Bets. O bilhete será enviado 1 dia antes do jogo, junto de uma arte pronta para ser postada, caso prefira.",
+          "status": "entregue"
+        }
+      ],
+      "g003": [
+        {
+          "type": "Story",
+          "delivery_num": 2,
+          "ideal_time": "",
+          "roteiro": "",
+          "odds": "",
+          "link": "",
+          "obs": "",
+          "status": "pendente"
+        }
+      ],
+      "g004": [
+        {
+          "type": "Story",
+          "delivery_num": 3,
+          "ideal_time": "",
+          "roteiro": "",
+          "odds": "",
+          "link": "",
+          "obs": "",
+          "status": "pendente"
+        }
+      ]
+    },
+    "brabox": {
+      "g002": [
+        {
+          "type": "Story",
+          "delivery_num": 1,
+          "ideal_time": "12:00",
+          "roteiro": "Special Bets",
+          "odds": "TBD",
+          "link": "",
+          "obs": "Para o jogo em questão, teremos uma Special Bets. O bilhete será enviado 1 dia antes do jogo, junto de uma arte pronta para ser postada, caso prefira.",
+          "status": "entregue"
+        }
+      ],
+      "g003": [
+        {
+          "type": "Story",
+          "delivery_num": 2,
+          "ideal_time": "",
+          "roteiro": "",
+          "odds": "",
+          "link": "",
+          "obs": "",
+          "status": "pendente"
+        }
+      ],
+      "g004": [
+        {
+          "type": "Story",
+          "delivery_num": 3,
+          "ideal_time": "",
+          "roteiro": "",
+          "odds": "",
+          "link": "",
+          "obs": "",
+          "status": "pendente"
+        }
+      ],
+      "g008": [
+        {
+          "type": "Story",
+          "delivery_num": 4,
+          "ideal_time": "18:00",
+          "roteiro": "Special Bets",
+          "odds": "TBD",
+          "link": "",
+          "obs": "Para o jogo em questão, teremos uma Special Bets. O bilhete será enviado 1 dia antes do jogo, junto de uma arte pronta para ser postada, caso prefira.",
+          "status": "entregue"
+        }
+      ],
+      "g018": [
+        {
+          "type": "Story",
+          "delivery_num": 5,
+          "ideal_time": "10:00",
+          "roteiro": "Promoção Deu Zebra - explorar a ideia da zebra, colocar um trocado, 2, 5 reais, só pela magia, pelo lúdico, explorar o VAI QUE?",
+          "odds": "12.0",
+          "link": "",
+          "obs": "Para o jogo em questão, teremos uma promoção chamada Deu Zebra onde vamos pegar a odds da seleção que não é favorita (underdog) e aumentar ela ainda mais, nesse caso odds de 12x para a vitória do Congo em cima de Portugal.",
+          "status": "pendente"
+        }
+      ],
+      "g034": [
+        {
+          "type": "Story",
+          "delivery_num": 6,
+          "ideal_time": "",
+          "roteiro": "",
+          "odds": "",
+          "link": "",
+          "obs": "",
+          "status": "pendente"
+        }
+      ],
+      "g045": [
+        {
+          "type": "Story",
+          "delivery_num": 7,
+          "ideal_time": "",
+          "roteiro": "",
+          "odds": "",
+          "link": "",
+          "obs": "",
+          "status": "pendente"
+        }
+      ],
+      "g050": [
+        {
+          "type": "Story",
+          "delivery_num": 8,
+          "ideal_time": "",
+          "roteiro": "",
+          "odds": "",
+          "link": "",
+          "obs": "",
+          "status": "pendente"
+        }
+      ],
+      "g054": [
+        {
+          "type": "Story",
+          "delivery_num": 9,
+          "ideal_time": "",
+          "roteiro": "",
+          "odds": "",
+          "link": "",
+          "obs": "",
+          "status": "pendente"
+        }
+      ],
+      "g056": [
+        {
+          "type": "Story",
+          "delivery_num": 10,
+          "ideal_time": "",
+          "roteiro": "",
+          "odds": "",
+          "link": "",
+          "obs": "",
+          "status": "pendente"
+        }
+      ],
+      "g057": [
+        {
+          "type": "Story",
+          "delivery_num": 11,
+          "ideal_time": "",
+          "roteiro": "",
+          "odds": "",
+          "link": "",
+          "obs": "",
+          "status": "pendente"
+        }
+      ],
+      "g059": [
+        {
+          "type": "Story",
+          "delivery_num": 12,
+          "ideal_time": "",
+          "roteiro": "",
+          "odds": "",
+          "link": "",
+          "obs": "",
+          "status": "pendente"
+        }
+      ],
+      "g060": [
+        {
+          "type": "Story",
+          "delivery_num": 13,
+          "ideal_time": "",
+          "roteiro": "",
+          "odds": "",
+          "link": "",
+          "obs": "",
+          "status": "pendente"
+        }
+      ],
+      "g061": [
+        {
+          "type": "Story",
+          "delivery_num": 14,
+          "ideal_time": "",
+          "roteiro": "",
+          "odds": "",
+          "link": "",
+          "obs": "",
+          "status": "pendente"
+        }
+      ],
+      "g062": [
+        {
+          "type": "Story",
+          "delivery_num": 15,
+          "ideal_time": "",
+          "roteiro": "",
+          "odds": "",
+          "link": "",
+          "obs": "",
+          "status": "pendente"
+        }
+      ],
+      "g063": [
+        {
+          "type": "Story",
+          "delivery_num": 16,
+          "ideal_time": "",
+          "roteiro": "",
+          "odds": "",
+          "link": "",
+          "obs": "",
+          "status": "pendente"
+        }
+      ],
+      "g064": [
+        {
+          "type": "Story",
+          "delivery_num": 17,
+          "ideal_time": "18:00",
+          "roteiro": "Special Bets",
+          "odds": "TBD",
+          "link": "",
+          "obs": "Para o jogo em questão, teremos uma Special Bets. O bilhete será enviado 1 dia antes do jogo, junto de uma arte pronta para ser postada, caso prefira.",
+          "status": "pendente"
+        }
+      ],
+      "g065": [
+        {
+          "type": "Story",
+          "delivery_num": 18,
+          "ideal_time": "15:00",
+          "roteiro": "Promoção Deu Zebra - explorar a ideia da zebra, colocar um trocado, 2, 5 reais, só pela magia, pelo lúdico, explorar o VAI QUE?",
+          "odds": "14.5",
+          "link": "",
+          "obs": "Para o jogo em questão, teremos uma promoção chamada Deu Zebra onde vamos pegar a odds da seleção que não é favorita (underdog) e aumentar ela ainda mais, nesse caso odds de 14.5x para a vitória do Iraque em cima da Noruega.",
+          "status": "entregue"
+        }
+      ],
+      "g007": [
+        {
+          "type": "Story",
+          "delivery_num": 19,
+          "ideal_time": "12:00",
+          "roteiro": "Special Bets",
+          "odds": "TBD",
+          "link": "",
+          "obs": "Para o jogo em questão, teremos uma Special Bets. O bilhete será enviado 1 dia antes do jogo, junto de uma arte pronta para ser postada, caso prefira.",
+          "status": "entregue"
+        }
+      ]
+    },
+    "gabepeixe": {
+      "g002": [
+        {
+          "type": "Story",
+          "delivery_num": 1,
+          "ideal_time": "12:00",
+          "roteiro": "Special Bets",
+          "odds": "TBD",
+          "link": "",
+          "obs": "Para o jogo em questão, teremos uma Special Bets. O bilhete será enviado 1 dia antes do jogo, junto de uma arte pronta para ser postada, caso prefira.",
+          "status": "entregue"
+        }
+      ],
+      "g003": [
+        {
+          "type": "Story",
+          "delivery_num": 2,
+          "ideal_time": "",
+          "roteiro": "",
+          "odds": "",
+          "link": "",
+          "obs": "",
+          "status": "pendente"
+        }
+      ],
+      "g004": [
+        {
+          "type": "Story",
+          "delivery_num": 3,
+          "ideal_time": "",
+          "roteiro": "",
+          "odds": "",
+          "link": "",
+          "obs": "",
+          "status": "pendente"
+        }
+      ],
+      "g011": [
+        {
+          "type": "Story",
+          "delivery_num": 4,
+          "ideal_time": "",
+          "roteiro": "",
+          "odds": "",
+          "link": "",
+          "obs": "",
+          "status": "pendente"
+        }
+      ],
+      "g035": [
+        {
+          "type": "Story",
+          "delivery_num": 5,
+          "ideal_time": "",
+          "roteiro": "",
+          "odds": "",
+          "link": "",
+          "obs": "",
+          "status": "pendente"
+        }
+      ],
+      "g044": [
+        {
+          "type": "Story",
+          "delivery_num": 6,
+          "ideal_time": "",
+          "roteiro": "",
+          "odds": "",
+          "link": "",
+          "obs": "",
+          "status": "pendente"
+        }
+      ],
+      "g051": [
+        {
+          "type": "Story",
+          "delivery_num": 7,
+          "ideal_time": "",
+          "roteiro": "",
+          "odds": "",
+          "link": "",
+          "obs": "",
+          "status": "pendente"
+        }
+      ],
+      "g055": [
+        {
+          "type": "Story",
+          "delivery_num": 8,
+          "ideal_time": "",
+          "roteiro": "",
+          "odds": "",
+          "link": "",
+          "obs": "",
+          "status": "pendente"
+        }
+      ],
+      "g056": [
+        {
+          "type": "Story",
+          "delivery_num": 9,
+          "ideal_time": "",
+          "roteiro": "",
+          "odds": "",
+          "link": "",
+          "obs": "",
+          "status": "pendente"
+        }
+      ],
+      "g057": [
+        {
+          "type": "Story",
+          "delivery_num": 10,
+          "ideal_time": "",
+          "roteiro": "",
+          "odds": "",
+          "link": "",
+          "obs": "",
+          "status": "pendente"
+        }
+      ],
+      "g058": [
+        {
+          "type": "Story",
+          "delivery_num": 11,
+          "ideal_time": "",
+          "roteiro": "",
+          "odds": "",
+          "link": "",
+          "obs": "",
+          "status": "pendente"
+        }
+      ],
+      "g059": [
+        {
+          "type": "Story",
+          "delivery_num": 12,
+          "ideal_time": "",
+          "roteiro": "",
+          "odds": "",
+          "link": "",
+          "obs": "",
+          "status": "pendente"
+        }
+      ],
+      "g060": [
+        {
+          "type": "Story",
+          "delivery_num": 13,
+          "ideal_time": "",
+          "roteiro": "",
+          "odds": "",
+          "link": "",
+          "obs": "",
+          "status": "pendente"
+        }
+      ],
+      "g061": [
+        {
+          "type": "Story",
+          "delivery_num": 14,
+          "ideal_time": "",
+          "roteiro": "",
+          "odds": "",
+          "link": "",
+          "obs": "",
+          "status": "pendente"
+        }
+      ],
+      "g062": [
+        {
+          "type": "Story",
+          "delivery_num": 15,
+          "ideal_time": "",
+          "roteiro": "",
+          "odds": "",
+          "link": "",
+          "obs": "",
+          "status": "pendente"
+        }
+      ],
+      "g063": [
+        {
+          "type": "Story",
+          "delivery_num": 16,
+          "ideal_time": "",
+          "roteiro": "",
+          "odds": "",
+          "link": "",
+          "obs": "",
+          "status": "pendente"
+        }
+      ]
+    },
+    "millerzeira": {
+      "g001": [
+        {
+          "type": "Story",
+          "delivery_num": 1,
+          "ideal_time": "11:00",
+          "roteiro": "Special Bets",
+          "odds": "TBD",
+          "link": "",
+          "obs": "Para o jogo em questão, teremos uma Special Bets. O bilhete será enviado 1 dia antes do jogo, junto de uma arte pronta para ser postada, caso prefira.",
+          "status": "entregue"
+        }
+      ],
+      "g002": [
+        {
+          "type": "Story",
+          "delivery_num": 2,
+          "ideal_time": "12:00",
+          "roteiro": "Special Bets",
+          "odds": "TBD",
+          "link": "",
+          "obs": "Para o jogo em questão, teremos uma Special Bets. O bilhete será enviado 1 dia antes do jogo, junto de uma arte pronta para ser postada, caso prefira.",
+          "status": "entregue"
+        }
+      ],
+      "g005": [
+        {
+          "type": "Story",
+          "delivery_num": 3,
+          "ideal_time": "10:00",
+          "roteiro": "Promoção Deu Zebra - explorar a ideia da zebra, colocar um trocado, 2, 5 reais, pela magia, pelo lúdico, explorar o VAI QUE?",
+          "odds": "54.0",
+          "link": "",
+          "obs": "Para o jogo em questão, teremos uma promoção chamada Deu Zebra onde vamos pegar a odds da seleção que não é favorita (underdog) e aumentar ela ainda mais, nesse caso odds de 54x para a vitória do Curaçau em cima da Alemanha.",
+          "status": "entregue"
+        }
+      ],
+      "g016": [
+        {
+          "type": "Story",
+          "delivery_num": 4,
+          "ideal_time": "11:00",
+          "roteiro": "Special Bets",
+          "odds": "TBD",
+          "link": "",
+          "obs": "Para o jogo em questão, teremos uma Special Bets. O bilhete será enviado 1 dia antes do jogo, junto de uma arte pronta para ser postada, caso prefira.",
+          "status": "entregue"
+        }
+      ],
+      "g009": [
+        {
+          "type": "Story",
+          "delivery_num": 5,
+          "ideal_time": "",
+          "roteiro": "",
+          "odds": "",
+          "link": "",
+          "obs": "",
+          "status": "pendente"
+        }
+      ],
+      "g018": [
+        {
+          "type": "Story",
+          "delivery_num": 6,
+          "ideal_time": "10:00",
+          "roteiro": "Promoção Deu Zebra - explorar a ideia da zebra, colocar um trocado, 2, 5 reais, só pela magia, pelo lúdico, explorar o VAI QUE?",
+          "odds": "12.0",
+          "link": "",
+          "obs": "Para o jogo em questão, teremos uma promoção chamada Deu Zebra onde vamos pegar a odds da seleção que não é favorita (underdog) e aumentar ela ainda mais, nesse caso odds de 12x para a vitória do Congo em cima de Portugal.",
+          "status": "pendente"
+        }
+      ],
+      "g003": [
+        {
+          "type": "Story",
+          "delivery_num": 7,
+          "ideal_time": "",
+          "roteiro": "",
+          "odds": "",
+          "link": "",
+          "obs": "",
+          "status": "pendente"
+        }
+      ],
+      "g004": [
+        {
+          "type": "Story",
+          "delivery_num": 8,
+          "ideal_time": "",
+          "roteiro": "",
+          "odds": "",
+          "link": "",
+          "obs": "",
+          "status": "pendente"
+        }
+      ],
+      "g025": [
+        {
+          "type": "Story",
+          "delivery_num": 9,
+          "ideal_time": "",
+          "roteiro": "",
+          "odds": "",
+          "link": "",
+          "obs": "",
+          "status": "pendente"
+        }
+      ],
+      "g012": [
+        {
+          "type": "Story",
+          "delivery_num": 10,
+          "ideal_time": "",
+          "roteiro": "",
+          "odds": "",
+          "link": "",
+          "obs": "",
+          "status": "pendente"
+        }
+      ],
+      "g013": [
+        {
+          "type": "Story",
+          "delivery_num": 11,
+          "ideal_time": "",
+          "roteiro": "",
+          "odds": "",
+          "link": "",
+          "obs": "",
+          "status": "pendente"
+        }
+      ],
+      "g033": [
+        {
+          "type": "Story",
+          "delivery_num": 12,
+          "ideal_time": "",
+          "roteiro": "",
+          "odds": "",
+          "link": "",
+          "obs": "",
+          "status": "pendente"
+        }
+      ],
+      "g043": [
+        {
+          "type": "Story",
+          "delivery_num": 13,
+          "ideal_time": "",
+          "roteiro": "",
+          "odds": "",
+          "link": "",
+          "obs": "",
+          "status": "pendente"
+        }
+      ],
+      "g048": [
+        {
+          "type": "Story",
+          "delivery_num": 14,
+          "ideal_time": "",
+          "roteiro": "",
+          "odds": "",
+          "link": "",
+          "obs": "",
+          "status": "pendente"
+        }
+      ],
+      "g052": [
+        {
+          "type": "Story",
+          "delivery_num": 15,
+          "ideal_time": "",
+          "roteiro": "",
+          "odds": "",
+          "link": "",
+          "obs": "",
+          "status": "pendente"
+        }
+      ],
+      "g056": [
+        {
+          "type": "Story",
+          "delivery_num": 16,
+          "ideal_time": "",
+          "roteiro": "",
+          "odds": "",
+          "link": "",
+          "obs": "",
+          "status": "pendente"
+        }
+      ],
+      "g058": [
+        {
+          "type": "Story",
+          "delivery_num": 17,
+          "ideal_time": "",
+          "roteiro": "",
+          "odds": "",
+          "link": "",
+          "obs": "",
+          "status": "pendente"
+        }
+      ],
+      "g059": [
+        {
+          "type": "Story",
+          "delivery_num": 18,
+          "ideal_time": "",
+          "roteiro": "",
+          "odds": "",
+          "link": "",
+          "obs": "",
+          "status": "pendente"
+        }
+      ],
+      "g060": [
+        {
+          "type": "Story",
+          "delivery_num": 19,
+          "ideal_time": "",
+          "roteiro": "",
+          "odds": "",
+          "link": "",
+          "obs": "",
+          "status": "pendente"
+        }
+      ],
+      "g061": [
+        {
+          "type": "Story",
+          "delivery_num": 20,
+          "ideal_time": "",
+          "roteiro": "",
+          "odds": "",
+          "link": "",
+          "obs": "",
+          "status": "pendente"
+        }
+      ],
+      "g062": [
+        {
+          "type": "Story",
+          "delivery_num": 21,
+          "ideal_time": "",
+          "roteiro": "",
+          "odds": "",
+          "link": "",
+          "obs": "",
+          "status": "pendente"
+        }
+      ],
+      "g063": [
+        {
+          "type": "Story",
+          "delivery_num": 22,
+          "ideal_time": "",
+          "roteiro": "",
+          "odds": "",
+          "link": "",
+          "obs": "",
+          "status": "pendente"
+        }
+      ]
+    },
+    "pedro": {
+      "g002": [
+        {
+          "type": "Story",
+          "delivery_num": 1,
+          "ideal_time": "12:00",
+          "roteiro": "Special Bets",
+          "odds": "TBD",
+          "link": "",
+          "obs": "Para o jogo em questão, teremos uma Special Bets. O bilhete será enviado 1 dia antes do jogo, junto de uma arte pronta para ser postada, caso prefira.",
+          "status": "entregue"
+        }
+      ],
+      "g003": [
+        {
+          "type": "Story",
+          "delivery_num": 2,
+          "ideal_time": "",
+          "roteiro": "",
+          "odds": "",
+          "link": "",
+          "obs": "",
+          "status": "pendente"
+        }
+      ],
+      "g004": [
+        {
+          "type": "Story",
+          "delivery_num": 3,
+          "ideal_time": "",
+          "roteiro": "",
+          "odds": "",
+          "link": "",
+          "obs": "",
+          "status": "pendente"
+        }
+      ],
+      "g010": [
+        {
+          "type": "Story",
+          "delivery_num": 4,
+          "ideal_time": "",
+          "roteiro": "",
+          "odds": "",
+          "link": "",
+          "obs": "",
+          "status": "pendente"
+        }
+      ],
+      "g016": [
+        {
+          "type": "Story",
+          "delivery_num": 5,
+          "ideal_time": "11:00",
+          "roteiro": "Special Bets",
+          "odds": "TBD",
+          "link": "",
+          "obs": "Para o jogo em questão, teremos uma Special Bets. O bilhete será enviado 1 dia antes do jogo, junto de uma arte pronta para ser postada, caso prefira.",
+          "status": "entregue"
+        }
+      ],
+      "g037": [
+        {
+          "type": "Story",
+          "delivery_num": 6,
+          "ideal_time": "",
+          "roteiro": "",
+          "odds": "",
+          "link": "",
+          "obs": "",
+          "status": "pendente"
+        }
+      ],
+      "g042": [
+        {
+          "type": "Story",
+          "delivery_num": 7,
+          "ideal_time": "",
+          "roteiro": "",
+          "odds": "",
+          "link": "",
+          "obs": "",
+          "status": "pendente"
+        }
+      ],
+      "g049": [
+        {
+          "type": "Story",
+          "delivery_num": 8,
+          "ideal_time": "",
+          "roteiro": "",
+          "odds": "",
+          "link": "",
+          "obs": "",
+          "status": "pendente"
+        }
+      ],
+      "g053": [
+        {
+          "type": "Story",
+          "delivery_num": 9,
+          "ideal_time": "",
+          "roteiro": "",
+          "odds": "",
+          "link": "",
+          "obs": "",
+          "status": "pendente"
+        }
+      ],
+      "g056": [
+        {
+          "type": "Story",
+          "delivery_num": 10,
+          "ideal_time": "",
+          "roteiro": "",
+          "odds": "",
+          "link": "",
+          "obs": "",
+          "status": "pendente"
+        }
+      ],
+      "g058": [
+        {
+          "type": "Story",
+          "delivery_num": 11,
+          "ideal_time": "",
+          "roteiro": "",
+          "odds": "",
+          "link": "",
+          "obs": "",
+          "status": "pendente"
+        }
+      ],
+      "g059": [
+        {
+          "type": "Story",
+          "delivery_num": 12,
+          "ideal_time": "",
+          "roteiro": "",
+          "odds": "",
+          "link": "",
+          "obs": "",
+          "status": "pendente"
+        }
+      ],
+      "g060": [
+        {
+          "type": "Story",
+          "delivery_num": 13,
+          "ideal_time": "",
+          "roteiro": "",
+          "odds": "",
+          "link": "",
+          "obs": "",
+          "status": "pendente"
+        }
+      ],
+      "g061": [
+        {
+          "type": "Story",
+          "delivery_num": 14,
+          "ideal_time": "",
+          "roteiro": "",
+          "odds": "",
+          "link": "",
+          "obs": "",
+          "status": "pendente"
+        }
+      ],
+      "g062": [
+        {
+          "type": "Story",
+          "delivery_num": 15,
+          "ideal_time": "",
+          "roteiro": "",
+          "odds": "",
+          "link": "",
+          "obs": "",
+          "status": "pendente"
+        }
+      ],
+      "g063": [
+        {
+          "type": "Story",
+          "delivery_num": 16,
+          "ideal_time": "",
+          "roteiro": "",
+          "odds": "",
+          "link": "",
+          "obs": "",
+          "status": "pendente"
+        }
+      ],
+      "g005": [
+        {
+          "type": "Story",
+          "delivery_num": 17,
+          "ideal_time": "10:00",
+          "roteiro": "Promoção Deu Zebra - explorar a ideia da zebra, colocar um trocado, 2, 5 reais, pela magia, pelo lúdico, explorar o VAI QUE?",
+          "odds": "54.0",
+          "link": "",
+          "obs": "Para o jogo em questão, teremos uma promoção chamada Deu Zebra onde vamos pegar a odds da seleção que não é favorita (underdog) e aumentar ela ainda mais, nesse caso odds de 54x para a vitória do Curaçau em cima da Alemanha.",
+          "status": "entregue"
+        }
+      ]
+    },
+    "robgol": {
+      "g001": [
+        {
+          "type": "Story",
+          "delivery_num": 1,
+          "ideal_time": "11:00",
+          "roteiro": "Special Bets",
+          "odds": "TBD",
+          "link": "",
+          "obs": "Para o jogo em questão, teremos uma Special Bets. O bilhete será enviado 1 dia antes do jogo, junto de uma arte pronta para ser postada, caso prefira.",
+          "status": "entregue"
+        }
+      ],
+      "g002": [
+        {
+          "type": "Story",
+          "delivery_num": 2,
+          "ideal_time": "12:00",
+          "roteiro": "Special Bets",
+          "odds": "TBD",
+          "link": "",
+          "obs": "Para o jogo em questão, teremos uma Special Bets. O bilhete será enviado 1 dia antes do jogo, junto de uma arte pronta para ser postada, caso prefira.",
+          "status": "entregue"
+        }
+      ],
+      "g003": [
+        {
+          "type": "Story",
+          "delivery_num": 3,
+          "ideal_time": "",
+          "roteiro": "",
+          "odds": "",
+          "link": "",
+          "obs": "",
+          "status": "pendente"
+        }
+      ],
+      "g004": [
+        {
+          "type": "Story",
+          "delivery_num": 4,
+          "ideal_time": "",
+          "roteiro": "",
+          "odds": "",
+          "link": "",
+          "obs": "",
+          "status": "pendente"
+        }
+      ],
+      "g007": [
+        {
+          "type": "Story",
+          "delivery_num": 5,
+          "ideal_time": "12:00",
+          "roteiro": "Special Bets",
+          "odds": "TBD",
+          "link": "",
+          "obs": "Para o jogo em questão, teremos uma Special Bets. O bilhete será enviado 1 dia antes do jogo, junto de uma arte pronta para ser postada, caso prefira.",
+          "status": "entregue"
+        }
+      ],
+      "g010": [
+        {
+          "type": "Story",
+          "delivery_num": 6,
+          "ideal_time": "",
+          "roteiro": "",
+          "odds": "",
+          "link": "",
+          "obs": "",
+          "status": "pendente"
+        }
+      ],
+      "g026": [
+        {
+          "type": "Story",
+          "delivery_num": 7,
+          "ideal_time": "",
+          "roteiro": "",
+          "odds": "",
+          "link": "",
+          "obs": "",
+          "status": "pendente"
+        }
+      ],
+      "g038": [
+        {
+          "type": "Story",
+          "delivery_num": 8,
+          "ideal_time": "",
+          "roteiro": "",
+          "odds": "",
+          "link": "",
+          "obs": "",
+          "status": "pendente"
+        }
+      ],
+      "g041": [
+        {
+          "type": "Story",
+          "delivery_num": 9,
+          "ideal_time": "",
+          "roteiro": "",
+          "odds": "",
+          "link": "",
+          "obs": "",
+          "status": "pendente"
+        }
+      ],
+      "g050": [
+        {
+          "type": "Story",
+          "delivery_num": 10,
+          "ideal_time": "",
+          "roteiro": "",
+          "odds": "",
+          "link": "",
+          "obs": "",
+          "status": "pendente"
+        }
+      ],
+      "g054": [
+        {
+          "type": "Story",
+          "delivery_num": 11,
+          "ideal_time": "",
+          "roteiro": "",
+          "odds": "",
+          "link": "",
+          "obs": "",
+          "status": "pendente"
+        }
+      ],
+      "g057": [
+        {
+          "type": "Story",
+          "delivery_num": 12,
+          "ideal_time": "",
+          "roteiro": "",
+          "odds": "",
+          "link": "",
+          "obs": "",
+          "status": "pendente"
+        }
+      ],
+      "g058": [
+        {
+          "type": "Story",
+          "delivery_num": 13,
+          "ideal_time": "",
+          "roteiro": "",
+          "odds": "",
+          "link": "",
+          "obs": "",
+          "status": "pendente"
+        }
+      ],
+      "g060": [
+        {
+          "type": "Story",
+          "delivery_num": 14,
+          "ideal_time": "",
+          "roteiro": "",
+          "odds": "",
+          "link": "",
+          "obs": "",
+          "status": "pendente"
+        }
+      ],
+      "g061": [
+        {
+          "type": "Story",
+          "delivery_num": 15,
+          "ideal_time": "",
+          "roteiro": "",
+          "odds": "",
+          "link": "",
+          "obs": "",
+          "status": "pendente"
+        }
+      ],
+      "g062": [
+        {
+          "type": "Story",
+          "delivery_num": 16,
+          "ideal_time": "",
+          "roteiro": "",
+          "odds": "",
+          "link": "",
+          "obs": "",
+          "status": "pendente"
+        }
+      ],
+      "g063": [
+        {
+          "type": "Story",
+          "delivery_num": 17,
+          "ideal_time": "",
+          "roteiro": "",
+          "odds": "",
+          "link": "",
+          "obs": "",
+          "status": "pendente"
+        }
+      ],
+      "g065": [
+        {
+          "type": "Story",
+          "delivery_num": 18,
+          "ideal_time": "15:00",
+          "roteiro": "Promoção Deu Zebra - explorar a ideia da zebra, colocar um trocado, 2, 5 reais, só pela magia, pelo lúdico, explorar o VAI QUE?",
+          "odds": "14.5",
+          "link": "",
+          "obs": "Para o jogo em questão, teremos uma promoção chamada Deu Zebra onde vamos pegar a odds da seleção que não é favorita (underdog) e aumentar ela ainda mais, nesse caso odds de 14.5x para a vitória do Iraque em cima da Noruega.",
+          "status": "entregue"
+        }
+      ],
+      "g008": [
+        {
+          "type": "Story",
+          "delivery_num": 19,
+          "ideal_time": "18:00",
+          "roteiro": "Special Bets",
+          "odds": "TBD",
+          "link": "",
+          "obs": "Para o jogo em questão, teremos uma Special Bets. O bilhete será enviado 1 dia antes do jogo, junto de uma arte pronta para ser postada, caso prefira.",
+          "status": "entregue"
+        }
+      ]
+    },
+    "2nalinha": {
+      "g001": [
+        {
+          "type": "Story",
+          "delivery_num": 1,
+          "ideal_time": "11:00",
+          "roteiro": "Special Bets",
+          "odds": "TBD",
+          "link": "",
+          "obs": "Para o jogo em questão, teremos uma Special Bets. O bilhete será enviado 1 dia antes do jogo, junto de uma arte pronta para ser postada, caso prefira.",
+          "status": "entregue"
+        }
+      ],
+      "g002": [
+        {
+          "type": "Story",
+          "delivery_num": 2,
+          "ideal_time": "12:00",
+          "roteiro": "Special Bets",
+          "odds": "TBD",
+          "link": "",
+          "obs": "Para o jogo em questão, teremos uma Special Bets. O bilhete será enviado 1 dia antes do jogo, junto de uma arte pronta para ser postada, caso prefira.",
+          "status": "entregue"
+        }
+      ],
+      "g003": [
+        {
+          "type": "Story",
+          "delivery_num": 3,
+          "ideal_time": "",
+          "roteiro": "",
+          "odds": "",
+          "link": "",
+          "obs": "",
+          "status": "pendente"
+        }
+      ],
+      "g004": [
+        {
+          "type": "Story",
+          "delivery_num": 4,
+          "ideal_time": "",
+          "roteiro": "",
+          "odds": "",
+          "link": "",
+          "obs": "",
+          "status": "pendente"
+        }
+      ],
+      "g009": [
+        {
+          "type": "Story",
+          "delivery_num": 5,
+          "ideal_time": "",
+          "roteiro": "",
+          "odds": "",
+          "link": "",
+          "obs": "",
+          "status": "pendente"
+        }
+      ],
+      "g011": [
+        {
+          "type": "Story",
+          "delivery_num": 6,
+          "ideal_time": "",
+          "roteiro": "",
+          "odds": "",
+          "link": "",
+          "obs": "",
+          "status": "pendente"
+        }
+      ],
+      "g026": [
+        {
+          "type": "Story",
+          "delivery_num": 7,
+          "ideal_time": "",
+          "roteiro": "",
+          "odds": "",
+          "link": "",
+          "obs": "",
+          "status": "pendente"
+        }
+      ],
+      "g039": [
+        {
+          "type": "Story",
+          "delivery_num": 8,
+          "ideal_time": "",
+          "roteiro": "",
+          "odds": "",
+          "link": "",
+          "obs": "",
+          "status": "pendente"
+        }
+      ],
+      "g040": [
+        {
+          "type": "Story",
+          "delivery_num": 9,
+          "ideal_time": "",
+          "roteiro": "",
+          "odds": "",
+          "link": "",
+          "obs": "",
+          "status": "pendente"
+        }
+      ],
+      "g051": [
+        {
+          "type": "Story",
+          "delivery_num": 10,
+          "ideal_time": "",
+          "roteiro": "",
+          "odds": "",
+          "link": "",
+          "obs": "",
+          "status": "pendente"
+        }
+      ],
+      "g055": [
+        {
+          "type": "Story",
+          "delivery_num": 11,
+          "ideal_time": "",
+          "roteiro": "",
+          "odds": "",
+          "link": "",
+          "obs": "",
+          "status": "pendente"
+        }
+      ],
+      "g056": [
+        {
+          "type": "Story",
+          "delivery_num": 12,
+          "ideal_time": "",
+          "roteiro": "",
+          "odds": "",
+          "link": "",
+          "obs": "",
+          "status": "pendente"
+        }
+      ],
+      "g059": [
+        {
+          "type": "Story",
+          "delivery_num": 13,
+          "ideal_time": "",
+          "roteiro": "",
+          "odds": "",
+          "link": "",
+          "obs": "",
+          "status": "pendente"
+        }
+      ],
+      "g060": [
+        {
+          "type": "Story",
+          "delivery_num": 14,
+          "ideal_time": "",
+          "roteiro": "",
+          "odds": "",
+          "link": "",
+          "obs": "",
+          "status": "pendente"
+        }
+      ],
+      "g061": [
+        {
+          "type": "Story",
+          "delivery_num": 15,
+          "ideal_time": "",
+          "roteiro": "",
+          "odds": "",
+          "link": "",
+          "obs": "",
+          "status": "pendente"
+        }
+      ],
+      "g062": [
+        {
+          "type": "Story",
+          "delivery_num": 16,
+          "ideal_time": "",
+          "roteiro": "",
+          "odds": "",
+          "link": "",
+          "obs": "",
+          "status": "pendente"
+        }
+      ],
+      "g063": [
+        {
+          "type": "Story",
+          "delivery_num": 17,
+          "ideal_time": "",
+          "roteiro": "",
+          "odds": "",
+          "link": "",
+          "obs": "",
+          "status": "pendente"
+        }
+      ],
+      "g064": [
+        {
+          "type": "Story",
+          "delivery_num": 18,
+          "ideal_time": "18:00",
+          "roteiro": "Special Bets",
+          "odds": "TBD",
+          "link": "",
+          "obs": "Para o jogo em questão, teremos uma Special Bets. O bilhete será enviado 1 dia antes do jogo, junto de uma arte pronta para ser postada, caso prefira.",
+          "status": "entregue"
+        }
+      ],
+      "g024": [
+        {
+          "type": "Story",
+          "delivery_num": 19,
+          "ideal_time": "12:00",
+          "roteiro": "Promoção Deu Zebra - explorar a ideia da zebra, colocar um trocado, 2, 5 reais, só pela magia, pelo lúdico, explorar o VAI QUE?",
+          "odds": "10.0",
+          "link": "",
+          "obs": "Para o jogo em questão, teremos uma promoção chamada Deu Zebra onde vamos pegar a odds da seleção que não é favorita (underdog) e aumentar ela ainda mais, nesse caso odds de 10x para a vitória da Gana em cima da Inglaterra.",
+          "status": "pendente"
+        }
+      ],
+      "g018": [
+        {
+          "type": "Story",
+          "delivery_num": 20,
+          "ideal_time": "10:00",
+          "roteiro": "Promoção Deu Zebra - explorar a ideia da zebra, colocar um trocado, 2, 5 reais, só pela magia, pelo lúdico, explorar o VAI QUE?",
+          "odds": "12.0",
+          "link": "",
+          "obs": "Para o jogo em questão, teremos uma promoção chamada Deu Zebra onde vamos pegar a odds da seleção que não é favorita (underdog) e aumentar ela ainda mais, nesse caso odds de 12x para a vitória do Congo em cima de Portugal.",
+          "status": "pendente"
+        }
+      ]
+    },
+    "bela": {
+      "g002": [
+        {
+          "type": "Story",
+          "delivery_num": 1,
+          "ideal_time": "12:00",
+          "roteiro": "Special Bets",
+          "odds": "TBD",
+          "link": "",
+          "obs": "Para o jogo em questão, teremos uma Special Bets. O bilhete será enviado 1 dia antes do jogo, junto de uma arte pronta para ser postada, caso prefira.",
+          "status": "entregue"
+        }
+      ],
+      "g003": [
+        {
+          "type": "Story",
+          "delivery_num": 2,
+          "ideal_time": "",
+          "roteiro": "",
+          "odds": "",
+          "link": "",
+          "obs": "",
+          "status": "pendente"
+        }
+      ],
+      "g004": [
+        {
+          "type": "Story",
+          "delivery_num": 3,
+          "ideal_time": "",
+          "roteiro": "",
+          "odds": "",
+          "link": "",
+          "obs": "",
+          "status": "pendente"
+        }
+      ],
+      "g006": [
+        {
+          "type": "Story",
+          "delivery_num": 4,
+          "ideal_time": "09:00",
+          "roteiro": "Promoção Deu Zebra - explorar a ideia da zebra, colocar um trocado, 2, 5 reais, só pela magia, pelo lúdico, explorar o VAI QUE?",
+          "odds": "30.0",
+          "link": "",
+          "obs": "Para o jogo em questão, teremos uma promoção chamada Deu Zebra onde vamos pegar a odds da seleção que não é favorita (underdog) e aumentar ela ainda mais, nesse caso odds de 30x para a vitória do Cabo Verde em cima da Espanha.",
+          "status": "entregue"
+        }
+      ],
+      "g017": [
+        {
+          "type": "Story",
+          "delivery_num": 5,
+          "ideal_time": "11:00",
+          "roteiro": "Special Bets",
+          "odds": "TBD",
+          "link": "",
+          "obs": "Para o jogo em questão, teremos uma Special Bets. O bilhete será enviado 1 dia antes do jogo, junto de uma arte pronta para ser postada, caso prefira.",
+          "status": "entregue"
+        }
+      ],
+      "g032": [
+        {
+          "type": "Story",
+          "delivery_num": 6,
+          "ideal_time": "",
+          "roteiro": "",
+          "odds": "",
+          "link": "",
+          "obs": "",
+          "status": "pendente"
+        }
+      ],
+      "g047": [
+        {
+          "type": "Story",
+          "delivery_num": 7,
+          "ideal_time": "",
+          "roteiro": "",
+          "odds": "",
+          "link": "",
+          "obs": "",
+          "status": "pendente"
+        }
+      ],
+      "g048": [
+        {
+          "type": "Story",
+          "delivery_num": 8,
+          "ideal_time": "",
+          "roteiro": "",
+          "odds": "",
+          "link": "",
+          "obs": "",
+          "status": "pendente"
+        }
+      ],
+      "g052": [
+        {
+          "type": "Story",
+          "delivery_num": 9,
+          "ideal_time": "",
+          "roteiro": "",
+          "odds": "",
+          "link": "",
+          "obs": "",
+          "status": "pendente"
+        }
+      ],
+      "g056": [
+        {
+          "type": "Story",
+          "delivery_num": 10,
+          "ideal_time": "",
+          "roteiro": "",
+          "odds": "",
+          "link": "",
+          "obs": "",
+          "status": "pendente"
+        }
+      ],
+      "g057": [
+        {
+          "type": "Story",
+          "delivery_num": 11,
+          "ideal_time": "",
+          "roteiro": "",
+          "odds": "",
+          "link": "",
+          "obs": "",
+          "status": "pendente"
+        }
+      ],
+      "g058": [
+        {
+          "type": "Story",
+          "delivery_num": 12,
+          "ideal_time": "",
+          "roteiro": "",
+          "odds": "",
+          "link": "",
+          "obs": "",
+          "status": "pendente"
+        }
+      ],
+      "g060": [
+        {
+          "type": "Story",
+          "delivery_num": 13,
+          "ideal_time": "",
+          "roteiro": "",
+          "odds": "",
+          "link": "",
+          "obs": "",
+          "status": "pendente"
+        }
+      ],
+      "g061": [
+        {
+          "type": "Story",
+          "delivery_num": 14,
+          "ideal_time": "",
+          "roteiro": "",
+          "odds": "",
+          "link": "",
+          "obs": "",
+          "status": "pendente"
+        }
+      ],
+      "g062": [
+        {
+          "type": "Story",
+          "delivery_num": 15,
+          "ideal_time": "",
+          "roteiro": "",
+          "odds": "",
+          "link": "",
+          "obs": "",
+          "status": "pendente"
+        }
+      ],
+      "g063": [
+        {
+          "type": "Story",
+          "delivery_num": 16,
+          "ideal_time": "",
+          "roteiro": "",
+          "odds": "",
+          "link": "",
+          "obs": "",
+          "status": "pendente"
+        }
+      ]
+    },
+    "cole": {
+      "g001": [
+        {
+          "type": "Story",
+          "delivery_num": 1,
+          "ideal_time": "11:00",
+          "roteiro": "Special Bets",
+          "odds": "TBD",
+          "link": "",
+          "obs": "Para o jogo em questão, teremos uma Special Bets. O bilhete será enviado 1 dia antes do jogo, junto de uma arte pronta para ser postada, caso prefira.",
+          "status": "entregue"
+        }
+      ],
+      "g002": [
+        {
+          "type": "Story",
+          "delivery_num": 2,
+          "ideal_time": "",
+          "roteiro": "",
+          "odds": "",
+          "link": "",
+          "obs": "",
+          "status": "entregue"
+        }
+      ],
+      "g003": [
+        {
+          "type": "Story",
+          "delivery_num": 3,
+          "ideal_time": "",
+          "roteiro": "",
+          "odds": "",
+          "link": "",
+          "obs": "",
+          "status": "pendente"
+        }
+      ],
+      "g004": [
+        {
+          "type": "Story",
+          "delivery_num": 4,
+          "ideal_time": "",
+          "roteiro": "",
+          "odds": "",
+          "link": "",
+          "obs": "",
+          "status": "pendente"
+        }
+      ],
+      "g005": [
+        {
+          "type": "Story",
+          "delivery_num": 5,
+          "ideal_time": "10:00",
+          "roteiro": "Promoção Deu Zebra - explorar a ideia da zebra, colocar um trocado, 2, 5 reais, pela magia, pelo lúdico, explorar o VAI QUE?",
+          "odds": "54.0",
+          "link": "",
+          "obs": "Para o jogo em questão, teremos uma promoção chamada Deu Zebra onde vamos pegar a odds da seleção que não é favorita (underdog) e aumentar ela ainda mais, nesse caso odds de 54x para a vitória do Curaçau em cima da Alemanha.",
+          "status": "pendente"
+        }
+      ],
+      "g010": [
+        {
+          "type": "Story",
+          "delivery_num": 6,
+          "ideal_time": "",
+          "roteiro": "",
+          "odds": "",
+          "link": "",
+          "obs": "",
+          "status": "pendente"
+        }
+      ],
+      "g033": [
+        {
+          "type": "Story",
+          "delivery_num": 7,
+          "ideal_time": "",
+          "roteiro": "",
+          "odds": "",
+          "link": "",
+          "obs": "",
+          "status": "pendente"
+        }
+      ],
+      "g046": [
+        {
+          "type": "Story",
+          "delivery_num": 8,
+          "ideal_time": "",
+          "roteiro": "",
+          "odds": "",
+          "link": "",
+          "obs": "",
+          "status": "pendente"
+        }
+      ],
+      "g049": [
+        {
+          "type": "Story",
+          "delivery_num": 9,
+          "ideal_time": "",
+          "roteiro": "",
+          "odds": "",
+          "link": "",
+          "obs": "",
+          "status": "pendente"
+        }
+      ],
+      "g053": [
+        {
+          "type": "Story",
+          "delivery_num": 10,
+          "ideal_time": "",
+          "roteiro": "",
+          "odds": "",
+          "link": "",
+          "obs": "",
+          "status": "pendente"
+        }
+      ],
+      "g056": [
+        {
+          "type": "Story",
+          "delivery_num": 11,
+          "ideal_time": "",
+          "roteiro": "",
+          "odds": "",
+          "link": "",
+          "obs": "",
+          "status": "pendente"
+        }
+      ],
+      "g059": [
+        {
+          "type": "Story",
+          "delivery_num": 12,
+          "ideal_time": "",
+          "roteiro": "",
+          "odds": "",
+          "link": "",
+          "obs": "",
+          "status": "pendente"
+        }
+      ],
+      "g060": [
+        {
+          "type": "Story",
+          "delivery_num": 13,
+          "ideal_time": "",
+          "roteiro": "",
+          "odds": "",
+          "link": "",
+          "obs": "",
+          "status": "pendente"
+        }
+      ],
+      "g061": [
+        {
+          "type": "Story",
+          "delivery_num": 14,
+          "ideal_time": "",
+          "roteiro": "",
+          "odds": "",
+          "link": "",
+          "obs": "",
+          "status": "pendente"
+        }
+      ],
+      "g062": [
+        {
+          "type": "Story",
+          "delivery_num": 15,
+          "ideal_time": "",
+          "roteiro": "",
+          "odds": "",
+          "link": "",
+          "obs": "",
+          "status": "pendente"
+        }
+      ],
+      "g063": [
+        {
+          "type": "Story",
+          "delivery_num": 16,
+          "ideal_time": "",
+          "roteiro": "",
+          "odds": "",
+          "link": "",
+          "obs": "",
+          "status": "pendente"
+        }
+      ],
+      "g064": [
+        {
+          "type": "Story",
+          "delivery_num": 17,
+          "ideal_time": "18:00",
+          "roteiro": "Special Bets",
+          "odds": "TBD",
+          "link": "",
+          "obs": "Para o jogo em questão, teremos uma Special Bets. O bilhete será enviado 1 dia antes do jogo, junto de uma arte pronta para ser postada, caso prefira.",
+          "status": "entregue"
+        }
+      ],
+      "g024": [
+        {
+          "type": "Story",
+          "delivery_num": 18,
+          "ideal_time": "12:00",
+          "roteiro": "Promoção Deu Zebra - explorar a ideia da zebra, colocar um trocado, 2, 5 reais, só pela magia, pelo lúdico, explorar o VAI QUE?",
+          "odds": "10.0",
+          "link": "",
+          "obs": "Para o jogo em questão, teremos uma promoção chamada Deu Zebra onde vamos pegar a odds da seleção que não é favorita (underdog) e aumentar ela ainda mais, nesse caso odds de 10x para a vitória da Gana em cima da Inglaterra.",
+          "status": "pendente"
+        }
+      ],
+      "g016": [
+        {
+          "type": "Story",
+          "delivery_num": 19,
+          "ideal_time": "11:00",
+          "roteiro": "Special Bets",
+          "odds": "TBD",
+          "link": "",
+          "obs": "Para o jogo em questão, teremos uma Special Bets. O bilhete será enviado 1 dia antes do jogo, junto de uma arte pronta para ser postada, caso prefira.",
+          "status": "pendente"
+        }
+      ]
+    },
+    "cenas": {
+      "g001": [
+        {
+          "type": "Story",
+          "delivery_num": 1,
+          "ideal_time": "11:00",
+          "roteiro": "Special Bets",
+          "odds": "TBD",
+          "link": "",
+          "obs": "Para o jogo em questão, teremos uma Special Bets. O bilhete será enviado 1 dia antes do jogo, junto de uma arte pronta para ser postada, caso prefira.",
+          "status": "entregue"
+        }
+      ],
+      "g002": [
+        {
+          "type": "Story",
+          "delivery_num": 2,
+          "ideal_time": "12:00",
+          "roteiro": "Special Bets",
+          "odds": "TBD",
+          "link": "",
+          "obs": "Para o jogo em questão, teremos uma Special Bets. O bilhete será enviado 1 dia antes do jogo, junto de uma arte pronta para ser postada, caso prefira.",
+          "status": "entregue"
+        }
+      ],
+      "g003": [
+        {
+          "type": "Story",
+          "delivery_num": 3,
+          "ideal_time": "",
+          "roteiro": "",
+          "odds": "",
+          "link": "",
+          "obs": "",
+          "status": "pendente"
+        }
+      ],
+      "g004": [
+        {
+          "type": "Story",
+          "delivery_num": 4,
+          "ideal_time": "",
+          "roteiro": "",
+          "odds": "",
+          "link": "",
+          "obs": "",
+          "status": "pendente"
+        }
+      ],
+      "g005": [
+        {
+          "type": "Story",
+          "delivery_num": 5,
+          "ideal_time": "10:00",
+          "roteiro": "Promoção Deu Zebra - explorar a ideia da zebra, colocar um trocado, 2, 5 reais, pela magia, pelo lúdico, explorar o VAI QUE?",
+          "odds": "54.0",
+          "link": "",
+          "obs": "Para o jogo em questão, teremos uma promoção chamada Deu Zebra onde vamos pegar a odds da seleção que não é favorita (underdog) e aumentar ela ainda mais, nesse caso odds de 54x para a vitória do Curaçau em cima da Alemanha.",
+          "status": "pendente"
+        }
+      ],
+      "g009": [
+        {
+          "type": "Story",
+          "delivery_num": 6,
+          "ideal_time": "",
+          "roteiro": "",
+          "odds": "",
+          "link": "",
+          "obs": "",
+          "status": "pendente"
+        }
+      ],
+      "g011": [
+        {
+          "type": "Story",
+          "delivery_num": 7,
+          "ideal_time": "",
+          "roteiro": "",
+          "odds": "",
+          "link": "",
+          "obs": "",
+          "status": "pendente"
+        }
+      ],
+      "g026": [
+        {
+          "type": "Story",
+          "delivery_num": 8,
+          "ideal_time": "",
+          "roteiro": "",
+          "odds": "",
+          "link": "",
+          "obs": "",
+          "status": "pendente"
+        }
+      ],
+      "g035": [
+        {
+          "type": "Story",
+          "delivery_num": 9,
+          "ideal_time": "",
+          "roteiro": "",
+          "odds": "",
+          "link": "",
+          "obs": "",
+          "status": "pendente"
+        }
+      ],
+      "g044": [
+        {
+          "type": "Story",
+          "delivery_num": 10,
+          "ideal_time": "",
+          "roteiro": "",
+          "odds": "",
+          "link": "",
+          "obs": "",
+          "status": "pendente"
+        }
+      ],
+      "g050": [
+        {
+          "type": "Story",
+          "delivery_num": 11,
+          "ideal_time": "",
+          "roteiro": "",
+          "odds": "",
+          "link": "",
+          "obs": "",
+          "status": "pendente"
+        }
+      ],
+      "g054": [
+        {
+          "type": "Story",
+          "delivery_num": 12,
+          "ideal_time": "",
+          "roteiro": "",
+          "odds": "",
+          "link": "",
+          "obs": "",
+          "status": "pendente"
+        }
+      ],
+      "g056": [
+        {
+          "type": "Story",
+          "delivery_num": 13,
+          "ideal_time": "",
+          "roteiro": "",
+          "odds": "",
+          "link": "",
+          "obs": "",
+          "status": "pendente"
+        }
+      ],
+      "g059": [
+        {
+          "type": "Story",
+          "delivery_num": 14,
+          "ideal_time": "",
+          "roteiro": "",
+          "odds": "",
+          "link": "",
+          "obs": "",
+          "status": "pendente"
+        }
+      ],
+      "g060": [
+        {
+          "type": "Story",
+          "delivery_num": 15,
+          "ideal_time": "",
+          "roteiro": "",
+          "odds": "",
+          "link": "",
+          "obs": "",
+          "status": "pendente"
+        }
+      ],
+      "g061": [
+        {
+          "type": "Story",
+          "delivery_num": 16,
+          "ideal_time": "",
+          "roteiro": "",
+          "odds": "",
+          "link": "",
+          "obs": "",
+          "status": "pendente"
+        }
+      ],
+      "g062": [
+        {
+          "type": "Story",
+          "delivery_num": 17,
+          "ideal_time": "",
+          "roteiro": "",
+          "odds": "",
+          "link": "",
+          "obs": "",
+          "status": "pendente"
+        }
+      ],
+      "g063": [
+        {
+          "type": "Story",
+          "delivery_num": 18,
+          "ideal_time": "",
+          "roteiro": "",
+          "odds": "",
+          "link": "",
+          "obs": "",
+          "status": "pendente"
+        }
+      ],
+      "g016": [
+        {
+          "type": "Story",
+          "delivery_num": 19,
+          "ideal_time": "11:00",
+          "roteiro": "Special Bets",
+          "odds": "TBD",
+          "link": "",
+          "obs": "Para o jogo em questão, teremos uma Special Bets. O bilhete será enviado 1 dia antes do jogo, junto de uma arte pronta para ser postada, caso prefira.",
+          "status": "pendente"
+        }
+      ],
+      "g018": [
+        {
+          "type": "Story",
+          "delivery_num": 20,
+          "ideal_time": "10:00",
+          "roteiro": "Promoção Deu Zebra - explorar a ideia da zebra, colocar um trocado, 2, 5 reais, só pela magia, pelo lúdico, explorar o VAI QUE?",
+          "odds": "12.0",
+          "link": "",
+          "obs": "Para o jogo em questão, teremos uma promoção chamada Deu Zebra onde vamos pegar a odds da seleção que não é favorita (underdog) e aumentar ela ainda mais, nesse caso odds de 12x para a vitória do Congo em cima de Portugal.",
+          "status": "pendente"
+        }
+      ]
+    },
+    "rica": {
+      "g007": [
+        {
+          "type": "Story",
+          "delivery_num": 1,
+          "ideal_time": "10:00",
+          "roteiro": "Special Bets",
+          "odds": "TBD",
+          "link": "",
+          "obs": "Para o jogo em questão, teremos uma Special Bets. O bilhete será enviado 1 dia antes do jogo, junto de uma arte pronta para ser postada, caso prefira.",
+          "status": "entregue"
+        }
+      ],
+      "g009": [
+        {
+          "type": "Story",
+          "delivery_num": 2,
+          "ideal_time": "10:00",
+          "roteiro": "Special Bets",
+          "odds": "TBD",
+          "link": "",
+          "obs": "Para o jogo em questão, teremos uma Special Bets. O bilhete será enviado 1 dia antes do jogo, junto de uma arte pronta para ser postada, caso prefira.",
+          "status": "entregue"
+        }
+      ],
+      "g003": [
+        {
+          "type": "Story",
+          "delivery_num": 3,
+          "ideal_time": "10:00",
+          "roteiro": "Special Bets",
+          "odds": "TBD",
+          "link": "",
+          "obs": "Para o jogo em questão, teremos uma Special Bets. O bilhete será enviado 1 dia antes do jogo, junto de uma arte pronta para ser postada, caso prefira.",
+          "status": "pendente"
+        }
+      ],
+      "g019": [
+        {
+          "type": "Story",
+          "delivery_num": 4,
+          "ideal_time": "10:00",
+          "roteiro": "Special Bets",
+          "odds": "TBD",
+          "link": "",
+          "obs": "Para o jogo em questão, teremos uma Special Bets. O bilhete será enviado 1 dia antes do jogo, junto de uma arte pronta para ser postada, caso prefira.",
+          "status": "pendente"
+        }
+      ],
+      "g021": [
+        {
+          "type": "Story",
+          "delivery_num": 5,
+          "ideal_time": "10:00",
+          "roteiro": "Special Bets",
+          "odds": "TBD",
+          "link": "",
+          "obs": "Para o jogo em questão, teremos uma Special Bets. O bilhete será enviado 1 dia antes do jogo, junto de uma arte pronta para ser postada, caso prefira.",
+          "status": "pendente"
+        }
+      ],
+      "g010": [
+        {
+          "type": "Story",
+          "delivery_num": 6,
+          "ideal_time": "10:00",
+          "roteiro": "Special Bets",
+          "odds": "TBD",
+          "link": "",
+          "obs": "Para o jogo em questão, teremos uma Special Bets. O bilhete será enviado 1 dia antes do jogo, junto de uma arte pronta para ser postada, caso prefira.",
+          "status": "pendente"
+        }
+      ],
+      "g004": [
+        {
+          "type": "Story",
+          "delivery_num": 7,
+          "ideal_time": "10:00",
+          "roteiro": "Special Bets",
+          "odds": "TBD",
+          "link": "",
+          "obs": "Para o jogo em questão, teremos uma Special Bets. O bilhete será enviado 1 dia antes do jogo, junto de uma arte pronta para ser postada, caso prefira.",
+          "status": "pendente"
+        }
+      ],
+      "g026": [
+        {
+          "type": "Story",
+          "delivery_num": 8,
+          "ideal_time": "10:00",
+          "roteiro": "Special Bets",
+          "odds": "TBD",
+          "link": "",
+          "obs": "Para o jogo em questão, teremos uma Special Bets. O bilhete será enviado 1 dia antes do jogo, junto de uma arte pronta para ser postada, caso prefira.",
+          "status": "pendente"
+        }
+      ],
+      "g013": [
+        {
+          "type": "Story",
+          "delivery_num": 9,
+          "ideal_time": "10:00",
+          "roteiro": "Special Bets",
+          "odds": "TBD",
+          "link": "",
+          "obs": "Para o jogo em questão, teremos uma Special Bets. O bilhete será enviado 1 dia antes do jogo, junto de uma arte pronta para ser postada, caso prefira.",
+          "status": "pendente"
+        }
+      ],
+      "g014": [
+        {
+          "type": "Story",
+          "delivery_num": 10,
+          "ideal_time": "10:00",
+          "roteiro": "Special Bets",
+          "odds": "TBD",
+          "link": "",
+          "obs": "Para o jogo em questão, teremos uma Special Bets. O bilhete será enviado 1 dia antes do jogo, junto de uma arte pronta para ser postada, caso prefira.",
+          "status": "pendente"
+        }
+      ],
+      "g036": [
+        {
+          "type": "Story",
+          "delivery_num": 11,
+          "ideal_time": "10:00",
+          "roteiro": "Special Bets",
+          "odds": "TBD",
+          "link": "",
+          "obs": "Para o jogo em questão, teremos uma Special Bets. O bilhete será enviado 1 dia antes do jogo, junto de uma arte pronta para ser postada, caso prefira.",
+          "status": "pendente"
+        }
+      ],
+      "g042": [
+        {
+          "type": "Story",
+          "delivery_num": 12,
+          "ideal_time": "10:00",
+          "roteiro": "Special Bets",
+          "odds": "TBD",
+          "link": "",
+          "obs": "Para o jogo em questão, teremos uma Special Bets. O bilhete será enviado 1 dia antes do jogo, junto de uma arte pronta para ser postada, caso prefira.",
+          "status": "pendente"
+        }
+      ],
+      "g050": [
+        {
+          "type": "Story",
+          "delivery_num": 13,
+          "ideal_time": "10:00",
+          "roteiro": "Special Bets",
+          "odds": "TBD",
+          "link": "",
+          "obs": "Para o jogo em questão, teremos uma Special Bets. O bilhete será enviado 1 dia antes do jogo, junto de uma arte pronta para ser postada, caso prefira.",
+          "status": "pendente"
+        }
+      ],
+      "g054": [
+        {
+          "type": "Story",
+          "delivery_num": 14,
+          "ideal_time": "10:00",
+          "roteiro": "Special Bets",
+          "odds": "TBD",
+          "link": "",
+          "obs": "Para o jogo em questão, teremos uma Special Bets. O bilhete será enviado 1 dia antes do jogo, junto de uma arte pronta para ser postada, caso prefira.",
+          "status": "pendente"
+        }
+      ],
+      "g056": [
+        {
+          "type": "Story",
+          "delivery_num": 15,
+          "ideal_time": "10:00",
+          "roteiro": "Special Bets",
+          "odds": "TBD",
+          "link": "",
+          "obs": "Para o jogo em questão, teremos uma Special Bets. O bilhete será enviado 1 dia antes do jogo, junto de uma arte pronta para ser postada, caso prefira.",
+          "status": "pendente"
+        }
+      ],
+      "g058": [
+        {
+          "type": "Story",
+          "delivery_num": 16,
+          "ideal_time": "10:00",
+          "roteiro": "Special Bets",
+          "odds": "TBD",
+          "link": "",
+          "obs": "Para o jogo em questão, teremos uma Special Bets. O bilhete será enviado 1 dia antes do jogo, junto de uma arte pronta para ser postada, caso prefira.",
+          "status": "pendente"
+        }
+      ],
+      "g060": [
+        {
+          "type": "Story",
+          "delivery_num": 17,
+          "ideal_time": "10:00",
+          "roteiro": "Special Bets",
+          "odds": "TBD",
+          "link": "",
+          "obs": "Para o jogo em questão, teremos uma Special Bets. O bilhete será enviado 1 dia antes do jogo, junto de uma arte pronta para ser postada, caso prefira.",
+          "status": "pendente"
+        }
+      ],
+      "g061": [
+        {
+          "type": "Story",
+          "delivery_num": 18,
+          "ideal_time": "10:00",
+          "roteiro": "Special Bets",
+          "odds": "TBD",
+          "link": "",
+          "obs": "Para o jogo em questão, teremos uma Special Bets. O bilhete será enviado 1 dia antes do jogo, junto de uma arte pronta para ser postada, caso prefira.",
+          "status": "pendente"
+        }
+      ],
+      "g062": [
+        {
+          "type": "Story",
+          "delivery_num": 19,
+          "ideal_time": "10:00",
+          "roteiro": "Special Bets",
+          "odds": "TBD",
+          "link": "",
+          "obs": "Para o jogo em questão, teremos uma Special Bets. O bilhete será enviado 1 dia antes do jogo, junto de uma arte pronta para ser postada, caso prefira.",
+          "status": "pendente"
+        }
+      ],
+      "g063": [
+        {
+          "type": "Story",
+          "delivery_num": 20,
+          "ideal_time": "10:00",
+          "roteiro": "Special Bets",
+          "odds": "TBD",
+          "link": "",
+          "obs": "Para o jogo em questão, teremos uma Special Bets. O bilhete será enviado 1 dia antes do jogo, junto de uma arte pronta para ser postada, caso prefira.",
+          "status": "pendente"
+        }
+      ]
+    }
+  }
+}
