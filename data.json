@@ -4,14 +4,14 @@
       "id": "coringa",
       "name": "Coringa",
       "password": "Coringa",
-      "stories": 19,
+      "stories": 20,
       "key": "a3f2b891"
     },
     {
       "id": "m12",
       "name": "M12",
       "password": "M12",
-      "stories": 3,
+      "stories": 4,
       "key": "7c4e1d05"
     },
     {
@@ -53,35 +53,35 @@
       "id": "2nalinha",
       "name": "2 Na Linha 1no Gol",
       "password": "2 Na Linha 1no Gol",
-      "stories": 20,
+      "stories": 21,
       "key": "c83d6e2f"
     },
     {
       "id": "robgol",
       "name": "Robgol",
       "password": "Robgol",
-      "stories": 19,
+      "stories": 20,
       "key": "14e7a09b"
     },
     {
       "id": "pedro",
       "name": "Pedro Souza",
       "password": "Pedro Souza",
-      "stories": 17,
+      "stories": 18,
       "key": "e5f31c84"
     },
     {
       "id": "bela",
       "name": "Bela Barroso",
       "password": "Bela Barroso",
-      "stories": 16,
+      "stories": 17,
       "key": "72bc8d3a"
     },
     {
       "id": "rica",
       "name": "Rica Perrone",
       "password": "Rica Perrone",
-      "stories": 20,
+      "stories": 21,
       "key": "5a1f9c30"
     }
   ],
@@ -336,129 +336,113 @@
     },
     {
       "id": "g032",
-      "phase": "32-avos",
+      "phase": "16-avos de final",
       "iso": "2026-06-28",
-      "matchup": "32-avos — Jogo 73",
+      "matchup": "África do Sul × Canadá",
       "br": false,
       "abertura": false
     },
     {
       "id": "g033",
-      "phase": "32-avos",
+      "phase": "16-avos de final",
       "iso": "2026-06-29",
-      "matchup": "32-avos — Jogo 74",
-      "br": false,
-      "abertura": false
-    },
-    {
-      "id": "g034",
-      "phase": "32-avos",
-      "iso": "2026-06-29",
-      "matchup": "32-avos — Jogo 75",
-      "br": false,
-      "abertura": false
-    },
-    {
-      "id": "g035",
-      "phase": "32-avos",
-      "iso": "2026-06-29",
-      "matchup": "32-avos — Jogo 76",
+      "matchup": "Brasil × Japão",
       "br": false,
       "abertura": false
     },
     {
       "id": "g036",
-      "phase": "32-avos",
+      "phase": "16-avos de final",
       "iso": "2026-06-30",
-      "matchup": "32-avos — Jogo 77",
+      "matchup": "16-avos — Jogo 77",
       "br": false,
       "abertura": false
     },
     {
       "id": "g037",
-      "phase": "32-avos",
+      "phase": "16-avos de final",
       "iso": "2026-06-30",
-      "matchup": "32-avos — Jogo 78",
+      "matchup": "16-avos — Jogo 78",
       "br": false,
       "abertura": false
     },
     {
       "id": "g038",
-      "phase": "32-avos",
+      "phase": "16-avos de final",
       "iso": "2026-06-30",
-      "matchup": "32-avos — Jogo 79",
+      "matchup": "16-avos — Jogo 79",
       "br": false,
       "abertura": false
     },
     {
       "id": "g039",
-      "phase": "32-avos",
+      "phase": "16-avos de final",
       "iso": "2026-07-01",
-      "matchup": "32-avos — Jogo 80",
+      "matchup": "Estados Unidos × Bósnia",
       "br": false,
       "abertura": false
     },
     {
       "id": "g040",
-      "phase": "32-avos",
+      "phase": "16-avos de final",
       "iso": "2026-07-01",
-      "matchup": "32-avos — Jogo 81",
+      "matchup": "16-avos — Jogo 81",
       "br": false,
       "abertura": false
     },
     {
       "id": "g041",
-      "phase": "32-avos",
+      "phase": "16-avos de final",
       "iso": "2026-07-01",
-      "matchup": "32-avos — Jogo 82",
+      "matchup": "16-avos — Jogo 82",
       "br": false,
       "abertura": false
     },
     {
       "id": "g042",
-      "phase": "32-avos",
+      "phase": "16-avos de final",
       "iso": "2026-07-02",
-      "matchup": "32-avos — Jogo 83",
+      "matchup": "16-avos — Jogo 83",
       "br": false,
       "abertura": false
     },
     {
       "id": "g043",
-      "phase": "32-avos",
+      "phase": "16-avos de final",
       "iso": "2026-07-02",
-      "matchup": "32-avos — Jogo 84",
+      "matchup": "16-avos — Jogo 84",
       "br": false,
       "abertura": false
     },
     {
       "id": "g044",
-      "phase": "32-avos",
+      "phase": "16-avos de final",
       "iso": "2026-07-02",
-      "matchup": "32-avos — Jogo 85",
+      "matchup": "16-avos — Jogo 85",
       "br": false,
       "abertura": false
     },
     {
       "id": "g045",
-      "phase": "32-avos",
+      "phase": "16-avos de final",
       "iso": "2026-07-03",
-      "matchup": "32-avos — Jogo 86",
+      "matchup": "16-avos — Jogo 86",
       "br": false,
       "abertura": false
     },
     {
       "id": "g046",
-      "phase": "32-avos",
+      "phase": "16-avos de final",
       "iso": "2026-07-03",
-      "matchup": "32-avos — Jogo 87",
+      "matchup": "16-avos — Jogo 87",
       "br": false,
       "abertura": false
     },
     {
       "id": "g047",
-      "phase": "32-avos",
+      "phase": "16-avos de final",
       "iso": "2026-07-03",
-      "matchup": "32-avos — Jogo 88",
+      "matchup": "16-avos — Jogo 88",
       "br": false,
       "abertura": false
     },
@@ -783,11 +767,11 @@
         {
           "type": "Story",
           "delivery_num": 8,
-          "ideal_time": "",
-          "roteiro": "",
-          "odds": "",
+          "ideal_time": "13:00",
+          "roteiro": "Special Bets",
+          "odds": "TBD",
           "link": "",
-          "obs": "",
+          "obs": "Para o jogo em questão, teremos uma Special Bets. O bilhete será enviado 1 dia antes do jogo, junto de uma arte pronta para ser postada, caso prefira.",
           "status": "pendente"
         }
       ],
@@ -922,6 +906,18 @@
           "obs": "Para o jogo em questão, teremos uma promoção chamada Deu Zebra onde vamos pegar a odds da seleção que não é favorita (underdog) e aumentar ela ainda mais, nesse caso odds de 12x para a vitória do Congo em cima de Portugal.",
           "status": "pendente"
         }
+      ],
+      "g033": [
+        {
+          "type": "Story",
+          "delivery_num": 20,
+          "ideal_time": "10:00",
+          "roteiro": "Special Bets",
+          "odds": "TBD",
+          "link": "",
+          "obs": "Para o jogo em questão, teremos uma Special Bets. O bilhete será enviado 1 dia antes do jogo, junto de uma arte pronta para ser postada, caso prefira.",
+          "status": "pendente"
+        }
       ]
     },
     "m12": {
@@ -958,6 +954,18 @@
           "odds": "",
           "link": "",
           "obs": "",
+          "status": "pendente"
+        }
+      ],
+      "g033": [
+        {
+          "type": "Story",
+          "delivery_num": 4,
+          "ideal_time": "10:00",
+          "roteiro": "Special Bets",
+          "odds": "TBD",
+          "link": "",
+          "obs": "Para o jogo em questão, teremos uma Special Bets. O bilhete será enviado 1 dia antes do jogo, junto de uma arte pronta para ser postada, caso prefira.",
           "status": "pendente"
         }
       ]
@@ -1020,18 +1028,6 @@
           "odds": "12.0",
           "link": "",
           "obs": "Para o jogo em questão, teremos uma promoção chamada Deu Zebra onde vamos pegar a odds da seleção que não é favorita (underdog) e aumentar ela ainda mais, nesse caso odds de 12x para a vitória do Congo em cima de Portugal.",
-          "status": "pendente"
-        }
-      ],
-      "g034": [
-        {
-          "type": "Story",
-          "delivery_num": 6,
-          "ideal_time": "",
-          "roteiro": "",
-          "odds": "",
-          "link": "",
-          "obs": "",
           "status": "pendente"
         }
       ],
@@ -1190,6 +1186,18 @@
           "obs": "Para o jogo em questão, teremos uma Special Bets. O bilhete será enviado 1 dia antes do jogo, junto de uma arte pronta para ser postada, caso prefira.",
           "status": "entregue"
         }
+      ],
+      "g033": [
+        {
+          "type": "Story",
+          "delivery_num": 6,
+          "ideal_time": "10:00",
+          "roteiro": "Special Bets",
+          "odds": "TBD",
+          "link": "",
+          "obs": "Para o jogo em questão, teremos uma Special Bets. O bilhete será enviado 1 dia antes do jogo, junto de uma arte pronta para ser postada, caso prefira.",
+          "status": "pendente"
+        }
       ]
     },
     "gabepeixe": {
@@ -1233,18 +1241,6 @@
         {
           "type": "Story",
           "delivery_num": 4,
-          "ideal_time": "",
-          "roteiro": "",
-          "odds": "",
-          "link": "",
-          "obs": "",
-          "status": "pendente"
-        }
-      ],
-      "g035": [
-        {
-          "type": "Story",
-          "delivery_num": 5,
           "ideal_time": "",
           "roteiro": "",
           "odds": "",
@@ -1382,6 +1378,18 @@
           "odds": "",
           "link": "",
           "obs": "",
+          "status": "pendente"
+        }
+      ],
+      "g033": [
+        {
+          "type": "Story",
+          "delivery_num": 5,
+          "ideal_time": "10:00",
+          "roteiro": "Special Bets",
+          "odds": "TBD",
+          "link": "",
+          "obs": "Para o jogo em questão, teremos uma Special Bets. O bilhete será enviado 1 dia antes do jogo, junto de uma arte pronta para ser postada, caso prefira.",
           "status": "pendente"
         }
       ]
@@ -1523,11 +1531,11 @@
         {
           "type": "Story",
           "delivery_num": 12,
-          "ideal_time": "",
-          "roteiro": "",
-          "odds": "",
+          "ideal_time": "10:00",
+          "roteiro": "Special Bets",
+          "odds": "TBD",
           "link": "",
-          "obs": "",
+          "obs": "Para o jogo em questão, teremos uma Special Bets. O bilhete será enviado 1 dia antes do jogo, junto de uma arte pronta para ser postada, caso prefira.",
           "status": "pendente"
         }
       ],
@@ -1856,6 +1864,18 @@
           "obs": "Para o jogo em questão, teremos uma promoção chamada Deu Zebra onde vamos pegar a odds da seleção que não é favorita (underdog) e aumentar ela ainda mais, nesse caso odds de 54x para a vitória do Curaçau em cima da Alemanha.",
           "status": "entregue"
         }
+      ],
+      "g033": [
+        {
+          "type": "Story",
+          "delivery_num": 18,
+          "ideal_time": "10:00",
+          "roteiro": "Special Bets",
+          "odds": "TBD",
+          "link": "",
+          "obs": "Para o jogo em questão, teremos uma Special Bets. O bilhete será enviado 1 dia antes do jogo, junto de uma arte pronta para ser postada, caso prefira.",
+          "status": "pendente"
+        }
       ]
     },
     "robgol": {
@@ -2086,6 +2106,18 @@
           "obs": "Para o jogo em questão, teremos uma Special Bets. O bilhete será enviado 1 dia antes do jogo, junto de uma arte pronta para ser postada, caso prefira.",
           "status": "entregue"
         }
+      ],
+      "g033": [
+        {
+          "type": "Story",
+          "delivery_num": 20,
+          "ideal_time": "10:00",
+          "roteiro": "Special Bets",
+          "odds": "TBD",
+          "link": "",
+          "obs": "Para o jogo em questão, teremos uma Special Bets. O bilhete será enviado 1 dia antes do jogo, junto de uma arte pronta para ser postada, caso prefira.",
+          "status": "pendente"
+        }
       ]
     },
     "2nalinha": {
@@ -2177,11 +2209,11 @@
         {
           "type": "Story",
           "delivery_num": 8,
-          "ideal_time": "",
-          "roteiro": "",
-          "odds": "",
+          "ideal_time": "18:00",
+          "roteiro": "Special Bets",
+          "odds": "TBD",
           "link": "",
-          "obs": "",
+          "obs": "Para o jogo em questão, teremos uma Special Bets. O bilhete será enviado 1 dia antes do jogo, junto de uma arte pronta para ser postada, caso prefira.",
           "status": "pendente"
         }
       ],
@@ -2328,6 +2360,18 @@
           "obs": "Para o jogo em questão, teremos uma promoção chamada Deu Zebra onde vamos pegar a odds da seleção que não é favorita (underdog) e aumentar ela ainda mais, nesse caso odds de 12x para a vitória do Congo em cima de Portugal.",
           "status": "pendente"
         }
+      ],
+      "g033": [
+        {
+          "type": "Story",
+          "delivery_num": 21,
+          "ideal_time": "10:00",
+          "roteiro": "Special Bets",
+          "odds": "TBD",
+          "link": "",
+          "obs": "Para o jogo em questão, teremos uma Special Bets. O bilhete será enviado 1 dia antes do jogo, junto de uma arte pronta para ser postada, caso prefira.",
+          "status": "pendente"
+        }
       ]
     },
     "bela": {
@@ -2395,11 +2439,11 @@
         {
           "type": "Story",
           "delivery_num": 6,
-          "ideal_time": "",
-          "roteiro": "",
-          "odds": "",
+          "ideal_time": "13:00",
+          "roteiro": "Special Bets",
+          "odds": "TBD",
           "link": "",
-          "obs": "",
+          "obs": "Para o jogo em questão, teremos uma Special Bets. O bilhete será enviado 1 dia antes do jogo, junto de uma arte pronta para ser postada, caso prefira.",
           "status": "pendente"
         }
       ],
@@ -2522,6 +2566,18 @@
           "obs": "",
           "status": "pendente"
         }
+      ],
+      "g033": [
+        {
+          "type": "Story",
+          "delivery_num": 17,
+          "ideal_time": "10:00",
+          "roteiro": "Special Bets",
+          "odds": "TBD",
+          "link": "",
+          "obs": "Para o jogo em questão, teremos uma Special Bets. O bilhete será enviado 1 dia antes do jogo, junto de uma arte pronta para ser postada, caso prefira.",
+          "status": "pendente"
+        }
       ]
     },
     "cole": {
@@ -2601,11 +2657,11 @@
         {
           "type": "Story",
           "delivery_num": 7,
-          "ideal_time": "",
-          "roteiro": "",
-          "odds": "",
+          "ideal_time": "10:00",
+          "roteiro": "Special Bets",
+          "odds": "TBD",
           "link": "",
-          "obs": "",
+          "obs": "Para o jogo em questão, teremos uma Special Bets. O bilhete será enviado 1 dia antes do jogo, junto de uma arte pronta para ser postada, caso prefira.",
           "status": "pendente"
         }
       ],
@@ -2851,18 +2907,6 @@
           "status": "pendente"
         }
       ],
-      "g035": [
-        {
-          "type": "Story",
-          "delivery_num": 9,
-          "ideal_time": "",
-          "roteiro": "",
-          "odds": "",
-          "link": "",
-          "obs": "",
-          "status": "pendente"
-        }
-      ],
       "g044": [
         {
           "type": "Story",
@@ -2992,6 +3036,18 @@
           "odds": "12.0",
           "link": "",
           "obs": "Para o jogo em questão, teremos uma promoção chamada Deu Zebra onde vamos pegar a odds da seleção que não é favorita (underdog) e aumentar ela ainda mais, nesse caso odds de 12x para a vitória do Congo em cima de Portugal.",
+          "status": "pendente"
+        }
+      ],
+      "g033": [
+        {
+          "type": "Story",
+          "delivery_num": 9,
+          "ideal_time": "10:00",
+          "roteiro": "Special Bets",
+          "odds": "TBD",
+          "link": "",
+          "obs": "Para o jogo em questão, teremos uma Special Bets. O bilhete será enviado 1 dia antes do jogo, junto de uma arte pronta para ser postada, caso prefira.",
           "status": "pendente"
         }
       ]
@@ -3229,6 +3285,18 @@
         {
           "type": "Story",
           "delivery_num": 20,
+          "ideal_time": "10:00",
+          "roteiro": "Special Bets",
+          "odds": "TBD",
+          "link": "",
+          "obs": "Para o jogo em questão, teremos uma Special Bets. O bilhete será enviado 1 dia antes do jogo, junto de uma arte pronta para ser postada, caso prefira.",
+          "status": "pendente"
+        }
+      ],
+      "g033": [
+        {
+          "type": "Story",
+          "delivery_num": 21,
           "ideal_time": "10:00",
           "roteiro": "Special Bets",
           "odds": "TBD",
