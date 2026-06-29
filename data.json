@@ -4,14 +4,14 @@
       "id": "coringa",
       "name": "Coringa",
       "password": "Coringa",
-      "stories": 20,
+      "stories": 21,
       "key": "a3f2b891"
     },
     {
       "id": "m12",
       "name": "M12",
       "password": "M12",
-      "stories": 4,
+      "stories": 5,
       "key": "7c4e1d05"
     },
     {
@@ -32,7 +32,7 @@
       "id": "millerzeira",
       "name": "Millerzeira",
       "password": "Millerzeira",
-      "stories": 22,
+      "stories": 23,
       "key": "3e8c0a61"
     },
     {
@@ -46,7 +46,7 @@
       "id": "cole",
       "name": "Cole Markin",
       "password": "Cole Markin",
-      "stories": 19,
+      "stories": 20,
       "key": "9f4ab510"
     },
     {
@@ -67,14 +67,14 @@
       "id": "pedro",
       "name": "Pedro Souza",
       "password": "Pedro Souza",
-      "stories": 18,
+      "stories": 19,
       "key": "e5f31c84"
     },
     {
       "id": "bela",
       "name": "Bela Barroso",
       "password": "Bela Barroso",
-      "stories": 17,
+      "stories": 18,
       "key": "72bc8d3a"
     },
     {
@@ -466,15 +466,7 @@
       "id": "g050",
       "phase": "Oitavas",
       "iso": "2026-07-05",
-      "matchup": "Oitavas — Jogo 91",
-      "br": false,
-      "abertura": false
-    },
-    {
-      "id": "g051",
-      "phase": "Oitavas",
-      "iso": "2026-07-05",
-      "matchup": "Oitavas — Jogo 92",
+      "matchup": "Brasil × a definir",
       "br": false,
       "abertura": false
     },
@@ -778,7 +770,7 @@
       "g052": [
         {
           "type": "Story",
-          "delivery_num": 14,
+          "delivery_num": 15,
           "ideal_time": "",
           "roteiro": "",
           "odds": "",
@@ -790,7 +782,7 @@
       "g056": [
         {
           "type": "Story",
-          "delivery_num": 15,
+          "delivery_num": 16,
           "ideal_time": "",
           "roteiro": "",
           "odds": "",
@@ -802,7 +794,7 @@
       "g059": [
         {
           "type": "Story",
-          "delivery_num": 16,
+          "delivery_num": 17,
           "ideal_time": "",
           "roteiro": "",
           "odds": "",
@@ -814,7 +806,7 @@
       "g060": [
         {
           "type": "Story",
-          "delivery_num": 17,
+          "delivery_num": 18,
           "ideal_time": "",
           "roteiro": "",
           "odds": "",
@@ -826,7 +818,7 @@
       "g061": [
         {
           "type": "Story",
-          "delivery_num": 18,
+          "delivery_num": 19,
           "ideal_time": "",
           "roteiro": "",
           "odds": "",
@@ -838,7 +830,7 @@
       "g062": [
         {
           "type": "Story",
-          "delivery_num": 19,
+          "delivery_num": 20,
           "ideal_time": "",
           "roteiro": "",
           "odds": "",
@@ -850,7 +842,7 @@
       "g063": [
         {
           "type": "Story",
-          "delivery_num": 20,
+          "delivery_num": 21,
           "ideal_time": "",
           "roteiro": "",
           "odds": "",
@@ -918,6 +910,18 @@
           "obs": "Para o jogo em questão, teremos uma Special Bets. O bilhete será enviado 1 dia antes do jogo, junto de uma arte pronta para ser postada, caso prefira.",
           "status": "pendente"
         }
+      ],
+      "g050": [
+        {
+          "type": "Story",
+          "delivery_num": 14,
+          "ideal_time": "13:00",
+          "roteiro": "Special Bets",
+          "odds": "TBD",
+          "link": "",
+          "obs": "Para o jogo em questão, teremos uma Special Bets. O bilhete será enviado 1 dia antes do jogo, junto de uma arte pronta para ser postada, caso prefira.",
+          "status": "pendente"
+        }
       ]
     },
     "m12": {
@@ -962,6 +966,18 @@
           "type": "Story",
           "delivery_num": 4,
           "ideal_time": "10:00",
+          "roteiro": "Special Bets",
+          "odds": "TBD",
+          "link": "",
+          "obs": "Para o jogo em questão, teremos uma Special Bets. O bilhete será enviado 1 dia antes do jogo, junto de uma arte pronta para ser postada, caso prefira.",
+          "status": "pendente"
+        }
+      ],
+      "g050": [
+        {
+          "type": "Story",
+          "delivery_num": 5,
+          "ideal_time": "13:00",
           "roteiro": "Special Bets",
           "odds": "TBD",
           "link": "",
@@ -1035,11 +1051,11 @@
         {
           "type": "Story",
           "delivery_num": 11,
-          "ideal_time": "",
-          "roteiro": "",
-          "odds": "",
+          "ideal_time": "13:00",
+          "roteiro": "Special Bets",
+          "odds": "TBD",
           "link": "",
-          "obs": "",
+          "obs": "Para o jogo em questão, teremos uma Special Bets. O bilhete será enviado 1 dia antes do jogo, junto de uma arte pronta para ser postada, caso prefira.",
           "status": "pendente"
         }
       ],
@@ -1249,18 +1265,6 @@
           "status": "pendente"
         }
       ],
-      "g051": [
-        {
-          "type": "Story",
-          "delivery_num": 7,
-          "ideal_time": "",
-          "roteiro": "",
-          "odds": "",
-          "link": "",
-          "obs": "",
-          "status": "pendente"
-        }
-      ],
       "g055": [
         {
           "type": "Story",
@@ -1386,6 +1390,18 @@
           "type": "Story",
           "delivery_num": 6,
           "ideal_time": "16:00",
+          "roteiro": "Special Bets",
+          "odds": "TBD",
+          "link": "",
+          "obs": "Para o jogo em questão, teremos uma Special Bets. O bilhete será enviado 1 dia antes do jogo, junto de uma arte pronta para ser postada, caso prefira.",
+          "status": "pendente"
+        }
+      ],
+      "g050": [
+        {
+          "type": "Story",
+          "delivery_num": 7,
+          "ideal_time": "13:00",
           "roteiro": "Special Bets",
           "odds": "TBD",
           "link": "",
@@ -1566,7 +1582,7 @@
       "g052": [
         {
           "type": "Story",
-          "delivery_num": 15,
+          "delivery_num": 16,
           "ideal_time": "",
           "roteiro": "",
           "odds": "",
@@ -1578,7 +1594,7 @@
       "g056": [
         {
           "type": "Story",
-          "delivery_num": 16,
+          "delivery_num": 17,
           "ideal_time": "",
           "roteiro": "",
           "odds": "",
@@ -1590,7 +1606,7 @@
       "g058": [
         {
           "type": "Story",
-          "delivery_num": 17,
+          "delivery_num": 18,
           "ideal_time": "",
           "roteiro": "",
           "odds": "",
@@ -1602,7 +1618,7 @@
       "g059": [
         {
           "type": "Story",
-          "delivery_num": 18,
+          "delivery_num": 19,
           "ideal_time": "",
           "roteiro": "",
           "odds": "",
@@ -1614,7 +1630,7 @@
       "g060": [
         {
           "type": "Story",
-          "delivery_num": 19,
+          "delivery_num": 20,
           "ideal_time": "",
           "roteiro": "",
           "odds": "",
@@ -1626,7 +1642,7 @@
       "g061": [
         {
           "type": "Story",
-          "delivery_num": 20,
+          "delivery_num": 21,
           "ideal_time": "",
           "roteiro": "",
           "odds": "",
@@ -1638,7 +1654,7 @@
       "g062": [
         {
           "type": "Story",
-          "delivery_num": 21,
+          "delivery_num": 22,
           "ideal_time": "",
           "roteiro": "",
           "odds": "",
@@ -1650,12 +1666,24 @@
       "g063": [
         {
           "type": "Story",
-          "delivery_num": 22,
+          "delivery_num": 23,
           "ideal_time": "",
           "roteiro": "",
           "odds": "",
           "link": "",
           "obs": "",
+          "status": "pendente"
+        }
+      ],
+      "g050": [
+        {
+          "type": "Story",
+          "delivery_num": 15,
+          "ideal_time": "13:00",
+          "roteiro": "Special Bets",
+          "odds": "TBD",
+          "link": "",
+          "obs": "Para o jogo em questão, teremos uma Special Bets. O bilhete será enviado 1 dia antes do jogo, junto de uma arte pronta para ser postada, caso prefira.",
           "status": "pendente"
         }
       ]
@@ -1760,7 +1788,7 @@
       "g053": [
         {
           "type": "Story",
-          "delivery_num": 11,
+          "delivery_num": 12,
           "ideal_time": "",
           "roteiro": "",
           "odds": "",
@@ -1772,7 +1800,7 @@
       "g056": [
         {
           "type": "Story",
-          "delivery_num": 12,
+          "delivery_num": 13,
           "ideal_time": "",
           "roteiro": "",
           "odds": "",
@@ -1784,7 +1812,7 @@
       "g058": [
         {
           "type": "Story",
-          "delivery_num": 13,
+          "delivery_num": 14,
           "ideal_time": "",
           "roteiro": "",
           "odds": "",
@@ -1796,7 +1824,7 @@
       "g059": [
         {
           "type": "Story",
-          "delivery_num": 14,
+          "delivery_num": 15,
           "ideal_time": "",
           "roteiro": "",
           "odds": "",
@@ -1808,7 +1836,7 @@
       "g060": [
         {
           "type": "Story",
-          "delivery_num": 15,
+          "delivery_num": 16,
           "ideal_time": "",
           "roteiro": "",
           "odds": "",
@@ -1820,7 +1848,7 @@
       "g061": [
         {
           "type": "Story",
-          "delivery_num": 16,
+          "delivery_num": 17,
           "ideal_time": "",
           "roteiro": "",
           "odds": "",
@@ -1832,7 +1860,7 @@
       "g062": [
         {
           "type": "Story",
-          "delivery_num": 17,
+          "delivery_num": 18,
           "ideal_time": "",
           "roteiro": "",
           "odds": "",
@@ -1844,7 +1872,7 @@
       "g063": [
         {
           "type": "Story",
-          "delivery_num": 18,
+          "delivery_num": 19,
           "ideal_time": "",
           "roteiro": "",
           "odds": "",
@@ -1870,6 +1898,18 @@
           "type": "Story",
           "delivery_num": 7,
           "ideal_time": "10:00",
+          "roteiro": "Special Bets",
+          "odds": "TBD",
+          "link": "",
+          "obs": "Para o jogo em questão, teremos uma Special Bets. O bilhete será enviado 1 dia antes do jogo, junto de uma arte pronta para ser postada, caso prefira.",
+          "status": "pendente"
+        }
+      ],
+      "g050": [
+        {
+          "type": "Story",
+          "delivery_num": 11,
+          "ideal_time": "13:00",
           "roteiro": "Special Bets",
           "odds": "TBD",
           "link": "",
@@ -1991,11 +2031,11 @@
         {
           "type": "Story",
           "delivery_num": 13,
-          "ideal_time": "",
-          "roteiro": "",
-          "odds": "",
+          "ideal_time": "13:00",
+          "roteiro": "Special Bets",
+          "odds": "TBD",
           "link": "",
-          "obs": "",
+          "obs": "Para o jogo em questão, teremos uma Special Bets. O bilhete será enviado 1 dia antes do jogo, junto de uma arte pronta para ser postada, caso prefira.",
           "status": "pendente"
         }
       ],
@@ -2217,18 +2257,6 @@
           "status": "pendente"
         }
       ],
-      "g051": [
-        {
-          "type": "Story",
-          "delivery_num": 14,
-          "ideal_time": "",
-          "roteiro": "",
-          "odds": "",
-          "link": "",
-          "obs": "",
-          "status": "pendente"
-        }
-      ],
       "g055": [
         {
           "type": "Story",
@@ -2372,6 +2400,18 @@
           "obs": "Para o jogo em questão, teremos uma Special Bets. O bilhete será enviado 1 dia antes do jogo, junto de uma arte pronta para ser postada, caso prefira.",
           "status": "pendente"
         }
+      ],
+      "g050": [
+        {
+          "type": "Story",
+          "delivery_num": 14,
+          "ideal_time": "13:00",
+          "roteiro": "Special Bets",
+          "odds": "TBD",
+          "link": "",
+          "obs": "Para o jogo em questão, teremos uma Special Bets. O bilhete será enviado 1 dia antes do jogo, junto de uma arte pronta para ser postada, caso prefira.",
+          "status": "pendente"
+        }
       ]
     },
     "bela": {
@@ -2462,7 +2502,7 @@
       "g052": [
         {
           "type": "Story",
-          "delivery_num": 10,
+          "delivery_num": 11,
           "ideal_time": "",
           "roteiro": "",
           "odds": "",
@@ -2474,7 +2514,7 @@
       "g056": [
         {
           "type": "Story",
-          "delivery_num": 11,
+          "delivery_num": 12,
           "ideal_time": "",
           "roteiro": "",
           "odds": "",
@@ -2486,7 +2526,7 @@
       "g057": [
         {
           "type": "Story",
-          "delivery_num": 12,
+          "delivery_num": 13,
           "ideal_time": "",
           "roteiro": "",
           "odds": "",
@@ -2498,7 +2538,7 @@
       "g058": [
         {
           "type": "Story",
-          "delivery_num": 13,
+          "delivery_num": 14,
           "ideal_time": "",
           "roteiro": "",
           "odds": "",
@@ -2510,7 +2550,7 @@
       "g060": [
         {
           "type": "Story",
-          "delivery_num": 14,
+          "delivery_num": 15,
           "ideal_time": "",
           "roteiro": "",
           "odds": "",
@@ -2522,7 +2562,7 @@
       "g061": [
         {
           "type": "Story",
-          "delivery_num": 15,
+          "delivery_num": 16,
           "ideal_time": "",
           "roteiro": "",
           "odds": "",
@@ -2534,7 +2574,7 @@
       "g062": [
         {
           "type": "Story",
-          "delivery_num": 16,
+          "delivery_num": 17,
           "ideal_time": "",
           "roteiro": "",
           "odds": "",
@@ -2546,7 +2586,7 @@
       "g063": [
         {
           "type": "Story",
-          "delivery_num": 17,
+          "delivery_num": 18,
           "ideal_time": "",
           "roteiro": "",
           "odds": "",
@@ -2572,6 +2612,18 @@
           "type": "Story",
           "delivery_num": 7,
           "ideal_time": "15:00",
+          "roteiro": "Special Bets",
+          "odds": "TBD",
+          "link": "",
+          "obs": "Para o jogo em questão, teremos uma Special Bets. O bilhete será enviado 1 dia antes do jogo, junto de uma arte pronta para ser postada, caso prefira.",
+          "status": "pendente"
+        }
+      ],
+      "g050": [
+        {
+          "type": "Story",
+          "delivery_num": 10,
+          "ideal_time": "13:00",
           "roteiro": "Special Bets",
           "odds": "TBD",
           "link": "",
@@ -2692,7 +2744,7 @@
       "g053": [
         {
           "type": "Story",
-          "delivery_num": 13,
+          "delivery_num": 14,
           "ideal_time": "",
           "roteiro": "",
           "odds": "",
@@ -2704,7 +2756,7 @@
       "g056": [
         {
           "type": "Story",
-          "delivery_num": 14,
+          "delivery_num": 15,
           "ideal_time": "",
           "roteiro": "",
           "odds": "",
@@ -2716,7 +2768,7 @@
       "g059": [
         {
           "type": "Story",
-          "delivery_num": 15,
+          "delivery_num": 16,
           "ideal_time": "",
           "roteiro": "",
           "odds": "",
@@ -2728,7 +2780,7 @@
       "g060": [
         {
           "type": "Story",
-          "delivery_num": 16,
+          "delivery_num": 17,
           "ideal_time": "",
           "roteiro": "",
           "odds": "",
@@ -2740,7 +2792,7 @@
       "g061": [
         {
           "type": "Story",
-          "delivery_num": 17,
+          "delivery_num": 18,
           "ideal_time": "",
           "roteiro": "",
           "odds": "",
@@ -2752,7 +2804,7 @@
       "g062": [
         {
           "type": "Story",
-          "delivery_num": 18,
+          "delivery_num": 19,
           "ideal_time": "",
           "roteiro": "",
           "odds": "",
@@ -2764,7 +2816,7 @@
       "g063": [
         {
           "type": "Story",
-          "delivery_num": 19,
+          "delivery_num": 20,
           "ideal_time": "",
           "roteiro": "",
           "odds": "",
@@ -2802,6 +2854,18 @@
           "type": "Story",
           "delivery_num": 5,
           "ideal_time": "11:00",
+          "roteiro": "Special Bets",
+          "odds": "TBD",
+          "link": "",
+          "obs": "Para o jogo em questão, teremos uma Special Bets. O bilhete será enviado 1 dia antes do jogo, junto de uma arte pronta para ser postada, caso prefira.",
+          "status": "pendente"
+        }
+      ],
+      "g050": [
+        {
+          "type": "Story",
+          "delivery_num": 13,
+          "ideal_time": "13:00",
           "roteiro": "Special Bets",
           "odds": "TBD",
           "link": "",
@@ -2911,11 +2975,11 @@
         {
           "type": "Story",
           "delivery_num": 13,
-          "ideal_time": "",
-          "roteiro": "",
-          "odds": "",
+          "ideal_time": "13:00",
+          "roteiro": "Special Bets",
+          "odds": "TBD",
           "link": "",
-          "obs": "",
+          "obs": "Para o jogo em questão, teremos uma Special Bets. O bilhete será enviado 1 dia antes do jogo, junto de uma arte pronta para ser postada, caso prefira.",
           "status": "pendente"
         }
       ],
@@ -3201,7 +3265,7 @@
         {
           "type": "Story",
           "delivery_num": 14,
-          "ideal_time": "10:00",
+          "ideal_time": "13:00",
           "roteiro": "Special Bets",
           "odds": "TBD",
           "link": "",
