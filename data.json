@@ -354,7 +354,7 @@
       "id": "g036",
       "phase": "16-avos de final",
       "iso": "2026-06-30",
-      "matchup": "16-avos — Jogo 77",
+      "matchup": "Costa do Marfim × Noruega",
       "br": false,
       "abertura": false
     },
@@ -362,7 +362,7 @@
       "id": "g037",
       "phase": "16-avos de final",
       "iso": "2026-06-30",
-      "matchup": "16-avos — Jogo 78",
+      "matchup": "França × Suécia",
       "br": false,
       "abertura": false
     },
@@ -370,7 +370,7 @@
       "id": "g038",
       "phase": "16-avos de final",
       "iso": "2026-06-30",
-      "matchup": "16-avos — Jogo 79",
+      "matchup": "México × Equador",
       "br": false,
       "abertura": false
     },
@@ -386,7 +386,7 @@
       "id": "g040",
       "phase": "16-avos de final",
       "iso": "2026-07-01",
-      "matchup": "16-avos — Jogo 81",
+      "matchup": "Inglaterra × RD Congo",
       "br": false,
       "abertura": false
     },
@@ -394,7 +394,7 @@
       "id": "g041",
       "phase": "16-avos de final",
       "iso": "2026-07-01",
-      "matchup": "16-avos — Jogo 82",
+      "matchup": "Bélgica × Senegal",
       "br": false,
       "abertura": false
     },
@@ -402,7 +402,7 @@
       "id": "g042",
       "phase": "16-avos de final",
       "iso": "2026-07-02",
-      "matchup": "16-avos — Jogo 83",
+      "matchup": "Espanha × Áustria",
       "br": false,
       "abertura": false
     },
@@ -410,7 +410,7 @@
       "id": "g043",
       "phase": "16-avos de final",
       "iso": "2026-07-02",
-      "matchup": "16-avos — Jogo 84",
+      "matchup": "Portugal × Croácia",
       "br": false,
       "abertura": false
     },
@@ -418,7 +418,7 @@
       "id": "g044",
       "phase": "16-avos de final",
       "iso": "2026-07-02",
-      "matchup": "16-avos — Jogo 85",
+      "matchup": "Suíça × Argélia",
       "br": false,
       "abertura": false
     },
@@ -426,7 +426,7 @@
       "id": "g045",
       "phase": "16-avos de final",
       "iso": "2026-07-03",
-      "matchup": "16-avos — Jogo 86",
+      "matchup": "Austrália × Egito",
       "br": false,
       "abertura": false
     },
@@ -434,7 +434,7 @@
       "id": "g046",
       "phase": "16-avos de final",
       "iso": "2026-07-03",
-      "matchup": "16-avos — Jogo 87",
+      "matchup": "Argentina × Cabo Verde",
       "br": false,
       "abertura": false
     },
@@ -442,7 +442,7 @@
       "id": "g047",
       "phase": "16-avos de final",
       "iso": "2026-07-03",
-      "matchup": "16-avos — Jogo 88",
+      "matchup": "Colômbia × Gana",
       "br": false,
       "abertura": false
     },
@@ -706,7 +706,7 @@
       "g003": [
         {
           "type": "Story",
-          "delivery_num": 3,
+          "delivery_num": 7,
           "ideal_time": "",
           "roteiro": "",
           "odds": "",
@@ -718,7 +718,7 @@
       "g004": [
         {
           "type": "Story",
-          "delivery_num": 4,
+          "delivery_num": 9,
           "ideal_time": "",
           "roteiro": "",
           "odds": "",
@@ -742,7 +742,7 @@
       "g010": [
         {
           "type": "Story",
-          "delivery_num": 6,
+          "delivery_num": 8,
           "ideal_time": "",
           "roteiro": "",
           "odds": "",
@@ -754,7 +754,7 @@
       "g016": [
         {
           "type": "Story",
-          "delivery_num": 7,
+          "delivery_num": 3,
           "ideal_time": "11:00",
           "roteiro": "Special Bets",
           "odds": "TBD",
@@ -763,67 +763,7 @@
           "status": "entregue"
         }
       ],
-      "g032": [
-        {
-          "type": "Story",
-          "delivery_num": 8,
-          "ideal_time": "13:00",
-          "roteiro": "Special Bets",
-          "odds": "TBD",
-          "link": "",
-          "obs": "Para o jogo em questão, teremos uma Special Bets. O bilhete será enviado 1 dia antes do jogo, junto de uma arte pronta para ser postada, caso prefira.",
-          "status": "pendente"
-        }
-      ],
-      "g047": [
-        {
-          "type": "Story",
-          "delivery_num": 9,
-          "ideal_time": "",
-          "roteiro": "",
-          "odds": "",
-          "link": "",
-          "obs": "",
-          "status": "pendente"
-        }
-      ],
       "g048": [
-        {
-          "type": "Story",
-          "delivery_num": 10,
-          "ideal_time": "",
-          "roteiro": "",
-          "odds": "",
-          "link": "",
-          "obs": "",
-          "status": "pendente"
-        }
-      ],
-      "g052": [
-        {
-          "type": "Story",
-          "delivery_num": 11,
-          "ideal_time": "",
-          "roteiro": "",
-          "odds": "",
-          "link": "",
-          "obs": "",
-          "status": "pendente"
-        }
-      ],
-      "g056": [
-        {
-          "type": "Story",
-          "delivery_num": 12,
-          "ideal_time": "",
-          "roteiro": "",
-          "odds": "",
-          "link": "",
-          "obs": "",
-          "status": "pendente"
-        }
-      ],
-      "g059": [
         {
           "type": "Story",
           "delivery_num": 13,
@@ -835,7 +775,7 @@
           "status": "pendente"
         }
       ],
-      "g060": [
+      "g052": [
         {
           "type": "Story",
           "delivery_num": 14,
@@ -847,7 +787,7 @@
           "status": "pendente"
         }
       ],
-      "g061": [
+      "g056": [
         {
           "type": "Story",
           "delivery_num": 15,
@@ -859,7 +799,7 @@
           "status": "pendente"
         }
       ],
-      "g062": [
+      "g059": [
         {
           "type": "Story",
           "delivery_num": 16,
@@ -871,7 +811,7 @@
           "status": "pendente"
         }
       ],
-      "g063": [
+      "g060": [
         {
           "type": "Story",
           "delivery_num": 17,
@@ -883,10 +823,46 @@
           "status": "pendente"
         }
       ],
-      "g005": [
+      "g061": [
         {
           "type": "Story",
           "delivery_num": 18,
+          "ideal_time": "",
+          "roteiro": "",
+          "odds": "",
+          "link": "",
+          "obs": "",
+          "status": "pendente"
+        }
+      ],
+      "g062": [
+        {
+          "type": "Story",
+          "delivery_num": 19,
+          "ideal_time": "",
+          "roteiro": "",
+          "odds": "",
+          "link": "",
+          "obs": "",
+          "status": "pendente"
+        }
+      ],
+      "g063": [
+        {
+          "type": "Story",
+          "delivery_num": 20,
+          "ideal_time": "",
+          "roteiro": "",
+          "odds": "",
+          "link": "",
+          "obs": "",
+          "status": "pendente"
+        }
+      ],
+      "g005": [
+        {
+          "type": "Story",
+          "delivery_num": 4,
           "ideal_time": "10:00",
           "roteiro": "Promoção Deu Zebra - explorar a ideia da zebra, colocar um trocado, 2, 5 reais, pela magia, pelo lúdico, explorar o VAI QUE?",
           "odds": "54.0",
@@ -898,7 +874,7 @@
       "g018": [
         {
           "type": "Story",
-          "delivery_num": 19,
+          "delivery_num": 6,
           "ideal_time": "10:00",
           "roteiro": "Promoção Deu Zebra - explorar a ideia da zebra, colocar um trocado, 2, 5 reais, só pela magia, pelo lúdico, explorar o VAI QUE?",
           "odds": "12.0",
@@ -910,8 +886,32 @@
       "g033": [
         {
           "type": "Story",
-          "delivery_num": 20,
+          "delivery_num": 10,
           "ideal_time": "10:00",
+          "roteiro": "Special Bets",
+          "odds": "TBD",
+          "link": "",
+          "obs": "Para o jogo em questão, teremos uma Special Bets. O bilhete será enviado 1 dia antes do jogo, junto de uma arte pronta para ser postada, caso prefira.",
+          "status": "pendente"
+        }
+      ],
+      "g040": [
+        {
+          "type": "Story",
+          "delivery_num": 11,
+          "ideal_time": "10:00",
+          "roteiro": "Special Bets",
+          "odds": "TBD",
+          "link": "",
+          "obs": "Para o jogo em questão, teremos uma Special Bets. O bilhete será enviado 1 dia antes do jogo, junto de uma arte pronta para ser postada, caso prefira.",
+          "status": "pendente"
+        }
+      ],
+      "g043": [
+        {
+          "type": "Story",
+          "delivery_num": 12,
+          "ideal_time": "17:00",
           "roteiro": "Special Bets",
           "odds": "TBD",
           "link": "",
@@ -974,7 +974,7 @@
       "g002": [
         {
           "type": "Story",
-          "delivery_num": 1,
+          "delivery_num": 2,
           "ideal_time": "12:00",
           "roteiro": "Special Bets",
           "odds": "TBD",
@@ -986,7 +986,7 @@
       "g003": [
         {
           "type": "Story",
-          "delivery_num": 2,
+          "delivery_num": 7,
           "ideal_time": "",
           "roteiro": "",
           "odds": "",
@@ -998,7 +998,7 @@
       "g004": [
         {
           "type": "Story",
-          "delivery_num": 3,
+          "delivery_num": 8,
           "ideal_time": "",
           "roteiro": "",
           "odds": "",
@@ -1010,7 +1010,7 @@
       "g008": [
         {
           "type": "Story",
-          "delivery_num": 4,
+          "delivery_num": 3,
           "ideal_time": "18:00",
           "roteiro": "Special Bets",
           "odds": "TBD",
@@ -1022,7 +1022,7 @@
       "g018": [
         {
           "type": "Story",
-          "delivery_num": 5,
+          "delivery_num": 6,
           "ideal_time": "10:00",
           "roteiro": "Promoção Deu Zebra - explorar a ideia da zebra, colocar um trocado, 2, 5 reais, só pela magia, pelo lúdico, explorar o VAI QUE?",
           "odds": "12.0",
@@ -1031,55 +1031,7 @@
           "status": "pendente"
         }
       ],
-      "g045": [
-        {
-          "type": "Story",
-          "delivery_num": 7,
-          "ideal_time": "",
-          "roteiro": "",
-          "odds": "",
-          "link": "",
-          "obs": "",
-          "status": "pendente"
-        }
-      ],
       "g050": [
-        {
-          "type": "Story",
-          "delivery_num": 8,
-          "ideal_time": "",
-          "roteiro": "",
-          "odds": "",
-          "link": "",
-          "obs": "",
-          "status": "pendente"
-        }
-      ],
-      "g054": [
-        {
-          "type": "Story",
-          "delivery_num": 9,
-          "ideal_time": "",
-          "roteiro": "",
-          "odds": "",
-          "link": "",
-          "obs": "",
-          "status": "pendente"
-        }
-      ],
-      "g056": [
-        {
-          "type": "Story",
-          "delivery_num": 10,
-          "ideal_time": "",
-          "roteiro": "",
-          "odds": "",
-          "link": "",
-          "obs": "",
-          "status": "pendente"
-        }
-      ],
-      "g057": [
         {
           "type": "Story",
           "delivery_num": 11,
@@ -1091,7 +1043,7 @@
           "status": "pendente"
         }
       ],
-      "g059": [
+      "g054": [
         {
           "type": "Story",
           "delivery_num": 12,
@@ -1103,7 +1055,7 @@
           "status": "pendente"
         }
       ],
-      "g060": [
+      "g056": [
         {
           "type": "Story",
           "delivery_num": 13,
@@ -1115,7 +1067,7 @@
           "status": "pendente"
         }
       ],
-      "g061": [
+      "g057": [
         {
           "type": "Story",
           "delivery_num": 14,
@@ -1127,7 +1079,7 @@
           "status": "pendente"
         }
       ],
-      "g062": [
+      "g059": [
         {
           "type": "Story",
           "delivery_num": 15,
@@ -1139,7 +1091,7 @@
           "status": "pendente"
         }
       ],
-      "g063": [
+      "g060": [
         {
           "type": "Story",
           "delivery_num": 16,
@@ -1151,10 +1103,46 @@
           "status": "pendente"
         }
       ],
-      "g064": [
+      "g061": [
         {
           "type": "Story",
           "delivery_num": 17,
+          "ideal_time": "",
+          "roteiro": "",
+          "odds": "",
+          "link": "",
+          "obs": "",
+          "status": "pendente"
+        }
+      ],
+      "g062": [
+        {
+          "type": "Story",
+          "delivery_num": 18,
+          "ideal_time": "",
+          "roteiro": "",
+          "odds": "",
+          "link": "",
+          "obs": "",
+          "status": "pendente"
+        }
+      ],
+      "g063": [
+        {
+          "type": "Story",
+          "delivery_num": 19,
+          "ideal_time": "",
+          "roteiro": "",
+          "odds": "",
+          "link": "",
+          "obs": "",
+          "status": "pendente"
+        }
+      ],
+      "g064": [
+        {
+          "type": "Story",
+          "delivery_num": 1,
           "ideal_time": "18:00",
           "roteiro": "Special Bets",
           "odds": "TBD",
@@ -1166,7 +1154,7 @@
       "g065": [
         {
           "type": "Story",
-          "delivery_num": 18,
+          "delivery_num": 4,
           "ideal_time": "15:00",
           "roteiro": "Promoção Deu Zebra - explorar a ideia da zebra, colocar um trocado, 2, 5 reais, só pela magia, pelo lúdico, explorar o VAI QUE?",
           "odds": "14.5",
@@ -1178,7 +1166,7 @@
       "g007": [
         {
           "type": "Story",
-          "delivery_num": 19,
+          "delivery_num": 5,
           "ideal_time": "12:00",
           "roteiro": "Special Bets",
           "odds": "TBD",
@@ -1190,8 +1178,20 @@
       "g033": [
         {
           "type": "Story",
-          "delivery_num": 6,
+          "delivery_num": 9,
           "ideal_time": "10:00",
+          "roteiro": "Special Bets",
+          "odds": "TBD",
+          "link": "",
+          "obs": "Para o jogo em questão, teremos uma Special Bets. O bilhete será enviado 1 dia antes do jogo, junto de uma arte pronta para ser postada, caso prefira.",
+          "status": "pendente"
+        }
+      ],
+      "g037": [
+        {
+          "type": "Story",
+          "delivery_num": 10,
+          "ideal_time": "15:00",
           "roteiro": "Special Bets",
           "odds": "TBD",
           "link": "",
@@ -1228,7 +1228,7 @@
       "g004": [
         {
           "type": "Story",
-          "delivery_num": 3,
+          "delivery_num": 4,
           "ideal_time": "",
           "roteiro": "",
           "odds": "",
@@ -1240,19 +1240,7 @@
       "g011": [
         {
           "type": "Story",
-          "delivery_num": 4,
-          "ideal_time": "",
-          "roteiro": "",
-          "odds": "",
-          "link": "",
-          "obs": "",
-          "status": "pendente"
-        }
-      ],
-      "g044": [
-        {
-          "type": "Story",
-          "delivery_num": 6,
+          "delivery_num": 3,
           "ideal_time": "",
           "roteiro": "",
           "odds": "",
@@ -1386,6 +1374,18 @@
           "type": "Story",
           "delivery_num": 5,
           "ideal_time": "10:00",
+          "roteiro": "Special Bets",
+          "odds": "TBD",
+          "link": "",
+          "obs": "Para o jogo em questão, teremos uma Special Bets. O bilhete será enviado 1 dia antes do jogo, junto de uma arte pronta para ser postada, caso prefira.",
+          "status": "pendente"
+        }
+      ],
+      "g046": [
+        {
+          "type": "Story",
+          "delivery_num": 6,
+          "ideal_time": "16:00",
           "roteiro": "Special Bets",
           "odds": "TBD",
           "link": "",
@@ -1543,11 +1543,11 @@
         {
           "type": "Story",
           "delivery_num": 13,
-          "ideal_time": "",
-          "roteiro": "",
-          "odds": "",
+          "ideal_time": "17:00",
+          "roteiro": "Special Bets",
+          "odds": "TBD",
           "link": "",
-          "obs": "",
+          "obs": "Para o jogo em questão, teremos uma Special Bets. O bilhete será enviado 1 dia antes do jogo, junto de uma arte pronta para ser postada, caso prefira.",
           "status": "pendente"
         }
       ],
@@ -1676,7 +1676,7 @@
       "g003": [
         {
           "type": "Story",
-          "delivery_num": 2,
+          "delivery_num": 4,
           "ideal_time": "",
           "roteiro": "",
           "odds": "",
@@ -1688,7 +1688,7 @@
       "g004": [
         {
           "type": "Story",
-          "delivery_num": 3,
+          "delivery_num": 6,
           "ideal_time": "",
           "roteiro": "",
           "odds": "",
@@ -1700,7 +1700,7 @@
       "g010": [
         {
           "type": "Story",
-          "delivery_num": 4,
+          "delivery_num": 5,
           "ideal_time": "",
           "roteiro": "",
           "odds": "",
@@ -1712,7 +1712,7 @@
       "g016": [
         {
           "type": "Story",
-          "delivery_num": 5,
+          "delivery_num": 2,
           "ideal_time": "11:00",
           "roteiro": "Special Bets",
           "odds": "TBD",
@@ -1724,52 +1724,28 @@
       "g037": [
         {
           "type": "Story",
-          "delivery_num": 6,
-          "ideal_time": "",
-          "roteiro": "",
-          "odds": "",
+          "delivery_num": 8,
+          "ideal_time": "15:00",
+          "roteiro": "Special Bets",
+          "odds": "TBD",
           "link": "",
-          "obs": "",
+          "obs": "Para o jogo em questão, teremos uma Special Bets. O bilhete será enviado 1 dia antes do jogo, junto de uma arte pronta para ser postada, caso prefira.",
           "status": "pendente"
         }
       ],
       "g042": [
         {
           "type": "Story",
-          "delivery_num": 7,
-          "ideal_time": "",
-          "roteiro": "",
-          "odds": "",
+          "delivery_num": 9,
+          "ideal_time": "13:00",
+          "roteiro": "Special Bets",
+          "odds": "TBD",
           "link": "",
-          "obs": "",
+          "obs": "Para o jogo em questão, teremos uma Special Bets. O bilhete será enviado 1 dia antes do jogo, junto de uma arte pronta para ser postada, caso prefira.",
           "status": "pendente"
         }
       ],
       "g049": [
-        {
-          "type": "Story",
-          "delivery_num": 8,
-          "ideal_time": "",
-          "roteiro": "",
-          "odds": "",
-          "link": "",
-          "obs": "",
-          "status": "pendente"
-        }
-      ],
-      "g053": [
-        {
-          "type": "Story",
-          "delivery_num": 9,
-          "ideal_time": "",
-          "roteiro": "",
-          "odds": "",
-          "link": "",
-          "obs": "",
-          "status": "pendente"
-        }
-      ],
-      "g056": [
         {
           "type": "Story",
           "delivery_num": 10,
@@ -1781,7 +1757,7 @@
           "status": "pendente"
         }
       ],
-      "g058": [
+      "g053": [
         {
           "type": "Story",
           "delivery_num": 11,
@@ -1793,7 +1769,7 @@
           "status": "pendente"
         }
       ],
-      "g059": [
+      "g056": [
         {
           "type": "Story",
           "delivery_num": 12,
@@ -1805,7 +1781,7 @@
           "status": "pendente"
         }
       ],
-      "g060": [
+      "g058": [
         {
           "type": "Story",
           "delivery_num": 13,
@@ -1817,7 +1793,7 @@
           "status": "pendente"
         }
       ],
-      "g061": [
+      "g059": [
         {
           "type": "Story",
           "delivery_num": 14,
@@ -1829,7 +1805,7 @@
           "status": "pendente"
         }
       ],
-      "g062": [
+      "g060": [
         {
           "type": "Story",
           "delivery_num": 15,
@@ -1841,7 +1817,7 @@
           "status": "pendente"
         }
       ],
-      "g063": [
+      "g061": [
         {
           "type": "Story",
           "delivery_num": 16,
@@ -1853,10 +1829,34 @@
           "status": "pendente"
         }
       ],
-      "g005": [
+      "g062": [
         {
           "type": "Story",
           "delivery_num": 17,
+          "ideal_time": "",
+          "roteiro": "",
+          "odds": "",
+          "link": "",
+          "obs": "",
+          "status": "pendente"
+        }
+      ],
+      "g063": [
+        {
+          "type": "Story",
+          "delivery_num": 18,
+          "ideal_time": "",
+          "roteiro": "",
+          "odds": "",
+          "link": "",
+          "obs": "",
+          "status": "pendente"
+        }
+      ],
+      "g005": [
+        {
+          "type": "Story",
+          "delivery_num": 3,
           "ideal_time": "10:00",
           "roteiro": "Promoção Deu Zebra - explorar a ideia da zebra, colocar um trocado, 2, 5 reais, pela magia, pelo lúdico, explorar o VAI QUE?",
           "odds": "54.0",
@@ -1868,7 +1868,7 @@
       "g033": [
         {
           "type": "Story",
-          "delivery_num": 18,
+          "delivery_num": 7,
           "ideal_time": "10:00",
           "roteiro": "Special Bets",
           "odds": "TBD",
@@ -1906,7 +1906,7 @@
       "g003": [
         {
           "type": "Story",
-          "delivery_num": 3,
+          "delivery_num": 6,
           "ideal_time": "",
           "roteiro": "",
           "odds": "",
@@ -1918,7 +1918,7 @@
       "g004": [
         {
           "type": "Story",
-          "delivery_num": 4,
+          "delivery_num": 8,
           "ideal_time": "",
           "roteiro": "",
           "odds": "",
@@ -1930,7 +1930,7 @@
       "g007": [
         {
           "type": "Story",
-          "delivery_num": 5,
+          "delivery_num": 3,
           "ideal_time": "12:00",
           "roteiro": "Special Bets",
           "odds": "TBD",
@@ -1942,7 +1942,7 @@
       "g010": [
         {
           "type": "Story",
-          "delivery_num": 6,
+          "delivery_num": 7,
           "ideal_time": "",
           "roteiro": "",
           "odds": "",
@@ -1954,7 +1954,7 @@
       "g026": [
         {
           "type": "Story",
-          "delivery_num": 7,
+          "delivery_num": 9,
           "ideal_time": "",
           "roteiro": "",
           "odds": "",
@@ -1966,64 +1966,28 @@
       "g038": [
         {
           "type": "Story",
-          "delivery_num": 8,
-          "ideal_time": "",
-          "roteiro": "",
-          "odds": "",
+          "delivery_num": 11,
+          "ideal_time": "19:00",
+          "roteiro": "Special Bets",
+          "odds": "TBD",
           "link": "",
-          "obs": "",
+          "obs": "Para o jogo em questão, teremos uma Special Bets. O bilhete será enviado 1 dia antes do jogo, junto de uma arte pronta para ser postada, caso prefira.",
           "status": "pendente"
         }
       ],
       "g041": [
         {
           "type": "Story",
-          "delivery_num": 9,
-          "ideal_time": "",
-          "roteiro": "",
-          "odds": "",
+          "delivery_num": 12,
+          "ideal_time": "14:00",
+          "roteiro": "Special Bets",
+          "odds": "TBD",
           "link": "",
-          "obs": "",
+          "obs": "Para o jogo em questão, teremos uma Special Bets. O bilhete será enviado 1 dia antes do jogo, junto de uma arte pronta para ser postada, caso prefira.",
           "status": "pendente"
         }
       ],
       "g050": [
-        {
-          "type": "Story",
-          "delivery_num": 10,
-          "ideal_time": "",
-          "roteiro": "",
-          "odds": "",
-          "link": "",
-          "obs": "",
-          "status": "pendente"
-        }
-      ],
-      "g054": [
-        {
-          "type": "Story",
-          "delivery_num": 11,
-          "ideal_time": "",
-          "roteiro": "",
-          "odds": "",
-          "link": "",
-          "obs": "",
-          "status": "pendente"
-        }
-      ],
-      "g057": [
-        {
-          "type": "Story",
-          "delivery_num": 12,
-          "ideal_time": "",
-          "roteiro": "",
-          "odds": "",
-          "link": "",
-          "obs": "",
-          "status": "pendente"
-        }
-      ],
-      "g058": [
         {
           "type": "Story",
           "delivery_num": 13,
@@ -2035,7 +1999,7 @@
           "status": "pendente"
         }
       ],
-      "g060": [
+      "g054": [
         {
           "type": "Story",
           "delivery_num": 14,
@@ -2047,7 +2011,7 @@
           "status": "pendente"
         }
       ],
-      "g061": [
+      "g057": [
         {
           "type": "Story",
           "delivery_num": 15,
@@ -2059,7 +2023,7 @@
           "status": "pendente"
         }
       ],
-      "g062": [
+      "g058": [
         {
           "type": "Story",
           "delivery_num": 16,
@@ -2071,7 +2035,7 @@
           "status": "pendente"
         }
       ],
-      "g063": [
+      "g060": [
         {
           "type": "Story",
           "delivery_num": 17,
@@ -2083,10 +2047,46 @@
           "status": "pendente"
         }
       ],
-      "g065": [
+      "g061": [
         {
           "type": "Story",
           "delivery_num": 18,
+          "ideal_time": "",
+          "roteiro": "",
+          "odds": "",
+          "link": "",
+          "obs": "",
+          "status": "pendente"
+        }
+      ],
+      "g062": [
+        {
+          "type": "Story",
+          "delivery_num": 19,
+          "ideal_time": "",
+          "roteiro": "",
+          "odds": "",
+          "link": "",
+          "obs": "",
+          "status": "pendente"
+        }
+      ],
+      "g063": [
+        {
+          "type": "Story",
+          "delivery_num": 20,
+          "ideal_time": "",
+          "roteiro": "",
+          "odds": "",
+          "link": "",
+          "obs": "",
+          "status": "pendente"
+        }
+      ],
+      "g065": [
+        {
+          "type": "Story",
+          "delivery_num": 4,
           "ideal_time": "15:00",
           "roteiro": "Promoção Deu Zebra - explorar a ideia da zebra, colocar um trocado, 2, 5 reais, só pela magia, pelo lúdico, explorar o VAI QUE?",
           "odds": "14.5",
@@ -2098,7 +2098,7 @@
       "g008": [
         {
           "type": "Story",
-          "delivery_num": 19,
+          "delivery_num": 5,
           "ideal_time": "18:00",
           "roteiro": "Special Bets",
           "odds": "TBD",
@@ -2110,7 +2110,7 @@
       "g033": [
         {
           "type": "Story",
-          "delivery_num": 20,
+          "delivery_num": 10,
           "ideal_time": "10:00",
           "roteiro": "Special Bets",
           "odds": "TBD",
@@ -2136,7 +2136,7 @@
       "g002": [
         {
           "type": "Story",
-          "delivery_num": 2,
+          "delivery_num": 3,
           "ideal_time": "12:00",
           "roteiro": "Special Bets",
           "odds": "TBD",
@@ -2148,7 +2148,7 @@
       "g003": [
         {
           "type": "Story",
-          "delivery_num": 3,
+          "delivery_num": 6,
           "ideal_time": "",
           "roteiro": "",
           "odds": "",
@@ -2160,7 +2160,7 @@
       "g004": [
         {
           "type": "Story",
-          "delivery_num": 4,
+          "delivery_num": 9,
           "ideal_time": "",
           "roteiro": "",
           "odds": "",
@@ -2172,7 +2172,7 @@
       "g009": [
         {
           "type": "Story",
-          "delivery_num": 5,
+          "delivery_num": 4,
           "ideal_time": "",
           "roteiro": "",
           "odds": "",
@@ -2184,7 +2184,7 @@
       "g011": [
         {
           "type": "Story",
-          "delivery_num": 6,
+          "delivery_num": 7,
           "ideal_time": "",
           "roteiro": "",
           "odds": "",
@@ -2196,42 +2196,6 @@
       "g026": [
         {
           "type": "Story",
-          "delivery_num": 7,
-          "ideal_time": "",
-          "roteiro": "",
-          "odds": "",
-          "link": "",
-          "obs": "",
-          "status": "pendente"
-        }
-      ],
-      "g039": [
-        {
-          "type": "Story",
-          "delivery_num": 8,
-          "ideal_time": "18:00",
-          "roteiro": "Special Bets",
-          "odds": "TBD",
-          "link": "",
-          "obs": "Para o jogo em questão, teremos uma Special Bets. O bilhete será enviado 1 dia antes do jogo, junto de uma arte pronta para ser postada, caso prefira.",
-          "status": "pendente"
-        }
-      ],
-      "g040": [
-        {
-          "type": "Story",
-          "delivery_num": 9,
-          "ideal_time": "",
-          "roteiro": "",
-          "odds": "",
-          "link": "",
-          "obs": "",
-          "status": "pendente"
-        }
-      ],
-      "g051": [
-        {
-          "type": "Story",
           "delivery_num": 10,
           "ideal_time": "",
           "roteiro": "",
@@ -2241,43 +2205,19 @@
           "status": "pendente"
         }
       ],
-      "g055": [
-        {
-          "type": "Story",
-          "delivery_num": 11,
-          "ideal_time": "",
-          "roteiro": "",
-          "odds": "",
-          "link": "",
-          "obs": "",
-          "status": "pendente"
-        }
-      ],
-      "g056": [
-        {
-          "type": "Story",
-          "delivery_num": 12,
-          "ideal_time": "",
-          "roteiro": "",
-          "odds": "",
-          "link": "",
-          "obs": "",
-          "status": "pendente"
-        }
-      ],
-      "g059": [
+      "g040": [
         {
           "type": "Story",
           "delivery_num": 13,
-          "ideal_time": "",
-          "roteiro": "",
-          "odds": "",
+          "ideal_time": "10:00",
+          "roteiro": "Special Bets",
+          "odds": "TBD",
           "link": "",
-          "obs": "",
+          "obs": "Para o jogo em questão, teremos uma Special Bets. O bilhete será enviado 1 dia antes do jogo, junto de uma arte pronta para ser postada, caso prefira.",
           "status": "pendente"
         }
       ],
-      "g060": [
+      "g051": [
         {
           "type": "Story",
           "delivery_num": 14,
@@ -2289,7 +2229,7 @@
           "status": "pendente"
         }
       ],
-      "g061": [
+      "g055": [
         {
           "type": "Story",
           "delivery_num": 15,
@@ -2301,7 +2241,7 @@
           "status": "pendente"
         }
       ],
-      "g062": [
+      "g056": [
         {
           "type": "Story",
           "delivery_num": 16,
@@ -2313,7 +2253,7 @@
           "status": "pendente"
         }
       ],
-      "g063": [
+      "g059": [
         {
           "type": "Story",
           "delivery_num": 17,
@@ -2325,10 +2265,58 @@
           "status": "pendente"
         }
       ],
-      "g064": [
+      "g060": [
         {
           "type": "Story",
           "delivery_num": 18,
+          "ideal_time": "",
+          "roteiro": "",
+          "odds": "",
+          "link": "",
+          "obs": "",
+          "status": "pendente"
+        }
+      ],
+      "g061": [
+        {
+          "type": "Story",
+          "delivery_num": 19,
+          "ideal_time": "",
+          "roteiro": "",
+          "odds": "",
+          "link": "",
+          "obs": "",
+          "status": "pendente"
+        }
+      ],
+      "g062": [
+        {
+          "type": "Story",
+          "delivery_num": 20,
+          "ideal_time": "",
+          "roteiro": "",
+          "odds": "",
+          "link": "",
+          "obs": "",
+          "status": "pendente"
+        }
+      ],
+      "g063": [
+        {
+          "type": "Story",
+          "delivery_num": 21,
+          "ideal_time": "",
+          "roteiro": "",
+          "odds": "",
+          "link": "",
+          "obs": "",
+          "status": "pendente"
+        }
+      ],
+      "g064": [
+        {
+          "type": "Story",
+          "delivery_num": 2,
           "ideal_time": "18:00",
           "roteiro": "Special Bets",
           "odds": "TBD",
@@ -2340,7 +2328,7 @@
       "g024": [
         {
           "type": "Story",
-          "delivery_num": 19,
+          "delivery_num": 8,
           "ideal_time": "12:00",
           "roteiro": "Promoção Deu Zebra - explorar a ideia da zebra, colocar um trocado, 2, 5 reais, só pela magia, pelo lúdico, explorar o VAI QUE?",
           "odds": "10.0",
@@ -2352,7 +2340,7 @@
       "g018": [
         {
           "type": "Story",
-          "delivery_num": 20,
+          "delivery_num": 5,
           "ideal_time": "10:00",
           "roteiro": "Promoção Deu Zebra - explorar a ideia da zebra, colocar um trocado, 2, 5 reais, só pela magia, pelo lúdico, explorar o VAI QUE?",
           "odds": "12.0",
@@ -2364,8 +2352,20 @@
       "g033": [
         {
           "type": "Story",
-          "delivery_num": 21,
+          "delivery_num": 11,
           "ideal_time": "10:00",
+          "roteiro": "Special Bets",
+          "odds": "TBD",
+          "link": "",
+          "obs": "Para o jogo em questão, teremos uma Special Bets. O bilhete será enviado 1 dia antes do jogo, junto de uma arte pronta para ser postada, caso prefira.",
+          "status": "pendente"
+        }
+      ],
+      "g036": [
+        {
+          "type": "Story",
+          "delivery_num": 12,
+          "ideal_time": "11:00",
           "roteiro": "Special Bets",
           "odds": "TBD",
           "link": "",
@@ -2390,7 +2390,7 @@
       "g003": [
         {
           "type": "Story",
-          "delivery_num": 2,
+          "delivery_num": 4,
           "ideal_time": "",
           "roteiro": "",
           "odds": "",
@@ -2402,7 +2402,7 @@
       "g004": [
         {
           "type": "Story",
-          "delivery_num": 3,
+          "delivery_num": 5,
           "ideal_time": "",
           "roteiro": "",
           "odds": "",
@@ -2414,7 +2414,7 @@
       "g006": [
         {
           "type": "Story",
-          "delivery_num": 4,
+          "delivery_num": 2,
           "ideal_time": "09:00",
           "roteiro": "Promoção Deu Zebra - explorar a ideia da zebra, colocar um trocado, 2, 5 reais, só pela magia, pelo lúdico, explorar o VAI QUE?",
           "odds": "30.0",
@@ -2426,7 +2426,7 @@
       "g017": [
         {
           "type": "Story",
-          "delivery_num": 5,
+          "delivery_num": 3,
           "ideal_time": "11:00",
           "roteiro": "Special Bets",
           "odds": "TBD",
@@ -2435,11 +2435,11 @@
           "status": "entregue"
         }
       ],
-      "g032": [
+      "g047": [
         {
           "type": "Story",
-          "delivery_num": 6,
-          "ideal_time": "13:00",
+          "delivery_num": 8,
+          "ideal_time": "19:30",
           "roteiro": "Special Bets",
           "odds": "TBD",
           "link": "",
@@ -2447,31 +2447,7 @@
           "status": "pendente"
         }
       ],
-      "g047": [
-        {
-          "type": "Story",
-          "delivery_num": 7,
-          "ideal_time": "",
-          "roteiro": "",
-          "odds": "",
-          "link": "",
-          "obs": "",
-          "status": "pendente"
-        }
-      ],
       "g048": [
-        {
-          "type": "Story",
-          "delivery_num": 8,
-          "ideal_time": "",
-          "roteiro": "",
-          "odds": "",
-          "link": "",
-          "obs": "",
-          "status": "pendente"
-        }
-      ],
-      "g052": [
         {
           "type": "Story",
           "delivery_num": 9,
@@ -2483,7 +2459,7 @@
           "status": "pendente"
         }
       ],
-      "g056": [
+      "g052": [
         {
           "type": "Story",
           "delivery_num": 10,
@@ -2495,7 +2471,7 @@
           "status": "pendente"
         }
       ],
-      "g057": [
+      "g056": [
         {
           "type": "Story",
           "delivery_num": 11,
@@ -2507,7 +2483,7 @@
           "status": "pendente"
         }
       ],
-      "g058": [
+      "g057": [
         {
           "type": "Story",
           "delivery_num": 12,
@@ -2519,7 +2495,7 @@
           "status": "pendente"
         }
       ],
-      "g060": [
+      "g058": [
         {
           "type": "Story",
           "delivery_num": 13,
@@ -2531,7 +2507,7 @@
           "status": "pendente"
         }
       ],
-      "g061": [
+      "g060": [
         {
           "type": "Story",
           "delivery_num": 14,
@@ -2543,7 +2519,7 @@
           "status": "pendente"
         }
       ],
-      "g062": [
+      "g061": [
         {
           "type": "Story",
           "delivery_num": 15,
@@ -2555,7 +2531,7 @@
           "status": "pendente"
         }
       ],
-      "g063": [
+      "g062": [
         {
           "type": "Story",
           "delivery_num": 16,
@@ -2567,11 +2543,35 @@
           "status": "pendente"
         }
       ],
-      "g033": [
+      "g063": [
         {
           "type": "Story",
           "delivery_num": 17,
+          "ideal_time": "",
+          "roteiro": "",
+          "odds": "",
+          "link": "",
+          "obs": "",
+          "status": "pendente"
+        }
+      ],
+      "g033": [
+        {
+          "type": "Story",
+          "delivery_num": 6,
           "ideal_time": "10:00",
+          "roteiro": "Special Bets",
+          "odds": "TBD",
+          "link": "",
+          "obs": "Para o jogo em questão, teremos uma Special Bets. O bilhete será enviado 1 dia antes do jogo, junto de uma arte pronta para ser postada, caso prefira.",
+          "status": "pendente"
+        }
+      ],
+      "g037": [
+        {
+          "type": "Story",
+          "delivery_num": 7,
+          "ideal_time": "15:00",
           "roteiro": "Special Bets",
           "odds": "TBD",
           "link": "",
@@ -2596,7 +2596,7 @@
       "g002": [
         {
           "type": "Story",
-          "delivery_num": 2,
+          "delivery_num": 3,
           "ideal_time": "",
           "roteiro": "",
           "odds": "",
@@ -2608,7 +2608,7 @@
       "g003": [
         {
           "type": "Story",
-          "delivery_num": 3,
+          "delivery_num": 6,
           "ideal_time": "",
           "roteiro": "",
           "odds": "",
@@ -2620,7 +2620,7 @@
       "g004": [
         {
           "type": "Story",
-          "delivery_num": 4,
+          "delivery_num": 9,
           "ideal_time": "",
           "roteiro": "",
           "odds": "",
@@ -2632,7 +2632,7 @@
       "g005": [
         {
           "type": "Story",
-          "delivery_num": 5,
+          "delivery_num": 4,
           "ideal_time": "10:00",
           "roteiro": "Promoção Deu Zebra - explorar a ideia da zebra, colocar um trocado, 2, 5 reais, pela magia, pelo lúdico, explorar o VAI QUE?",
           "odds": "54.0",
@@ -2644,7 +2644,7 @@
       "g010": [
         {
           "type": "Story",
-          "delivery_num": 6,
+          "delivery_num": 7,
           "ideal_time": "",
           "roteiro": "",
           "odds": "",
@@ -2656,7 +2656,7 @@
       "g033": [
         {
           "type": "Story",
-          "delivery_num": 7,
+          "delivery_num": 10,
           "ideal_time": "10:00",
           "roteiro": "Special Bets",
           "odds": "TBD",
@@ -2668,52 +2668,16 @@
       "g046": [
         {
           "type": "Story",
-          "delivery_num": 8,
-          "ideal_time": "",
-          "roteiro": "",
-          "odds": "",
+          "delivery_num": 11,
+          "ideal_time": "16:00",
+          "roteiro": "Special Bets",
+          "odds": "TBD",
           "link": "",
-          "obs": "",
+          "obs": "Para o jogo em questão, teremos uma Special Bets. O bilhete será enviado 1 dia antes do jogo, junto de uma arte pronta para ser postada, caso prefira.",
           "status": "pendente"
         }
       ],
       "g049": [
-        {
-          "type": "Story",
-          "delivery_num": 9,
-          "ideal_time": "",
-          "roteiro": "",
-          "odds": "",
-          "link": "",
-          "obs": "",
-          "status": "pendente"
-        }
-      ],
-      "g053": [
-        {
-          "type": "Story",
-          "delivery_num": 10,
-          "ideal_time": "",
-          "roteiro": "",
-          "odds": "",
-          "link": "",
-          "obs": "",
-          "status": "pendente"
-        }
-      ],
-      "g056": [
-        {
-          "type": "Story",
-          "delivery_num": 11,
-          "ideal_time": "",
-          "roteiro": "",
-          "odds": "",
-          "link": "",
-          "obs": "",
-          "status": "pendente"
-        }
-      ],
-      "g059": [
         {
           "type": "Story",
           "delivery_num": 12,
@@ -2725,7 +2689,7 @@
           "status": "pendente"
         }
       ],
-      "g060": [
+      "g053": [
         {
           "type": "Story",
           "delivery_num": 13,
@@ -2737,7 +2701,7 @@
           "status": "pendente"
         }
       ],
-      "g061": [
+      "g056": [
         {
           "type": "Story",
           "delivery_num": 14,
@@ -2749,7 +2713,7 @@
           "status": "pendente"
         }
       ],
-      "g062": [
+      "g059": [
         {
           "type": "Story",
           "delivery_num": 15,
@@ -2761,7 +2725,7 @@
           "status": "pendente"
         }
       ],
-      "g063": [
+      "g060": [
         {
           "type": "Story",
           "delivery_num": 16,
@@ -2773,10 +2737,46 @@
           "status": "pendente"
         }
       ],
-      "g064": [
+      "g061": [
         {
           "type": "Story",
           "delivery_num": 17,
+          "ideal_time": "",
+          "roteiro": "",
+          "odds": "",
+          "link": "",
+          "obs": "",
+          "status": "pendente"
+        }
+      ],
+      "g062": [
+        {
+          "type": "Story",
+          "delivery_num": 18,
+          "ideal_time": "",
+          "roteiro": "",
+          "odds": "",
+          "link": "",
+          "obs": "",
+          "status": "pendente"
+        }
+      ],
+      "g063": [
+        {
+          "type": "Story",
+          "delivery_num": 19,
+          "ideal_time": "",
+          "roteiro": "",
+          "odds": "",
+          "link": "",
+          "obs": "",
+          "status": "pendente"
+        }
+      ],
+      "g064": [
+        {
+          "type": "Story",
+          "delivery_num": 2,
           "ideal_time": "18:00",
           "roteiro": "Special Bets",
           "odds": "TBD",
@@ -2788,7 +2788,7 @@
       "g024": [
         {
           "type": "Story",
-          "delivery_num": 18,
+          "delivery_num": 8,
           "ideal_time": "12:00",
           "roteiro": "Promoção Deu Zebra - explorar a ideia da zebra, colocar um trocado, 2, 5 reais, só pela magia, pelo lúdico, explorar o VAI QUE?",
           "odds": "10.0",
@@ -2800,7 +2800,7 @@
       "g016": [
         {
           "type": "Story",
-          "delivery_num": 19,
+          "delivery_num": 5,
           "ideal_time": "11:00",
           "roteiro": "Special Bets",
           "odds": "TBD",
@@ -2838,7 +2838,7 @@
       "g003": [
         {
           "type": "Story",
-          "delivery_num": 3,
+          "delivery_num": 7,
           "ideal_time": "",
           "roteiro": "",
           "odds": "",
@@ -2850,7 +2850,7 @@
       "g004": [
         {
           "type": "Story",
-          "delivery_num": 4,
+          "delivery_num": 9,
           "ideal_time": "",
           "roteiro": "",
           "odds": "",
@@ -2862,7 +2862,7 @@
       "g005": [
         {
           "type": "Story",
-          "delivery_num": 5,
+          "delivery_num": 3,
           "ideal_time": "10:00",
           "roteiro": "Promoção Deu Zebra - explorar a ideia da zebra, colocar um trocado, 2, 5 reais, pela magia, pelo lúdico, explorar o VAI QUE?",
           "odds": "54.0",
@@ -2874,7 +2874,7 @@
       "g009": [
         {
           "type": "Story",
-          "delivery_num": 6,
+          "delivery_num": 5,
           "ideal_time": "",
           "roteiro": "",
           "odds": "",
@@ -2886,18 +2886,6 @@
       "g011": [
         {
           "type": "Story",
-          "delivery_num": 7,
-          "ideal_time": "",
-          "roteiro": "",
-          "odds": "",
-          "link": "",
-          "obs": "",
-          "status": "pendente"
-        }
-      ],
-      "g026": [
-        {
-          "type": "Story",
           "delivery_num": 8,
           "ideal_time": "",
           "roteiro": "",
@@ -2907,7 +2895,7 @@
           "status": "pendente"
         }
       ],
-      "g044": [
+      "g026": [
         {
           "type": "Story",
           "delivery_num": 10,
@@ -2922,7 +2910,7 @@
       "g050": [
         {
           "type": "Story",
-          "delivery_num": 11,
+          "delivery_num": 13,
           "ideal_time": "",
           "roteiro": "",
           "odds": "",
@@ -2934,7 +2922,7 @@
       "g054": [
         {
           "type": "Story",
-          "delivery_num": 12,
+          "delivery_num": 14,
           "ideal_time": "",
           "roteiro": "",
           "odds": "",
@@ -2946,7 +2934,7 @@
       "g056": [
         {
           "type": "Story",
-          "delivery_num": 13,
+          "delivery_num": 15,
           "ideal_time": "",
           "roteiro": "",
           "odds": "",
@@ -2958,7 +2946,7 @@
       "g059": [
         {
           "type": "Story",
-          "delivery_num": 14,
+          "delivery_num": 16,
           "ideal_time": "",
           "roteiro": "",
           "odds": "",
@@ -2970,7 +2958,7 @@
       "g060": [
         {
           "type": "Story",
-          "delivery_num": 15,
+          "delivery_num": 17,
           "ideal_time": "",
           "roteiro": "",
           "odds": "",
@@ -2982,7 +2970,7 @@
       "g061": [
         {
           "type": "Story",
-          "delivery_num": 16,
+          "delivery_num": 18,
           "ideal_time": "",
           "roteiro": "",
           "odds": "",
@@ -2994,7 +2982,7 @@
       "g062": [
         {
           "type": "Story",
-          "delivery_num": 17,
+          "delivery_num": 19,
           "ideal_time": "",
           "roteiro": "",
           "odds": "",
@@ -3006,7 +2994,7 @@
       "g063": [
         {
           "type": "Story",
-          "delivery_num": 18,
+          "delivery_num": 20,
           "ideal_time": "",
           "roteiro": "",
           "odds": "",
@@ -3018,7 +3006,7 @@
       "g016": [
         {
           "type": "Story",
-          "delivery_num": 19,
+          "delivery_num": 4,
           "ideal_time": "11:00",
           "roteiro": "Special Bets",
           "odds": "TBD",
@@ -3030,7 +3018,7 @@
       "g018": [
         {
           "type": "Story",
-          "delivery_num": 20,
+          "delivery_num": 6,
           "ideal_time": "10:00",
           "roteiro": "Promoção Deu Zebra - explorar a ideia da zebra, colocar um trocado, 2, 5 reais, só pela magia, pelo lúdico, explorar o VAI QUE?",
           "odds": "12.0",
@@ -3042,8 +3030,20 @@
       "g033": [
         {
           "type": "Story",
-          "delivery_num": 9,
+          "delivery_num": 11,
           "ideal_time": "10:00",
+          "roteiro": "Special Bets",
+          "odds": "TBD",
+          "link": "",
+          "obs": "Para o jogo em questão, teremos uma Special Bets. O bilhete será enviado 1 dia antes do jogo, junto de uma arte pronta para ser postada, caso prefira.",
+          "status": "pendente"
+        }
+      ],
+      "g046": [
+        {
+          "type": "Story",
+          "delivery_num": 12,
+          "ideal_time": "16:00",
           "roteiro": "Special Bets",
           "odds": "TBD",
           "link": "",
@@ -3176,8 +3176,8 @@
       "g036": [
         {
           "type": "Story",
-          "delivery_num": 11,
-          "ideal_time": "10:00",
+          "delivery_num": 12,
+          "ideal_time": "11:00",
           "roteiro": "Special Bets",
           "odds": "TBD",
           "link": "",
@@ -3188,8 +3188,8 @@
       "g042": [
         {
           "type": "Story",
-          "delivery_num": 12,
-          "ideal_time": "10:00",
+          "delivery_num": 13,
+          "ideal_time": "13:00",
           "roteiro": "Special Bets",
           "odds": "TBD",
           "link": "",
@@ -3198,18 +3198,6 @@
         }
       ],
       "g050": [
-        {
-          "type": "Story",
-          "delivery_num": 13,
-          "ideal_time": "10:00",
-          "roteiro": "Special Bets",
-          "odds": "TBD",
-          "link": "",
-          "obs": "Para o jogo em questão, teremos uma Special Bets. O bilhete será enviado 1 dia antes do jogo, junto de uma arte pronta para ser postada, caso prefira.",
-          "status": "pendente"
-        }
-      ],
-      "g054": [
         {
           "type": "Story",
           "delivery_num": 14,
@@ -3221,7 +3209,7 @@
           "status": "pendente"
         }
       ],
-      "g056": [
+      "g054": [
         {
           "type": "Story",
           "delivery_num": 15,
@@ -3233,7 +3221,7 @@
           "status": "pendente"
         }
       ],
-      "g058": [
+      "g056": [
         {
           "type": "Story",
           "delivery_num": 16,
@@ -3245,7 +3233,7 @@
           "status": "pendente"
         }
       ],
-      "g060": [
+      "g058": [
         {
           "type": "Story",
           "delivery_num": 17,
@@ -3257,7 +3245,7 @@
           "status": "pendente"
         }
       ],
-      "g061": [
+      "g060": [
         {
           "type": "Story",
           "delivery_num": 18,
@@ -3269,7 +3257,7 @@
           "status": "pendente"
         }
       ],
-      "g062": [
+      "g061": [
         {
           "type": "Story",
           "delivery_num": 19,
@@ -3281,7 +3269,7 @@
           "status": "pendente"
         }
       ],
-      "g063": [
+      "g062": [
         {
           "type": "Story",
           "delivery_num": 20,
@@ -3293,10 +3281,22 @@
           "status": "pendente"
         }
       ],
-      "g033": [
+      "g063": [
         {
           "type": "Story",
           "delivery_num": 21,
+          "ideal_time": "10:00",
+          "roteiro": "Special Bets",
+          "odds": "TBD",
+          "link": "",
+          "obs": "Para o jogo em questão, teremos uma Special Bets. O bilhete será enviado 1 dia antes do jogo, junto de uma arte pronta para ser postada, caso prefira.",
+          "status": "pendente"
+        }
+      ],
+      "g033": [
+        {
+          "type": "Story",
+          "delivery_num": 11,
           "ideal_time": "10:00",
           "roteiro": "Special Bets",
           "odds": "TBD",
