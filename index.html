@@ -641,6 +641,39 @@ body{font-family:var(--fb);background:var(--bg);color:var(--w);min-height:100vh;
 let INFLUENCERS=[], GAMES=[], _B={}, D={};
 function s(n){return{type:"Story",delivery_num:n,ideal_time:"",roteiro:"",odds:"",link:"",obs:"",status:"pendente"};}
 
+// ── Supabase: fonte de verdade das entregas (status/obs), sincronizada entre dispositivos ──
+const SUPABASE_URL="https://wsovxtxotjuhcgctijwt.supabase.co";
+const SUPABASE_ANON_KEY="sb_publishable_6NWR68ulBxrE-u0l3XohJw_vi-HIZtr";
+const _slotSyncTimers={};
+async function fetchDeliveries(){
+  const res=await fetch(SUPABASE_URL+"/rest/v1/deliveries?select=slot_id,status,obs",{
+    headers:{"apikey":SUPABASE_ANON_KEY,"Authorization":"Bearer "+SUPABASE_ANON_KEY}
+  });
+  if(!res.ok) throw new Error("HTTP "+res.status);
+  return res.json();
+}
+function pushSlotUpdate(infId,gameId,slotIdx){
+  const slotId=infId+"__"+gameId+"__"+slotIdx;
+  clearTimeout(_slotSyncTimers[slotId]);
+  _slotSyncTimers[slotId]=setTimeout(async()=>{
+    const sl=(D[infId]||{})[gameId]?.[slotIdx];
+    if(!sl)return;
+    try{
+      const res=await fetch(SUPABASE_URL+"/rest/v1/deliveries?slot_id=eq."+encodeURIComponent(slotId),{
+        method:"PATCH",
+        headers:{"apikey":SUPABASE_ANON_KEY,"Authorization":"Bearer "+SUPABASE_ANON_KEY,"Content-Type":"application/json","Prefer":"return=minimal"},
+        body:JSON.stringify({status:sl.status,obs:sl.obs,updated_at:new Date().toISOString()})
+      });
+      if(!res.ok) throw new Error("HTTP "+res.status);
+      const el=document.getElementById("save-indicator");
+      if(el){const now=new Date();el.textContent="salvo às "+String(now.getHours()).padStart(2,"0")+":"+String(now.getMinutes()).padStart(2,"0");}
+    }catch(e){
+      console.error("Falha ao sincronizar com Supabase",e);
+      showToast("Não sincronizou — verifique sua internet");
+    }
+  },400);
+}
+
 function injectBriefing(){
   for(const inf in D){
     for(const gid in D[inf]){
@@ -663,42 +696,33 @@ function showToast(msg,duration=2000){
   clearTimeout(t._hide);
   t._hide=setTimeout(()=>{t.style.opacity="0";},duration);
 }
-function saveState(){
-  clearTimeout(_saveTimer);
-  _saveTimer=setTimeout(()=>{
-    try{
-      localStorage.setItem("h2bet_copa_2026_v2",JSON.stringify(D));
-      const now=new Date();
-      const hh=String(now.getHours()).padStart(2,"0");
-      const mm=String(now.getMinutes()).padStart(2,"0");
-      const el=document.getElementById("save-indicator");
-      if(el) el.textContent="salvo às "+hh+":"+mm;
-    }catch(e){
-      console.error(e);
-      showToast("Erro ao salvar — verifique o navegador");
-    }
-  },400);
+function applyDeliveryRows(rows){
+  rows.forEach(r=>{
+    const parts=r.slot_id.split("__");
+    if(parts.length!==3)return;
+    const [inf,gid,idxStr]=parts;
+    const i=parseInt(idxStr,10);
+    if(!D[inf]||!D[inf][gid]||!D[inf][gid][i])return;    // ignora influ/jogo/slot que não existem no código atual
+    if(r.status!==undefined) D[inf][gid][i].status=r.status;
+    if(r.obs   !==undefined) D[inf][gid][i].obs=r.obs;
+  });
 }
-function loadState(){
+async function loadState(){
   try{
-    const raw=localStorage.getItem("h2bet_copa_2026_v2");
-    if(!raw)return;
-    const saved=JSON.parse(raw);
-    Object.keys(saved).forEach(inf=>{
-      if(!D[inf])return;                            // ignora influenciadores desconhecidos
-      Object.keys(saved[inf]).forEach(gid=>{
-        if(!D[inf][gid])return;                    // ignora jogos que não existem no código atual
-        saved[inf][gid].forEach((sl,i)=>{
-          if(!D[inf][gid][i])return;
-          if(sl.obs    !==undefined) D[inf][gid][i].obs=sl.obs;       // só restaura campos editáveis
-          if(sl.status !==undefined) D[inf][gid][i].status=sl.status;
-        });
-      });
-    });
-  }catch(e){}
+    const rows=await fetchDeliveries();
+    applyDeliveryRows(rows);
+    localStorage.setItem("h2bet_copa_2026_v2_cache",JSON.stringify(rows));    // cache local só pra resiliência offline
+  }catch(e){
+    console.error("Falha ao buscar entregas do Supabase, usando cache local",e);
+    showToast("Sem conexão com o servidor — mostrando última cópia salva");
+    try{
+      const raw=localStorage.getItem("h2bet_copa_2026_v2_cache");
+      if(raw) applyDeliveryRows(JSON.parse(raw));
+    }catch(e2){}
+  }
 }
 
-let currentInf=null, pendingInf=null, ovMonth=6, _saveTimer;
+let currentInf=null, pendingInf=null, ovMonth=6;
 
 function init(){
   const params=new URLSearchParams(location.search);
@@ -1081,7 +1105,7 @@ function updField(gameId,slotIdx,field,value){
   const d=D[currentInf.id];
   if(d&&d[gameId]&&d[gameId][slotIdx]){
     d[gameId][slotIdx][field]=value;
-    saveState();
+    pushSlotUpdate(currentInf.id,gameId,slotIdx);
     if(field==='status') renderDash();
   }
 }
@@ -1240,7 +1264,7 @@ async function boot(){
     document.body.innerHTML='<div style="color:#fff;font-family:sans-serif;padding:48px;text-align:center;font-size:18px">Não foi possível carregar os dados do HUB. Recarregue em instantes.</div>';
     return;
   }
-  loadState(); injectBriefing(); init();
+  await loadState(); injectBriefing(); init();
 }
 boot();
 </script>
